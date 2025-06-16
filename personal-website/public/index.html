@@ -1,34 +1,188 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personal Website</title>
-    <link rel="stylesheet" href="metro-ui/metro.min.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Personal Website</title>
+  <!-- Shoelace CSS & JS (via CDN) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/themes/light.css" />
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace.js"></script>
+  <style>
+    body {
+      background: var(--sl-color-neutral-0);
+      margin: 0;
+      font-family: var(--sl-font-sans);
+    }
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    sl-card {
+      margin-bottom: 2rem;
+      display: block;
+    }
+    .branding {
+      font-size: 1.5rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      color: var(--sl-color-primary-600);
+      text-decoration: none;
+    }
+    .nav-link {
+      color: var(--sl-color-neutral-700);
+      text-decoration: none;
+      font-weight: 500;
+      margin: 0 0.5rem;
+    }
+    .nav-link:hover {
+      color: var(--sl-color-primary-600);
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      color: var(--sl-color-neutral-500);
+      margin: 2rem 0 1rem 0;
+      font-size: 0.95rem;
+    }
+    .icon {
+      vertical-align: middle;
+      margin-right: 0.3em;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Welcome to My Personal Website</h1>
-        </header>
-        <main>
-            <section id="how-to-use-this">
-                <h2>How to use this</h2>
-                <div id="howToUseThisContent"></div>
-            </section>
-            <section id="qa">
-                <h2>Q&A</h2>
-                <div id="qaContent"></div>
-            </section>
-            <section id="contacts">
-                <h2>Contacts</h2>
-                <div id="contactsContent"></div>
-            </section>
-        </main>
-        <footer>
-            <p>&copy; 2023 My Personal Website</p>
-        </footer>
-    </div>
-    <script src="../src/App.js"></script>
+  <header>
+    <nav style="background: var(--sl-color-primary-100); padding: 1rem 0;">
+      <div style="max-width: 700px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
+        <a href="#" class="branding">FetchFlashQuiz</a>
+        <div>
+          <a href="#how-to-use-this" class="nav-link">How to use this</a>
+          <a href="#qa" class="nav-link">Q&amp;A</a>
+          <a href="#contacts" class="nav-link">Contacts</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <sl-card id="how-to-use-this">
+      <h2 slot="header">How to use this</h2>
+      <ul>
+        <li>Navigate using the menu above.</li>
+        <li>Read the instructions in each section.</li>
+        <li>Contact me if you have questions!</li>
+      </ul>
+    </sl-card>
+    <sl-card id="download">
+      <h2 slot="header">Download pre made decks</h2>
+      <div>
+        <h3>Japanese</h3>
+        <ul>
+          <li>
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Japanese/N1.json" download>
+              [  N1  ]        
+            </a>
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Japanese/N2.json" download>
+              [  N2  ]        
+            </a>
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Japanese/N3.json" download>
+              [  N3  ]        
+            </a><sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Japanese/N4.json" download>
+              [  N4  ]        
+            </a><sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Japanese/N5.json" download>
+              [  N5  ]        
+            </a>
+          </li>
+        </ul>
+        <h3>German</h3>
+        <ul>
+          <li>
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/German/German A1.json" download>
+              A1 (partial eytm complete)
+            </a>
+          </li>
+        </ul>
+        <h3>Chinese</h3>
+        <ul>
+          <li>
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Chinese/hsk1.json" download>
+            [  hsk1  ]
+            </a>
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Chinese/hsk2.json" download>
+            [  hsk2  ]
+            </a>
+             <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Chinese/hsk3.json" download>
+            [  hsk3  ]
+            </a>
+             <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Chinese/hsk4.json" download>
+            [  hsk5  ]
+            </a>
+             <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Chinese/hsk5.json" download>
+            [  hsk5  ]
+            </a>
+             <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Chinese/hsk6.json" download>
+            [  hsk6  ]
+            </a>
+          </li>
+        </ul>
+        <h3>Latin</h3>
+        <ul>
+          <li>
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="../Language learning/Latin/latin_vocabs.json" download>
+             part CLA from, part from The Latin Language: A Handbook for Students, part from Oxford Latin Reader (mostly etym complete)
+            </a>
+          </li>
+        </ul>
+      </div>
+    </sl-card>
+    <sl-card id="qa">
+      <h2 slot="header">Q&amp;A</h2>
+      <dl>
+        <dt>What is this site for?</dt>
+        <dd>This is a personal demo site using Shoelace and plain JavaScript.</dd>
+        <dt>Can I use Shoelace without React?</dt>
+        <dd>Yes! Shoelace works with any framework or no framework at all.</dd>
+      </dl>
+    </sl-card>
+
+    <sl-card id="contacts">
+      <h2 slot="header">Contacts</h2>
+      <ul>
+        <li>
+          <sl-icon name="envelope" class="icon"></sl-icon>
+          Email: <a href="mailto:xming0711@gmail.com">xming0711@gmail.com</a>
+        </li>
+        <li>
+          <sl-icon name="github" class="icon"></sl-icon>
+          GitHub: <a href="https://github.com/mingx0711" target="_blank">mingx0711</a>
+        </li>
+        <li>
+          <sl-icon name="discord" class="icon"></sl-icon>
+          Discord: <a href="https://discord.com/invite/yourdiscord" target="_blank">yourdiscord</a>
+        </li>
+      </ul>
+    </sl-card>
+  </main>
+  <footer>
+    <hr style="margin-bottom: 1rem;">
+    &copy; 2025 Ming Xiao
+  </footer>
+  <script type="module">
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/icon/icon.js';
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/card/card.js';
+  </script>
 </body>
 </html>

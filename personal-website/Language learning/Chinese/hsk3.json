@@ -1,0 +1,3005 @@
+{
+  "vocabList": [
+    {
+      "book": "Chinese",
+      "definition": "modal particle ending sentence, showing affirmation, approval, or consent",
+      "gender": "",
+      "pronounciation": "a",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "啊"
+    },
+    {
+      "book": "Chinese",
+      "definition": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:个",
+      "gender": "",
+      "pronounciation": "ā yí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "阿姨"
+    },
+    {
+      "book": "Chinese",
+      "definition": "low; short (in length)",
+      "gender": "",
+      "pronounciation": "ǎi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "矮"
+    },
+    {
+      "book": "Chinese",
+      "definition": "interest; hobby; appetite for; CL:个",
+      "gender": "",
+      "pronounciation": "ài hào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "爱好"
+    },
+    {
+      "book": "Chinese",
+      "definition": "quiet; peaceful; calm",
+      "gender": "",
+      "pronounciation": "ān jìng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "安静"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to hold; to contain; to grasp; to take hold of; a handle; particle marking the following noun as a direct object; classifier for objects with handle",
+      "gender": "",
+      "pronounciation": "bǎ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "把"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to move; to shift; to remove; to transport; to apply indiscriminately; to copy mechanically",
+      "gender": "",
+      "pronounciation": "bān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "搬"
+    },
+    {
+      "book": "Chinese",
+      "definition": "team; class; squad; work shift; classifier for groups; ranking; surname Ban; CL:个",
+      "gender": "",
+      "pronounciation": "bān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "班"
+    },
+    {
+      "book": "Chinese",
+      "definition": "means; method; way (of doing sth); CL:条[tiao2] ,个",
+      "gender": "",
+      "pronounciation": "bàn fǎ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "办法"
+    },
+    {
+      "book": "Chinese",
+      "definition": "an office; business premises; a bureau; CL:间[jian1]",
+      "gender": "",
+      "pronounciation": "bàn gōng shì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "办公室"
+    },
+    {
+      "book": "Chinese",
+      "definition": "half; semi-; incomplete; (after a number) and a half",
+      "gender": "",
+      "pronounciation": "bàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "半"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to help; to lend a hand; to do a favor; to do a good turn",
+      "gender": "",
+      "pronounciation": "bāng máng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "帮忙"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to cover; to wrap; to hold; to include; to take charge of; package; wrapper; container; bag; to hold or embrace; bundle; packet; to contract (to or for); surname Bao; CL:个,只[zhi1]",
+      "gender": "",
+      "pronounciation": "bāo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "包"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to eat till full; satisfied",
+      "gender": "",
+      "pronounciation": "bǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "饱"
+    },
+    {
+      "book": "Chinese",
+      "definition": "north; the northern part a country; China north of the Yellow River",
+      "gender": "",
+      "pronounciation": "běi fāng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "北方"
+    },
+    {
+      "book": "Chinese",
+      "definition": "by (indicates passive-voice sentences or clauses); quilt; to cover (literary)",
+      "gender": "",
+      "pronounciation": "bèi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "被"
+    },
+    {
+      "book": "Chinese",
+      "definition": "nose; CL:个,只[zhi1]",
+      "gender": "",
+      "pronounciation": "bí zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "鼻子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "compare; contrast; fairly; comparatively; relatively; quite; rather",
+      "gender": "",
+      "pronounciation": "bǐ jiào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "比较"
+    },
+    {
+      "book": "Chinese",
+      "definition": "competition (sports etc); match; CL:场[chang3] ,次[ci4]",
+      "gender": "",
+      "pronounciation": "bǐ sài",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "比赛"
+    },
+    {
+      "book": "Chinese",
+      "definition": "notebook; CL:本[ben3]",
+      "gender": "",
+      "pronounciation": "bǐ jì běn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "笔记本"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to have to; must; compulsory; necessarily",
+      "gender": "",
+      "pronounciation": "bì xū",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "必须"
+    },
+    {
+      "book": "Chinese",
+      "definition": "change; variation; to change; to vary; CL:个",
+      "gender": "",
+      "pronounciation": "biàn huà",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "变化"
+    },
+    {
+      "book": "Chinese",
+      "definition": "others",
+      "gender": "",
+      "pronounciation": "bié rén",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "别人"
+    },
+    {
+      "book": "Chinese",
+      "definition": "icebox; freezer cabinet; refrigerator; CL:台[tai2] ,个",
+      "gender": "",
+      "pronounciation": "bīng xiāng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "冰箱"
+    },
+    {
+      "book": "Chinese",
+      "definition": "not only ... but also...",
+      "gender": "",
+      "pronounciation": "bù dàn …ér qiě …",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "不但…而且…"
+    },
+    {
+      "book": "Chinese",
+      "definition": "menu; CL:份[fen4] ,张[zhang1]",
+      "gender": "",
+      "pronounciation": "cài dān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "菜单"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to participate; to take part; to join",
+      "gender": "",
+      "pronounciation": "cān jiā",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "参加"
+    },
+    {
+      "book": "Chinese",
+      "definition": "grass; straw; manuscript; draft (of a document); careless; rough; CL:棵[ke1] ,撮[zuo3] ,株[zhu1] ,根[gen1]",
+      "gender": "",
+      "pronounciation": "cǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "草"
+    },
+    {
+      "book": "Chinese",
+      "definition": "layer; stratum; laminated; floor (of a building); storey; classifier for layers; repeated; sheaf (math.)",
+      "gender": "",
+      "pronounciation": "céng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "层"
+    },
+    {
+      "book": "Chinese",
+      "definition": "differ from; short of; to lack; poor",
+      "gender": "",
+      "pronounciation": "chà",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "差"
+    },
+    {
+      "book": "Chinese",
+      "definition": "supermarket (abbr.); CL:家[jia1]",
+      "gender": "",
+      "pronounciation": "chāo shì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "超市"
+    },
+    {
+      "book": "Chinese",
+      "definition": "shirt; blouse; CL:件[jian4]",
+      "gender": "",
+      "pronounciation": "chèn shān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "衬衫"
+    },
+    {
+      "book": "Chinese",
+      "definition": "city; town; CL:座[zuo4]",
+      "gender": "",
+      "pronounciation": "chéng shì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "城市"
+    },
+    {
+      "book": "Chinese",
+      "definition": "achievement; performance records; grades; CL:项[xiang4] ,个",
+      "gender": "",
+      "pronounciation": "chéng jì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "成绩"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to arrive late",
+      "gender": "",
+      "pronounciation": "chí dào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "迟到"
+    },
+    {
+      "book": "Chinese",
+      "definition": "besides; apart from (... also...); in addition to; except (for)",
+      "gender": "",
+      "pronounciation": "chú le",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "除了"
+    },
+    {
+      "book": "Chinese",
+      "definition": "a boat; vessel; ship; CL:条[tiao2] ,艘[sou1] ,只[zhi1]",
+      "gender": "",
+      "pronounciation": "chuán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "船"
+    },
+    {
+      "book": "Chinese",
+      "definition": "spring (time); gay; joyful; youthful; love; lust; life",
+      "gender": "",
+      "pronounciation": "chūn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "春"
+    },
+    {
+      "book": "Chinese",
+      "definition": "dictionary (of Chinese compound words); CL:部[bu4] ,本[ben3]",
+      "gender": "",
+      "pronounciation": "cí diǎn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "词典"
+    },
+    {
+      "book": "Chinese",
+      "definition": "acute (of sight and hearing); clever; intelligent; bright; smart",
+      "gender": "",
+      "pronounciation": "cōng ming",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "聪明"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to clean; to sweep",
+      "gender": "",
+      "pronounciation": "dǎ sǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "打扫"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to plan; to intend; to calculate; plan; intention; calculation; CL:个",
+      "gender": "",
+      "pronounciation": "dǎ suàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "打算"
+    },
+    {
+      "book": "Chinese",
+      "definition": "band; belt; girdle; ribbon; tire; area; zone; region; to wear; to carry; to lead; to bring; to look after; to raise; CL:条[tiao2];",
+      "gender": "",
+      "pronounciation": "dài",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "带"
+    },
+    {
+      "book": "Chinese",
+      "definition": "anxious; worried; uneasy; to worry; to be anxious",
+      "gender": "",
+      "pronounciation": "dān xīn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "担心"
+    },
+    {
+      "book": "Chinese",
+      "definition": "cake; CL:块[kuai4] ,个",
+      "gender": "",
+      "pronounciation": "dàn gāo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "蛋糕"
+    },
+    {
+      "book": "Chinese",
+      "definition": "of course; without doubt; only natural; as it should be; certainly;",
+      "gender": "",
+      "pronounciation": "dāng rán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "当然"
+    },
+    {
+      "book": "Chinese",
+      "definition": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct;",
+      "gender": "",
+      "pronounciation": "de",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "地"
+    },
+    {
+      "book": "Chinese",
+      "definition": "lamp; light; lantern; CL:盏[zhan3]",
+      "gender": "",
+      "pronounciation": "dēng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "灯"
+    },
+    {
+      "book": "Chinese",
+      "definition": "region; regional (away from the central administration)",
+      "gender": "",
+      "pronounciation": "dì fang",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "地方"
+    },
+    {
+      "book": "Chinese",
+      "definition": "subway; metro",
+      "gender": "",
+      "pronounciation": "dì tiě",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "地铁"
+    },
+    {
+      "book": "Chinese",
+      "definition": "map; CL:张[zhang1] ,本[ben3]",
+      "gender": "",
+      "pronounciation": "dì tú",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "地图"
+    },
+    {
+      "book": "Chinese",
+      "definition": "elevator; CL:台[tai2] ,部[bu4]",
+      "gender": "",
+      "pronounciation": "diàn tī",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "电梯"
+    },
+    {
+      "book": "Chinese",
+      "definition": "electronic mail; email; CL:封[feng1]",
+      "gender": "",
+      "pronounciation": "diàn zǐ yóu jiàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "电子邮件"
+    },
+    {
+      "book": "Chinese",
+      "definition": "east; host (i.e. sitting on east side of guest); landlord; surname Dong",
+      "gender": "",
+      "pronounciation": "dōng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "东"
+    },
+    {
+      "book": "Chinese",
+      "definition": "winter",
+      "gender": "",
+      "pronounciation": "dōng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "冬"
+    },
+    {
+      "book": "Chinese",
+      "definition": "animal; CL:只[zhi1] ,群[qun2] ,个",
+      "gender": "",
+      "pronounciation": "dòng wù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "动物"
+    },
+    {
+      "book": "Chinese",
+      "definition": "short or brief; to lack; weak point; fault",
+      "gender": "",
+      "pronounciation": "duǎn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "短"
+    },
+    {
+      "book": "Chinese",
+      "definition": "paragraph; section; segment; stage (of a process); classifier for stories, periods of time, lengths of thread etc",
+      "gender": "",
+      "pronounciation": "duàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "段"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to engage in physical exercise; to toughen; to temper",
+      "gender": "",
+      "pronounciation": "duàn liàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "锻炼"
+    },
+    {
+      "book": "Chinese",
+      "definition": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc)",
+      "gender": "",
+      "pronounciation": "duō me",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "多么"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to be hungry; hungry",
+      "gender": "",
+      "pronounciation": "è a",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "饿"
+    },
+    {
+      "book": "Chinese",
+      "definition": "ear; CL:只[zhi1] ,个,对[dui4]",
+      "gender": "",
+      "pronounciation": "ěr duo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "耳朵"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to send out; to show (one's feeling); to issue; to develop; classifier for gunshots (rounds)",
+      "gender": "",
+      "pronounciation": "fā",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "发"
+    },
+    {
+      "book": "Chinese",
+      "definition": "have a high temperature (from illness); have a fever",
+      "gender": "",
+      "pronounciation": "fā shāo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "发烧"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to find; to discover",
+      "gender": "",
+      "pronounciation": "fā xiàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "发现"
+    },
+    {
+      "book": "Chinese",
+      "definition": "convenient; to help out; to make things easy for people; convenience; suitable; having money to spare; (euphemism) to go to the toilet",
+      "gender": "",
+      "pronounciation": "fāng biàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "方便"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to release; to free; to let go; to put; to place; to let out; to set off (fireworks)",
+      "gender": "",
+      "pronounciation": "fàng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "放"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to set one's mind at rest; to be at ease; to rest",
+      "gender": "",
+      "pronounciation": "fàng xīn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "放心"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to divide; to separate; to allocate; to distinguish (good and bad); part or subdivision; fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute; a point (in sports or games); 0.01 yuan (unit of money)",
+      "gender": "",
+      "pronounciation": "fēn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "分"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to revise; to review; revision; CL:次[ci4]",
+      "gender": "",
+      "pronounciation": "fù xí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "复习"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(in the) vicinity; nearby; neighboring; next to",
+      "gender": "",
+      "pronounciation": "fù jìn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "附近"
+    },
+    {
+      "book": "Chinese",
+      "definition": "neat and tidy; clean",
+      "gender": "",
+      "pronounciation": "gān jìng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "干净"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to catch cold; (common) cold; CL:次[ci4]",
+      "gender": "",
+      "pronounciation": "gǎn mào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "感冒"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to be interested;",
+      "gender": "",
+      "pronounciation": "gǎn xìng qù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "感兴趣"
+    },
+    {
+      "book": "Chinese",
+      "definition": "just now; a moment ago",
+      "gender": "",
+      "pronounciation": "gāng cái",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "刚才"
+    },
+    {
+      "book": "Chinese",
+      "definition": "height; stature; build; size",
+      "gender": "",
+      "pronounciation": "gè zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "个子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "according to; based on; basis; foundation; CL:个",
+      "gender": "",
+      "pronounciation": "gēn jù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "根据"
+    },
+    {
+      "book": "Chinese",
+      "definition": "with (someone); towards; as (compared to); and (in addition to); heel; to follow closely; to go with; to marry sb (of woman)",
+      "gender": "",
+      "pronounciation": "gēn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "跟"
+    },
+    {
+      "book": "Chinese",
+      "definition": "more; still more; even more",
+      "gender": "",
+      "pronounciation": "gèng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "更"
+    },
+    {
+      "book": "Chinese",
+      "definition": "kilogram (kg)",
+      "gender": "",
+      "pronounciation": "gōng jīn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "公斤"
+    },
+    {
+      "book": "Chinese",
+      "definition": "public park; CL:场[chang3]",
+      "gender": "",
+      "pronounciation": "gōng yuán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "公园"
+    },
+    {
+      "book": "Chinese",
+      "definition": "story; tale; narrative",
+      "gender": "",
+      "pronounciation": "gù shi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "故事"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to be windy",
+      "gender": "",
+      "pronounciation": "guā fēng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "刮风"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to close; to shut; to turn off; mountain pass; to concern; to involve",
+      "gender": "",
+      "pronounciation": "guān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "关"
+    },
+    {
+      "book": "Chinese",
+      "definition": "relationship (network); relation; to concern; to affect; to have to do with; guanxi; CL:个",
+      "gender": "",
+      "pronounciation": "guān xì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "关系"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to care for sth; caring; concerned",
+      "gender": "",
+      "pronounciation": "guān xīn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "关心"
+    },
+    {
+      "book": "Chinese",
+      "definition": "pertaining to; concerning; regarding; with regards to; about; a matter of",
+      "gender": "",
+      "pronounciation": "guān yú",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "关于"
+    },
+    {
+      "book": "Chinese",
+      "definition": "country; nation; state; CL:个",
+      "gender": "",
+      "pronounciation": "guó jiā",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "国家"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to cross; to go over; to pass (time); to get along",
+      "gender": "",
+      "pronounciation": "guò",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "过"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(in the) past; former; previous; to go over; to pass by",
+      "gender": "",
+      "pronounciation": "guò qu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "过去"
+    },
+    {
+      "book": "Chinese",
+      "definition": "or; still; nevertheless",
+      "gender": "",
+      "pronounciation": "hái shì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "还是"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to be afraid; to be scared",
+      "gender": "",
+      "pronounciation": "hài pà",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "害怕"
+    },
+    {
+      "book": "Chinese",
+      "definition": "blackboard; CL:块[kuai4] ,个",
+      "gender": "",
+      "pronounciation": "hēi bǎn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "黑板"
+    },
+    {
+      "book": "Chinese",
+      "definition": "afterwards; later",
+      "gender": "",
+      "pronounciation": "hòu lái",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "后来"
+    },
+    {
+      "book": "Chinese",
+      "definition": "passport; CL:本[ben3] ,个",
+      "gender": "",
+      "pronounciation": "hù zhào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "护照"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to blossom; to spend (money, time)",
+      "gender": "",
+      "pronounciation": "huā",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "花"
+    },
+    {
+      "book": "Chinese",
+      "definition": "flower; blossoms; bloom: pattern: design",
+      "gender": "",
+      "pronounciation": "huā",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "花"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to draw; picture; painting; CL:幅[fu2] ,张[zhang1]",
+      "gender": "",
+      "pronounciation": "huà",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "画"
+    },
+    {
+      "book": "Chinese",
+      "definition": "bad; spoiled; broken; to break down",
+      "gender": "",
+      "pronounciation": "huài",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "坏"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to welcome; welcome",
+      "gender": "",
+      "pronounciation": "huān yíng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "欢迎"
+    },
+    {
+      "book": "Chinese",
+      "definition": "environment; circumstances; surroundings; ambient; CL:个",
+      "gender": "",
+      "pronounciation": "huán jìng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "环境"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to come back; to give back; to return; to pay back",
+      "gender": "",
+      "pronounciation": "huán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "还"
+    },
+    {
+      "book": "Chinese",
+      "definition": "change; exchange",
+      "gender": "",
+      "pronounciation": "huàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "换"
+    },
+    {
+      "book": "Chinese",
+      "definition": "Yellow River",
+      "gender": "",
+      "pronounciation": "huáng hé",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "黄河"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to reply; to answer; the answer; CL:个",
+      "gender": "",
+      "pronounciation": "huí dá",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "回答"
+    },
+    {
+      "book": "Chinese",
+      "definition": "meeting; conference; CL:场[chang3] ,届[jie4]",
+      "gender": "",
+      "pronounciation": "huì yì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "会议"
+    },
+    {
+      "book": "Chinese",
+      "definition": "or; possibly; maybe; perhaps",
+      "gender": "",
+      "pronounciation": "huò zhě",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "或者"
+    },
+    {
+      "book": "Chinese",
+      "definition": "almost; nearly; practically",
+      "gender": "",
+      "pronounciation": "jī hū",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "几乎"
+    },
+    {
+      "book": "Chinese",
+      "definition": "opportunity; chance; occasion; CL:个",
+      "gender": "",
+      "pronounciation": "jī huì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "机会"
+    },
+    {
+      "book": "Chinese",
+      "definition": "extremely; pole (geography, physics); utmost; top",
+      "gender": "",
+      "pronounciation": "jí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "极"
+    },
+    {
+      "book": "Chinese",
+      "definition": "time; season; period; CL:个",
+      "gender": "",
+      "pronounciation": "jì jié",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "季节"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to remember",
+      "gender": "",
+      "pronounciation": "jì de",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "记得"
+    },
+    {
+      "book": "Chinese",
+      "definition": "inspection; to examine; to inspect; CL:次[ci4]",
+      "gender": "",
+      "pronounciation": "jiǎn chá",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "检查"
+    },
+    {
+      "book": "Chinese",
+      "definition": "simple; not complicated",
+      "gender": "",
+      "pronounciation": "jiǎn dān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "简单"
+    },
+    {
+      "book": "Chinese",
+      "definition": "health; healthy",
+      "gender": "",
+      "pronounciation": "jiàn kāng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "健康"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to meet; to see sb; CL:次[ci4]",
+      "gender": "",
+      "pronounciation": "jiàn miàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "见面"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to explain; to speak; to negotiate; to emphasise; to be particular about; as far as sth is concerned; speech; lecture",
+      "gender": "",
+      "pronounciation": "jiǎng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "讲"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to teach",
+      "gender": "",
+      "pronounciation": "jiào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "教"
+    },
+    {
+      "book": "Chinese",
+      "definition": "foot; leg; base; kick; CL:双[shuang1] ,只[zhi1]",
+      "gender": "",
+      "pronounciation": "jiǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "脚"
+    },
+    {
+      "book": "Chinese",
+      "definition": "horn; angle; corner ; horn-shaped; unit of money equal to 0.10 yuan; CL:个",
+      "gender": "",
+      "pronounciation": "jiǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "角"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; take over for sb",
+      "gender": "",
+      "pronounciation": "jiē",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "接"
+    },
+    {
+      "book": "Chinese",
+      "definition": "street; CL:条[tiao2]",
+      "gender": "",
+      "pronounciation": "jiē dào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "街道"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to marry; to get married; CL:次[ci4]",
+      "gender": "",
+      "pronounciation": "jié hūn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "结婚"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to finish; to end; to conclude; to close; termination",
+      "gender": "",
+      "pronounciation": "jié shù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "结束"
+    },
+    {
+      "book": "Chinese",
+      "definition": "program; item (on a program); CL:台[tai2] ,个,套[tao4]",
+      "gender": "",
+      "pronounciation": "jié mù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "节目"
+    },
+    {
+      "book": "Chinese",
+      "definition": "holiday; festival; CL:个",
+      "gender": "",
+      "pronounciation": "jié rì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "节日"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to settle (a dispute); to resolve; to solve",
+      "gender": "",
+      "pronounciation": "jiě jué",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "解决"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to lend; to borrow; excuse; pretext; by means of; to seize (an opportunity); to take (an opportunity)",
+      "gender": "",
+      "pronounciation": "jiè",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "借"
+    },
+    {
+      "book": "Chinese",
+      "definition": "day to day; everyday; daily; frequently; constantly; regularly; often",
+      "gender": "",
+      "pronounciation": "jīng cháng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "经常"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to pass; to go through; process; course; CL:个",
+      "gender": "",
+      "pronounciation": "jīng guò",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "经过"
+    },
+    {
+      "book": "Chinese",
+      "definition": "manager; director; CL:个,位[wei4] ,名[ming2]",
+      "gender": "",
+      "pronounciation": "jīng lǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "经理"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(long) time; (long) duration of time",
+      "gender": "",
+      "pronounciation": "jiǔ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "久"
+    },
+    {
+      "book": "Chinese",
+      "definition": "old; opposite: new 新; former; worn (with age)",
+      "gender": "",
+      "pronounciation": "jiù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "旧"
+    },
+    {
+      "book": "Chinese",
+      "definition": "sentence; CL:个",
+      "gender": "",
+      "pronounciation": "jù zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "句子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to decide (to do something); to resolve; decision; certainly; CL:个,项[xiang4]",
+      "gender": "",
+      "pronounciation": "jué dìng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "决定"
+    },
+    {
+      "book": "Chinese",
+      "definition": "amiable; cute; lovely",
+      "gender": "",
+      "pronounciation": "kě ài",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "可爱"
+    },
+    {
+      "book": "Chinese",
+      "definition": "thirsty",
+      "gender": "",
+      "pronounciation": "kě",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "渴"
+    },
+    {
+      "book": "Chinese",
+      "definition": "quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals",
+      "gender": "",
+      "pronounciation": "kè",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "刻"
+    },
+    {
+      "book": "Chinese",
+      "definition": "visitor; guest; customer; client; CL:位[wei4]",
+      "gender": "",
+      "pronounciation": "kè rén",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "客人"
+    },
+    {
+      "book": "Chinese",
+      "definition": "air conditioning",
+      "gender": "",
+      "pronounciation": "kōng tiáo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "空调"
+    },
+    {
+      "book": "Chinese",
+      "definition": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+      "gender": "",
+      "pronounciation": "kǒu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "口"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to cry; to weep",
+      "gender": "",
+      "pronounciation": "kū",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "哭"
+    },
+    {
+      "book": "Chinese",
+      "definition": "trousers; pants; CL:条[tiao2]",
+      "gender": "",
+      "pronounciation": "kù zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "裤子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "chopsticks; CL:对[dui4] ,根[gen1] ,把[ba3] ,双[shuang1]",
+      "gender": "",
+      "pronounciation": "kuài zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "筷子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "blue; indigo plant",
+      "gender": "",
+      "pronounciation": "lán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "蓝"
+    },
+    {
+      "book": "Chinese",
+      "definition": "old (of people); venerable (person); prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough",
+      "gender": "",
+      "pronounciation": "lǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "老"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to depart; to leave",
+      "gender": "",
+      "pronounciation": "lí kāi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "离开"
+    },
+    {
+      "book": "Chinese",
+      "definition": "gift; present; CL:件[jian4] ,个,份[fen4]",
+      "gender": "",
+      "pronounciation": "lǐ wù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "礼物"
+    },
+    {
+      "book": "Chinese",
+      "definition": "History; CL:门[men2] ,段[duan4]",
+      "gender": "",
+      "pronounciation": "lì shǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "历史"
+    },
+    {
+      "book": "Chinese",
+      "definition": "face; CL:张[zhang1] ,个",
+      "gender": "",
+      "pronounciation": "liǎn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "脸"
+    },
+    {
+      "book": "Chinese",
+      "definition": "exercise; drill; practice; CL:个",
+      "gender": "",
+      "pronounciation": "liàn xí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "练习"
+    },
+    {
+      "book": "Chinese",
+      "definition": "classifier for vehicles",
+      "gender": "",
+      "pronounciation": "liàng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "辆"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to chat; to gossip",
+      "gender": "",
+      "pronounciation": "liáo tiān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "聊天"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to understand; to realize; to find out",
+      "gender": "",
+      "pronounciation": "liǎo jiě",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "了解"
+    },
+    {
+      "book": "Chinese",
+      "definition": "neighbor; next door; CL:个",
+      "gender": "",
+      "pronounciation": "lín jū",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "邻居"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to study abroad",
+      "gender": "",
+      "pronounciation": "liú xué",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "留学"
+    },
+    {
+      "book": "Chinese",
+      "definition": "house with more than 1 story; storied building; floor; CL:层[ceng2] ,座[zuo4] ,栋[dong4]",
+      "gender": "",
+      "pronounciation": "lóu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "楼"
+    },
+    {
+      "book": "Chinese",
+      "definition": "green",
+      "gender": "",
+      "pronounciation": "lv4",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "绿"
+    },
+    {
+      "book": "Chinese",
+      "definition": "horse; abbr. for Malaysia,CL:匹",
+      "gender": "",
+      "pronounciation": "mǎ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "马"
+    },
+    {
+      "book": "Chinese",
+      "definition": "right away; at once; immediately; lit. on horseback",
+      "gender": "",
+      "pronounciation": "mǎ shàng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "马上"
+    },
+    {
+      "book": "Chinese",
+      "definition": "satisfied; pleased; to one's satisfaction",
+      "gender": "",
+      "pronounciation": "mǎn yì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "满意"
+    },
+    {
+      "book": "Chinese",
+      "definition": "hat; cap; CL:顶[ding3]",
+      "gender": "",
+      "pronounciation": "mào zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "帽子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "rice; meter (classifier); CL:粒[li4]",
+      "gender": "",
+      "pronounciation": "mǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "米"
+    },
+    {
+      "book": "Chinese",
+      "definition": "bread; CL:片[pian4] ,袋[dai4] ,块[kuai4]",
+      "gender": "",
+      "pronounciation": "miàn bāo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "面包"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to understand (clearly); to realize; clear; obvious; unequivocal;",
+      "gender": "",
+      "pronounciation": "míng bai",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "明白"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to hold; to seize; to catch; to apprehend; to take",
+      "gender": "",
+      "pronounciation": "ná",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "拿"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(informal) father's mother; paternal grandmother; CL:位[wei4]",
+      "gender": "",
+      "pronounciation": "nǎi nai",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "奶奶"
+    },
+    {
+      "book": "Chinese",
+      "definition": "south",
+      "gender": "",
+      "pronounciation": "nán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "南"
+    },
+    {
+      "book": "Chinese",
+      "definition": "difficult (to...); problem; difficulty; difficult; not good",
+      "gender": "",
+      "pronounciation": "nán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "难"
+    },
+    {
+      "book": "Chinese",
+      "definition": "feel sorry; be grieved",
+      "gender": "",
+      "pronounciation": "nán guò",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "难过"
+    },
+    {
+      "book": "Chinese",
+      "definition": "grade; CL:个",
+      "gender": "",
+      "pronounciation": "nián jí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "年级"
+    },
+    {
+      "book": "Chinese",
+      "definition": "young",
+      "gender": "",
+      "pronounciation": "nián qīng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "年轻"
+    },
+    {
+      "book": "Chinese",
+      "definition": "bird; CL:只[zhi1] ,群[qun2]",
+      "gender": "",
+      "pronounciation": "niǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "鸟"
+    },
+    {
+      "book": "Chinese",
+      "definition": "great effort; to strive; to try hard",
+      "gender": "",
+      "pronounciation": "nǔ lì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "努力"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to climb a mountain; to mountaineer; hiking; mountaineering",
+      "gender": "",
+      "pronounciation": "pá shān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "爬山"
+    },
+    {
+      "book": "Chinese",
+      "definition": "plate; tray; dish",
+      "gender": "",
+      "pronounciation": "pán zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "盘子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "fat; plump",
+      "gender": "",
+      "pronounciation": "pàng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "胖"
+    },
+    {
+      "book": "Chinese",
+      "definition": "beer; CL:杯[bei1] ,瓶[ping2] ,罐[guan4] ,桶[tong3] ,缸[gang1]",
+      "gender": "",
+      "pronounciation": "pí jiǔ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "啤酒"
+    },
+    {
+      "book": "Chinese",
+      "definition": "leather shoes",
+      "gender": "",
+      "pronounciation": "pí xié",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "皮鞋"
+    },
+    {
+      "book": "Chinese",
+      "definition": "bottle; CL:个",
+      "gender": "",
+      "pronounciation": "píng zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "瓶子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "actually; in fact; really",
+      "gender": "",
+      "pronounciation": "qí shí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "其实"
+    },
+    {
+      "book": "Chinese",
+      "definition": "other; the others; else; other than (that person); in addition to the person mentioned above",
+      "gender": "",
+      "pronounciation": "qí tā",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "其他"
+    },
+    {
+      "book": "Chinese",
+      "definition": "strange; odd",
+      "gender": "",
+      "pronounciation": "qí guài",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "奇怪"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to ride (an animal or bike); to sit astride",
+      "gender": "",
+      "pronounciation": "qí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "骑"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to take off (in an airplane)",
+      "gender": "",
+      "pronounciation": "qǐ fēi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "起飞"
+    },
+    {
+      "book": "Chinese",
+      "definition": "beginning or continuing an action; upward movement; stand up",
+      "gender": "",
+      "pronounciation": "qǐ lái",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "起来"
+    },
+    {
+      "book": "Chinese",
+      "definition": "（be) clear (about); clearly understood; clear; distinct",
+      "gender": "",
+      "pronounciation": "qīng chu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "清楚"
+    },
+    {
+      "book": "Chinese",
+      "definition": "ask for time off",
+      "gender": "",
+      "pronounciation": "qǐng jià",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "请假"
+    },
+    {
+      "book": "Chinese",
+      "definition": "autumn; fall; harvest time; a swing; surname Qiu",
+      "gender": "",
+      "pronounciation": "qiū",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "秋"
+    },
+    {
+      "book": "Chinese",
+      "definition": "skirt; CL:条[tiao2]",
+      "gender": "",
+      "pronounciation": "qún zi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "裙子"
+    },
+    {
+      "book": "Chinese",
+      "definition": "then (afterwards); after that; afterwards; after",
+      "gender": "",
+      "pronounciation": "rán hòu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "然后"
+    },
+    {
+      "book": "Chinese",
+      "definition": "cordial; enthusiastic; passion; passionate; passionately",
+      "gender": "",
+      "pronounciation": "rè qíng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "热情"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to believe; to think; to consider; to feel",
+      "gender": "",
+      "pronounciation": "rèn wéi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "认为"
+    },
+    {
+      "book": "Chinese",
+      "definition": "conscientious; earnest; serious; to take seriously; to take to heart",
+      "gender": "",
+      "pronounciation": "rèn zhēn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "认真"
+    },
+    {
+      "book": "Chinese",
+      "definition": "easy; likely; liable (to)",
+      "gender": "",
+      "pronounciation": "róng yì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "容易"
+    },
+    {
+      "book": "Chinese",
+      "definition": "if; in case; in the event that",
+      "gender": "",
+      "pronounciation": "rú guǒ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "如果"
+    },
+    {
+      "book": "Chinese",
+      "definition": "umbrella; parasol; CL:把[ba3]",
+      "gender": "",
+      "pronounciation": "sǎn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "伞"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to be on the internet; to stretch a net (in a sports game or for covering sth); to be netted (of fish)",
+      "gender": "",
+      "pronounciation": "shàng wǎng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "上网"
+    },
+    {
+      "book": "Chinese",
+      "definition": "voice; sound; CL:个",
+      "gender": "",
+      "pronounciation": "shēng yīn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "声音"
+    },
+    {
+      "book": "Chinese",
+      "definition": "angry; mad; offended; animated; to get angry; to be enraged; to take offense; animation",
+      "gender": "",
+      "pronounciation": "shēng qì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "生气"
+    },
+    {
+      "book": "Chinese",
+      "definition": "world; CL:个",
+      "gender": "",
+      "pronounciation": "shì jiè",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "世界"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to test; to try; experiment; examination; test",
+      "gender": "",
+      "pronounciation": "shì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "试"
+    },
+    {
+      "book": "Chinese",
+      "definition": "tight; thin; lean",
+      "gender": "",
+      "pronounciation": "shòu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "瘦"
+    },
+    {
+      "book": "Chinese",
+      "definition": "father's younger brother; uncle; CL:个",
+      "gender": "",
+      "pronounciation": "shū shu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "叔叔"
+    },
+    {
+      "book": "Chinese",
+      "definition": "comfortable; feeling well",
+      "gender": "",
+      "pronounciation": "shū fu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "舒服"
+    },
+    {
+      "book": "Chinese",
+      "definition": "mathematics; mathematical",
+      "gender": "",
+      "pronounciation": "shù xué",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "数学"
+    },
+    {
+      "book": "Chinese",
+      "definition": "tree; CL:棵[ke1]",
+      "gender": "",
+      "pronounciation": "shù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "树"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to brush teeth",
+      "gender": "",
+      "pronounciation": "shuā yá",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "刷牙"
+    },
+    {
+      "book": "Chinese",
+      "definition": "pair; double; two; both",
+      "gender": "",
+      "pronounciation": "shuāng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "双"
+    },
+    {
+      "book": "Chinese",
+      "definition": "level (of achievement etc); standard; horizontal",
+      "gender": "",
+      "pronounciation": "shuǐ píng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "水平"
+    },
+    {
+      "book": "Chinese",
+      "definition": "chauffeur; driver; CL:个",
+      "gender": "",
+      "pronounciation": "sī jī",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "司机"
+    },
+    {
+      "book": "Chinese",
+      "definition": "sun; CL:个",
+      "gender": "",
+      "pronounciation": "tài yáng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "太阳"
+    },
+    {
+      "book": "Chinese",
+      "definition": "especially; special; particular; unusual",
+      "gender": "",
+      "pronounciation": "tè bié",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "特别"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(it) hurts; love fondly; ache; pain; sore",
+      "gender": "",
+      "pronounciation": "téng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "疼"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to raise; to increase",
+      "gender": "",
+      "pronounciation": "tí gāo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "提高"
+    },
+    {
+      "book": "Chinese",
+      "definition": "sports; physical education",
+      "gender": "",
+      "pronounciation": "tǐ yù",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "体育"
+    },
+    {
+      "book": "Chinese",
+      "definition": "sweet",
+      "gender": "",
+      "pronounciation": "tián",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "甜"
+    },
+    {
+      "book": "Chinese",
+      "definition": "strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon, river, road, trousers etc)",
+      "gender": "",
+      "pronounciation": "tiáo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "条"
+    },
+    {
+      "book": "Chinese",
+      "definition": "colleague; co-worker; CL:个,位[wei4]",
+      "gender": "",
+      "pronounciation": "tóng shì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "同事"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to agree; to consent; to approve",
+      "gender": "",
+      "pronounciation": "tóng yì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "同意"
+    },
+    {
+      "book": "Chinese",
+      "definition": "hair (on the head)",
+      "gender": "",
+      "pronounciation": "tóu fa",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "头发"
+    },
+    {
+      "book": "Chinese",
+      "definition": "sudden; abrupt; unexpected",
+      "gender": "",
+      "pronounciation": "tū rán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "突然"
+    },
+    {
+      "book": "Chinese",
+      "definition": "library; CL:家[jia1] ,个",
+      "gender": "",
+      "pronounciation": "tú shū guǎn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "图书馆"
+    },
+    {
+      "book": "Chinese",
+      "definition": "leg; CL:条[tiao2]",
+      "gender": "",
+      "pronounciation": "tuǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "腿"
+    },
+    {
+      "book": "Chinese",
+      "definition": "complete; accomplish; perfect tense (grammar)",
+      "gender": "",
+      "pronounciation": "wán chéng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "完成"
+    },
+    {
+      "book": "Chinese",
+      "definition": "bowl; cup; CL:只[zhi1] ,个",
+      "gender": "",
+      "pronounciation": "wǎn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "碗"
+    },
+    {
+      "book": "Chinese",
+      "definition": "ten thousand; a great number",
+      "gender": "",
+      "pronounciation": "wàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "万"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to forget",
+      "gender": "",
+      "pronounciation": "wàng jì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "忘记"
+    },
+    {
+      "book": "Chinese",
+      "definition": "because of; for; to",
+      "gender": "",
+      "pronounciation": "wèi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "为"
+    },
+    {
+      "book": "Chinese",
+      "definition": "in order to; for the purpose of; so as to",
+      "gender": "",
+      "pronounciation": "wèi le",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "为了"
+    },
+    {
+      "book": "Chinese",
+      "definition": "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)",
+      "gender": "",
+      "pronounciation": "wèi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "位"
+    },
+    {
+      "book": "Chinese",
+      "definition": "culture; civilization; cultural; CL:个,种[zhong3]",
+      "gender": "",
+      "pronounciation": "wén huà",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "文化"
+    },
+    {
+      "book": "Chinese",
+      "definition": "west",
+      "gender": "",
+      "pronounciation": "xī",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "西"
+    },
+    {
+      "book": "Chinese",
+      "definition": "habit; custom; usual practice; to be used to; CL:个",
+      "gender": "",
+      "pronounciation": "xí guàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "习惯"
+    },
+    {
+      "book": "Chinese",
+      "definition": "toilet; lavatory; washroom",
+      "gender": "",
+      "pronounciation": "xǐ shǒu jiān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "洗手间"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to bathe; to take a shower",
+      "gender": "",
+      "pronounciation": "xǐ zǎo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "洗澡"
+    },
+    {
+      "book": "Chinese",
+      "definition": "summer",
+      "gender": "",
+      "pronounciation": "xià",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "夏"
+    },
+    {
+      "book": "Chinese",
+      "definition": "early; prior; former; in advance; first",
+      "gender": "",
+      "pronounciation": "xiān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "先"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to believe; to be convinced (that something is true); to accept sth as true",
+      "gender": "",
+      "pronounciation": "xiāng xìn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "相信"
+    },
+    {
+      "book": "Chinese",
+      "definition": "banana; CL:枝[zhi1] ,根[gen1] ,个,把[ba3]",
+      "gender": "",
+      "pronounciation": "xiāng jiāo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "香蕉"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(look) like; similar (to); appearance; to appear; to seem; image; portrait; resemble; seem",
+      "gender": "",
+      "pronounciation": "xiàng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "像"
+    },
+    {
+      "book": "Chinese",
+      "definition": "direction; orientation; to face; to turn toward; to; towards; shortly before; formerly; to side with; to be partial to; all along (previously); surname Xiang",
+      "gender": "",
+      "pronounciation": "xiàng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "向"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to be careful; to take care",
+      "gender": "",
+      "pronounciation": "xiǎo xīn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "小心"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(college, university) president; headmaster; CL:个,位[wei4] ,名[ming2]",
+      "gender": "",
+      "pronounciation": "xiào zhǎng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "校长"
+    },
+    {
+      "book": "Chinese",
+      "definition": "news; CL:条[tiao2] ,个",
+      "gender": "",
+      "pronounciation": "xīn wén",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "新闻"
+    },
+    {
+      "book": "Chinese",
+      "definition": "fresh (experience, food etc); freshness",
+      "gender": "",
+      "pronounciation": "xīn xiān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "新鲜"
+    },
+    {
+      "book": "Chinese",
+      "definition": "credit card",
+      "gender": "",
+      "pronounciation": "xìn yòng kǎ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "信用卡"
+    },
+    {
+      "book": "Chinese",
+      "definition": "suitcase",
+      "gender": "",
+      "pronounciation": "xíng lǐ xiāng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "行李箱"
+    },
+    {
+      "book": "Chinese",
+      "definition": "panda; CL:只[zhi1]",
+      "gender": "",
+      "pronounciation": "xióng māo",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "熊猫"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to need; to want; to demand; needs; to require",
+      "gender": "",
+      "pronounciation": "xū yào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "需要"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to select; to pick; choice; option; alternative",
+      "gender": "",
+      "pronounciation": "xuǎn zé",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "选择"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to request; to require; to stake a claim; to ask; to demand; CL:点[dian3]",
+      "gender": "",
+      "pronounciation": "yāo qiú",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "要求"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(informal) father's father; paternal grandfather; CL:个",
+      "gender": "",
+      "pronounciation": "yé ye",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "爷爷"
+    },
+    {
+      "book": "Chinese",
+      "definition": "straight (in a straight line); continuously; always; from the beginning of... up to...; all along",
+      "gender": "",
+      "pronounciation": "yī zhí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "一直"
+    },
+    {
+      "book": "Chinese",
+      "definition": "surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must",
+      "gender": "",
+      "pronounciation": "yí dìng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "一定"
+    },
+    {
+      "book": "Chinese",
+      "definition": "altogether",
+      "gender": "",
+      "pronounciation": "yī gòng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "一共"
+    },
+    {
+      "book": "Chinese",
+      "definition": "a while",
+      "gender": "",
+      "pronounciation": "yī huì er",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "一会儿"
+    },
+    {
+      "book": "Chinese",
+      "definition": "same; like; equal to; the same as; just like",
+      "gender": "",
+      "pronounciation": "yī yàng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "一样"
+    },
+    {
+      "book": "Chinese",
+      "definition": "before; formerly; previous; ago",
+      "gender": "",
+      "pronounciation": "yǐ qián",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "以前"
+    },
+    {
+      "book": "Chinese",
+      "definition": "ordinary; common; general; generally; in general; same",
+      "gender": "",
+      "pronounciation": "yī bān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "一般"
+    },
+    {
+      "book": "Chinese",
+      "definition": "one side; either side; on the one hand; on the other hand; doing while",
+      "gender": "",
+      "pronounciation": "yī biān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "一边"
+    },
+    {
+      "book": "Chinese",
+      "definition": "music; CL:张[zhang1] ,曲[qu3] ,段[duan4]",
+      "gender": "",
+      "pronounciation": "yīn yuè",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "音乐"
+    },
+    {
+      "book": "Chinese",
+      "definition": "bank; CL:家[jia1] ,个",
+      "gender": "",
+      "pronounciation": "yín háng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "银行"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(a) drink; beverage",
+      "gender": "",
+      "pronounciation": "yǐn liào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "饮料"
+    },
+    {
+      "book": "Chinese",
+      "definition": "ought to; should; must",
+      "gender": "",
+      "pronounciation": "yīng gāi",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "应该"
+    },
+    {
+      "book": "Chinese",
+      "definition": "influence; effect; to influence; to affect (usually adversely); to disturb; CL:股[gu3]",
+      "gender": "",
+      "pronounciation": "yǐng xiǎng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "影响"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore",
+      "gender": "",
+      "pronounciation": "yòng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "用"
+    },
+    {
+      "book": "Chinese",
+      "definition": "game; play; CL:场[chang3]",
+      "gender": "",
+      "pronounciation": "yóu xì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "游戏"
+    },
+    {
+      "book": "Chinese",
+      "definition": "famous; well-known",
+      "gender": "",
+      "pronounciation": "yǒu míng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "有名"
+    },
+    {
+      "book": "Chinese",
+      "definition": "(once) again; also; both... and...; again",
+      "gender": "",
+      "pronounciation": "yòu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "又"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to meet; to run into; to come across",
+      "gender": "",
+      "pronounciation": "yù dào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "遇到"
+    },
+    {
+      "book": "Chinese",
+      "definition": "Yuan (RMB); first; primary; basic",
+      "gender": "",
+      "pronounciation": "yuán",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "元"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to wish; to want; ready; willing (to do sth)",
+      "gender": "",
+      "pronounciation": "yuàn yì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "愿意"
+    },
+    {
+      "book": "Chinese",
+      "definition": "moon",
+      "gender": "",
+      "pronounciation": "yuè liang",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "月亮"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to exceed; to climb over; to surpass; the more... the more",
+      "gender": "",
+      "pronounciation": "yuè",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "越"
+    },
+    {
+      "book": "Chinese",
+      "definition": "station; to stand; to halt; to stop; branch of a company or organisation",
+      "gender": "",
+      "pronounciation": "zhàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "站"
+    },
+    {
+      "book": "Chinese",
+      "definition": "classifier for flat objects, sheet; sheet of paper; classifier for votes; to open up; to spread;",
+      "gender": "",
+      "pronounciation": "zhāng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "张"
+    },
+    {
+      "book": "Chinese",
+      "definition": "elder; senior; to grow; to develop; to come into being; to acquire; to enhance; to increase",
+      "gender": "",
+      "pronounciation": "zhǎng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "长"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to worry; to feel anxious",
+      "gender": "",
+      "pronounciation": "zháo jí",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "着急"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to take care of; to show consideration; to attend to; to look after",
+      "gender": "",
+      "pronounciation": "zhào gu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "照顾"
+    },
+    {
+      "book": "Chinese",
+      "definition": "photo; photograph; picture; CL:张[zhang1] ,套[tao4] ,幅[fu2]",
+      "gender": "",
+      "pronounciation": "zhào piàn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "照片"
+    },
+    {
+      "book": "Chinese",
+      "definition": "camera; CL:个,架[jia4] ,部[bu4] ,台[tai2] ,只[zhi1]",
+      "gender": "",
+      "pronounciation": "zhào xiàng jī",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "照相机"
+    },
+    {
+      "book": "Chinese",
+      "definition": "only; just; merely",
+      "gender": "",
+      "pronounciation": "zhǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "只"
+    },
+    {
+      "book": "Chinese",
+      "definition": "single; one-only",
+      "gender": "",
+      "pronounciation": "zhǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "只"
+    },
+    {
+      "book": "Chinese",
+      "definition": "only if… then…",
+      "gender": "",
+      "pronounciation": "zhǐ yǒu …cái …",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "只有…才…"
+    },
+    {
+      "book": "Chinese",
+      "definition": "between; intermediate; mid; middle",
+      "gender": "",
+      "pronounciation": "zhōng jiān",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "中间"
+    },
+    {
+      "book": "Chinese",
+      "definition": "Chinese written language; Chinese writing; Chinese",
+      "gender": "",
+      "pronounciation": "zhōng wén",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "中文"
+    },
+    {
+      "book": "Chinese",
+      "definition": "at last; in the end; finally; eventually",
+      "gender": "",
+      "pronounciation": "zhōng yú",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "终于"
+    },
+    {
+      "book": "Chinese",
+      "definition": "kind; sort; type",
+      "gender": "",
+      "pronounciation": "zhǒng",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "种"
+    },
+    {
+      "book": "Chinese",
+      "definition": "important; significant; major",
+      "gender": "",
+      "pronounciation": "zhòng yào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "重要"
+    },
+    {
+      "book": "Chinese",
+      "definition": "weekend",
+      "gender": "",
+      "pronounciation": "zhōu mò",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "周末"
+    },
+    {
+      "book": "Chinese",
+      "definition": "main; principal; major; primary",
+      "gender": "",
+      "pronounciation": "zhǔ yào",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "主要"
+    },
+    {
+      "book": "Chinese",
+      "definition": "to take note of; to pay attention to",
+      "gender": "",
+      "pronounciation": "zhù yì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "注意"
+    },
+    {
+      "book": "Chinese",
+      "definition": "self; (reflexive pronoun); own",
+      "gender": "",
+      "pronounciation": "zì jǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "自己"
+    },
+    {
+      "book": "Chinese",
+      "definition": "bicycle; bike; CL:辆[liang4]",
+      "gender": "",
+      "pronounciation": "zì xíng chē",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "自行车"
+    },
+    {
+      "book": "Chinese",
+      "definition": "always",
+      "gender": "",
+      "pronounciation": "zǒng shì",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "总是"
+    },
+    {
+      "book": "Chinese",
+      "definition": "mouth; beak; spout (of teapot etc); CL:张[zhang1] ,个",
+      "gender": "",
+      "pronounciation": "zuǐ",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "嘴"
+    },
+    {
+      "book": "Chinese",
+      "definition": "final; last; finally; ultimate",
+      "gender": "",
+      "pronounciation": "zuì hòu",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "最后"
+    },
+    {
+      "book": "Chinese",
+      "definition": "recent; recently; these days; latest; soon; nearest (of locations); shortest (of routes)",
+      "gender": "",
+      "pronounciation": "zuì jìn",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "最近"
+    },
+    {
+      "book": "Chinese",
+      "definition": "school assignment; homework; work; task; operation; to operate; CL:个",
+      "gender": "",
+      "pronounciation": "zuò yè",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false,
+      "word": "作业"
+    }
+  ]
+}
+

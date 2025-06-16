@@ -1,0 +1,5524 @@
+{
+  "vocabList": [
+    {
+      "book": "Japanese",
+      "word": "浴びる",
+      "pronounciation": "abiru",
+      "definition": "to take a shower",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "危ない",
+      "pronounciation": "abunai",
+      "definition": "dangerous, risky",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "あげる",
+      "pronounciation": "ageru",
+      "definition": "to give",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "赤/赤い",
+      "pronounciation": "aka/akai",
+      "definition": "red",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "明るい",
+      "pronounciation": "akarui",
+      "definition": "bright, colorful",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "開ける",
+      "pronounciation": "akeru",
+      "definition": "to open",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "秋",
+      "pronounciation": "aki",
+      "definition": "autumn",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "開く",
+      "pronounciation": "aku",
+      "definition": "to open",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "甘い",
+      "pronounciation": "amai",
+      "definition": "sweet",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "雨",
+      "pronounciation": "ame",
+      "definition": "rain",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "あなた",
+      "pronounciation": "anata",
+      "definition": "you",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "兄",
+      "pronounciation": "ani",
+      "definition": "older brother",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "姉",
+      "pronounciation": "ane",
+      "definition": "older sister",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "青い",
+      "pronounciation": "aoi",
+      "definition": "blue",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "洗う",
+      "pronounciation": "arau",
+      "definition": "to wash",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "有る",
+      "pronounciation": "aru",
+      "definition": "to be, to exist",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "歩く",
+      "pronounciation": "aruku",
+      "definition": "to walk",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "朝",
+      "pronounciation": "asa",
+      "definition": "morning",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "朝ご飯",
+      "pronounciation": "asagohan",
+      "definition": "breakfast",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "明後日",
+      "pronounciation": "asatte",
+      "definition": "day after tomorrow",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "足",
+      "pronounciation": "ashi",
+      "definition": "foot, leg",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "明日",
+      "pronounciation": "ashita",
+      "definition": "tomorrow",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "遊ぶ",
+      "pronounciation": "asobu",
+      "definition": "to play",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "あそこ",
+      "pronounciation": "asoko",
+      "definition": "there, over there",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "頭",
+      "pronounciation": "atama",
+      "definition": "head",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "暖かい",
+      "pronounciation": "atatakai",
+      "definition": "warm, mild",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "新しい",
+      "pronounciation": "atarashii",
+      "definition": "new, fresh",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "後",
+      "pronounciation": "ato",
+      "definition": "behind after, later",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "暑い",
+      "pronounciation": "atsui",
+      "definition": "hot (weather)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "熱い",
+      "pronounciation": "atsui",
+      "definition": "hot (thing)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "厚い",
+      "pronounciation": "atsui",
+      "definition": "thick",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "会う",
+      "pronounciation": "au",
+      "definition": "to meet",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "晩ご飯",
+      "pronounciation": "bangohan",
+      "definition": "dinner",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "番号",
+      "pronounciation": "bangou",
+      "definition": "number",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "勉強",
+      "pronounciation": "benkyou",
+      "definition": "study, diligence",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "便利",
+      "pronounciation": "benri",
+      "definition": "convenient, handy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "帽子",
+      "pronounciation": "boushi",
+      "definition": "hat, cap",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "病院",
+      "pronounciation": "byouin",
+      "definition": "hospital",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "病気",
+      "pronounciation": "byouki",
+      "definition": "illness, disease",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "豚肉",
+      "pronounciation": "butaniku",
+      "definition": "pork",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "茶色",
+      "pronounciation": "chairo",
+      "definition": "light brown",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "茶碗",
+      "pronounciation": "chawan",
+      "definition": "rice bowl, tea cup",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "父",
+      "pronounciation": "chichi",
+      "definition": "father",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "違う",
+      "pronounciation": "chigau",
+      "definition": "to differ (from)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "小さい",
+      "pronounciation": "chiisai",
+      "definition": "small, little, tiny",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "近い",
+      "pronounciation": "chikai",
+      "definition": "near, close",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "近く",
+      "pronounciation": "chikaku",
+      "definition": "near, neighborhood",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "地下鉄",
+      "pronounciation": "chikatetsu",
+      "definition": "subway, metro",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ちょっと",
+      "pronounciation": "chotto",
+      "definition": "a little",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ちょうど",
+      "pronounciation": "choudo",
+      "definition": "exactly, precisely, just",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "地図",
+      "pronounciation": "chizu",
+      "definition": "map",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "台所",
+      "pronounciation": "daidokoro",
+      "definition": "kitchen",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大学",
+      "pronounciation": "daigaku",
+      "definition": "university",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大丈夫",
+      "pronounciation": "daijoubu",
+      "definition": "safe, all right, okay",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "段々",
+      "pronounciation": "dandan",
+      "definition": "gradually, little by little",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "誰",
+      "pronounciation": "dare",
+      "definition": "who",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "誰か",
+      "pronounciation": "dareka",
+      "definition": "someone, somebody",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "出す",
+      "pronounciation": "dasu",
+      "definition": "to take out",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "出口",
+      "pronounciation": "deguchi",
+      "definition": "exit, gateway",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "出かける",
+      "pronounciation": "dekakeru",
+      "definition": "to go out",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "電気",
+      "pronounciation": "denki",
+      "definition": "electricity, light",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "電車",
+      "pronounciation": "densha",
+      "definition": "train, electric train",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "電話",
+      "pronounciation": "denwa",
+      "definition": "telephone call, phone",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "出る",
+      "pronounciation": "deru",
+      "definition": "to leave, to exit",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "どちら",
+      "pronounciation": "dochira",
+      "definition": "which one",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "どこ",
+      "pronounciation": "doko",
+      "definition": "where",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "どう",
+      "pronounciation": "dou",
+      "definition": "how, in what way, how about",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "動物",
+      "pronounciation": "doubutsu",
+      "definition": "animal",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "どうも",
+      "pronounciation": "doumo",
+      "definition": "thanks",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "どうして",
+      "pronounciation": "doushite",
+      "definition": "why, for what reason",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "どうぞ",
+      "pronounciation": "douzo",
+      "definition": "please, feel free",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "土曜日",
+      "pronounciation": "doyoubi",
+      "definition": "Saturday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "絵",
+      "pronounciation": "e",
+      "definition": "picture, drawing, painting",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "映画",
+      "pronounciation": "eiga",
+      "definition": "movie, film",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "映画館",
+      "pronounciation": "eigakan",
+      "definition": "movie theater, cinema",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "英語",
+      "pronounciation": "eigo",
+      "definition": "English (language)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "駅",
+      "pronounciation": "eki",
+      "definition": "station",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "鉛筆",
+      "pronounciation": "enpitsu",
+      "definition": "pencil",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "服",
+      "pronounciation": "fuku",
+      "definition": "clothes",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "吹く",
+      "pronounciation": "fuku",
+      "definition": "to blow (wind)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "二人",
+      "pronounciation": "futari",
+      "definition": "two people, pair",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "二日",
+      "pronounciation": "futsuka",
+      "definition": "second day of the month, two days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "降る",
+      "pronounciation": "furu",
+      "definition": "to fall (rain)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "古い",
+      "pronounciation": "furui",
+      "definition": "old (not person)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "封筒",
+      "pronounciation": "fuutou",
+      "definition": "envelope",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "冬",
+      "pronounciation": "fuyu",
+      "definition": "winter",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "学校",
+      "pronounciation": "gakkou",
+      "definition": "school",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "学生",
+      "pronounciation": "gakusei",
+      "definition": "student",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "外国",
+      "pronounciation": "gaikoku",
+      "definition": "foreign country",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "外国人",
+      "pronounciation": "gaikokujin",
+      "definition": "foreigner",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "元気",
+      "pronounciation": "genki",
+      "definition": "lively, full of spirit",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "玄関",
+      "pronounciation": "genkan",
+      "definition": "entranceway, entrance hall",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "月曜日",
+      "pronounciation": "getsuyoubi",
+      "definition": "Monday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "銀行",
+      "pronounciation": "ginkou",
+      "definition": "bank",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "牛肉",
+      "pronounciation": "gyuuniku",
+      "definition": "beef",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "牛乳",
+      "pronounciation": "gyuunyuu",
+      "definition": "milk",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "五",
+      "pronounciation": "go",
+      "definition": "five",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "午後",
+      "pronounciation": "gogo",
+      "definition": "afternoon, p.m.",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ご飯",
+      "pronounciation": "gohan",
+      "definition": "cooked rice, meal",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "午前",
+      "pronounciation": "gozen",
+      "definition": "morning, a.m.",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "歯",
+      "pronounciation": "ha",
+      "definition": "tooth",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "八",
+      "pronounciation": "hachi",
+      "definition": "eight",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "葉書",
+      "pronounciation": "hagaki",
+      "definition": "postcard",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "母",
+      "pronounciation": "haha",
+      "definition": "mother",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "入る",
+      "pronounciation": "hairu",
+      "definition": "to enter, to go into",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "灰皿",
+      "pronounciation": "haizara",
+      "definition": "ashtray",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "始め",
+      "pronounciation": "hajime",
+      "definition": "beginning, start",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "初めて",
+      "pronounciation": "hajimete",
+      "definition": "for the first time",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "始まる",
+      "pronounciation": "hajimaru",
+      "definition": "to begin, to start",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "箱",
+      "pronounciation": "hako",
+      "definition": "box, chest",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "半分",
+      "pronounciation": "hanbun",
+      "definition": "half",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "花",
+      "pronounciation": "hana",
+      "definition": "flower, blossom",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "鼻",
+      "pronounciation": "hana",
+      "definition": "nose",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "話",
+      "pronounciation": "hanashi",
+      "definition": "talk, speech, chat",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "話す",
+      "pronounciation": "hanasu",
+      "definition": "to talk, to speak",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "晴れる",
+      "pronounciation": "hareru",
+      "definition": "to clear up",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "春",
+      "pronounciation": "haru",
+      "definition": "spring, springtime",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "貼る",
+      "pronounciation": "haru",
+      "definition": "to stick, to paste",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "箸",
+      "pronounciation": "hashi",
+      "definition": "chopsticks",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "橋",
+      "pronounciation": "hashi",
+      "definition": "bridge",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "走る",
+      "pronounciation": "hashiru",
+      "definition": "to run",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "二十歳",
+      "pronounciation": "hatachi",
+      "definition": "twenty years old",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "働く",
+      "pronounciation": "hataraku",
+      "definition": "to work",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "二十日",
+      "pronounciation": "hatsuka",
+      "definition": "twentieth day of the month, twenty days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "早い",
+      "pronounciation": "hayai",
+      "definition": "early",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "早く",
+      "pronounciation": "hayaku",
+      "definition": "early, soon, quickly",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "速い",
+      "pronounciation": "hayai",
+      "definition": "fast, quick",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "辺",
+      "pronounciation": "hen",
+      "definition": "area, vicinity",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "下手",
+      "pronounciation": "heta",
+      "definition": "unskillful",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "部屋",
+      "pronounciation": "heya",
+      "definition": "room, chamber",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "日",
+      "pronounciation": "hi",
+      "definition": "day, sun",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "火",
+      "pronounciation": "hi",
+      "definition": "fire, flame",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "左",
+      "pronounciation": "hidari",
+      "definition": "left, left hand side",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "東",
+      "pronounciation": "higashi",
+      "definition": "east",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "弾く",
+      "pronounciation": "hiku",
+      "definition": "to play (piano, guitar)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "引く",
+      "pronounciation": "hiku",
+      "definition": "to pull, to draw",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "低い",
+      "pronounciation": "hikui",
+      "definition": "low (rank), short (height)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "飛行機",
+      "pronounciation": "hikouki",
+      "definition": "aeroplane, airplane",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "暇",
+      "pronounciation": "hima",
+      "definition": "spare time, free time",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "広い",
+      "pronounciation": "hiroi",
+      "definition": "spacious, vast, wide",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "昼",
+      "pronounciation": "hiru",
+      "definition": "noon, midday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "昼ご飯",
+      "pronounciation": "hirugohan",
+      "definition": "lunch, midday meal",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "人",
+      "pronounciation": "hito",
+      "definition": "person",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一人",
+      "pronounciation": "hitori",
+      "definition": "one person, alone",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一つ",
+      "pronounciation": "hitotsu",
+      "definition": "one",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "本",
+      "pronounciation": "hon",
+      "definition": "book",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "本棚",
+      "pronounciation": "hondana",
+      "definition": "bookshelf, bookcase",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "本当",
+      "pronounciation": "hontou",
+      "definition": "truth, reality",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "他",
+      "pronounciation": "hoka",
+      "definition": "other, the rest",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "百",
+      "pronounciation": "hyaku",
+      "definition": "hundred",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一",
+      "pronounciation": "ichi",
+      "definition": "one",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一番",
+      "pronounciation": "ichiban",
+      "definition": "number one, first, first place",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一日",
+      "pronounciation": "ichinichi",
+      "definition": "one day",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "家",
+      "pronounciation": "ie",
+      "definition": "house, residence",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "いい",
+      "pronounciation": "ii",
+      "definition": "good",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "否",
+      "pronounciation": "iie",
+      "definition": "no, nay",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "池",
+      "pronounciation": "ike",
+      "definition": "pond",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "行く",
+      "pronounciation": "iku",
+      "definition": "to go",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "幾ら",
+      "pronounciation": "ikura",
+      "definition": "how much, how many",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "幾つ",
+      "pronounciation": "ikutsu",
+      "definition": "how many, how old",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "今",
+      "pronounciation": "ima",
+      "definition": "now, the present time",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "意味",
+      "pronounciation": "imi",
+      "definition": "meaning, significance",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "妹",
+      "pronounciation": "imouto",
+      "definition": "younger sister",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "犬",
+      "pronounciation": "inu",
+      "definition": "dog",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "入れる",
+      "pronounciation": "ireru",
+      "definition": "to put in, to let in",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "入口",
+      "pronounciation": "iriguchi",
+      "definition": "entrance, gate",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "色",
+      "pronounciation": "iro",
+      "definition": "color, complexion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "色々",
+      "pronounciation": "iroiro",
+      "definition": "various",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "要る",
+      "pronounciation": "iru",
+      "definition": "to need, to want",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "医者",
+      "pronounciation": "isha",
+      "definition": "(medical) doctor, physician",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "忙しい",
+      "pronounciation": "isogashii",
+      "definition": "busy, occupied",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一緒",
+      "pronounciation": "issho",
+      "definition": "together",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "椅子",
+      "pronounciation": "isu",
+      "definition": "chair, stool",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "痛い",
+      "pronounciation": "itai",
+      "definition": "painful, sore",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "五日",
+      "pronounciation": "itsuka",
+      "definition": "fifth day of the month, five days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "いつも",
+      "pronounciation": "itsumo",
+      "definition": "always, usually",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "五つ",
+      "pronounciation": "itsutsu",
+      "definition": "five",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "言う",
+      "pronounciation": "iu",
+      "definition": "to say, to utter",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "嫌",
+      "pronounciation": "iya",
+      "definition": "disagreeable, detestable",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "字引",
+      "pronounciation": "jibiki",
+      "definition": "dictionary",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "自分",
+      "pronounciation": "jibun",
+      "definition": "myself, yourself, oneself",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "自動車",
+      "pronounciation": "jidousha",
+      "definition": "automobile",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "時間",
+      "pronounciation": "jikan",
+      "definition": "time, hours",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "辞書",
+      "pronounciation": "jisho",
+      "definition": "dictionary",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "自転車",
+      "pronounciation": "jitensha",
+      "definition": "bicycle",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "上手",
+      "pronounciation": "jouzu",
+      "definition": "skill, skillful",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "授業",
+      "pronounciation": "jugyou",
+      "definition": "lesson, class work",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "鞄",
+      "pronounciation": "kaban",
+      "definition": "bag",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "花瓶",
+      "pronounciation": "kabin",
+      "definition": "(flower) vase",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "角",
+      "pronounciation": "kado",
+      "definition": "corner, edge",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "帰る",
+      "pronounciation": "kaeru",
+      "definition": "to return, to come home",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "返す",
+      "pronounciation": "kaesu",
+      "definition": "to return (something)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "鍵",
+      "pronounciation": "kagi",
+      "definition": "key, lock",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "階段",
+      "pronounciation": "kaidan",
+      "definition": "stairs, stairway",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "買物",
+      "pronounciation": "kaimono",
+      "definition": "shopping",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "会社",
+      "pronounciation": "kaisha",
+      "definition": "company, corporation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "書く",
+      "pronounciation": "kaku",
+      "definition": "to write, to compose",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "紙",
+      "pronounciation": "kami",
+      "definition": "paper",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "漢字",
+      "pronounciation": "kanji",
+      "definition": "Chinese characters",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "体",
+      "pronounciation": "karada",
+      "definition": "body, torso",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "辛い",
+      "pronounciation": "karai",
+      "definition": "spicy, hot",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "借りる",
+      "pronounciation": "kariru",
+      "definition": "to borrow",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "軽い",
+      "pronounciation": "karui",
+      "definition": "light (not heavy)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "傘",
+      "pronounciation": "kasa",
+      "definition": "umbrella",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "貸す",
+      "pronounciation": "kasu",
+      "definition": "to lend, to loan",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "方",
+      "pronounciation": "kata",
+      "definition": "person",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "家庭",
+      "pronounciation": "katei",
+      "definition": "home, family, household",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "買う",
+      "pronounciation": "kau",
+      "definition": "to buy, to purchase",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "可愛い",
+      "pronounciation": "kawaii",
+      "definition": "cute, adorable",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "家族",
+      "pronounciation": "kazoku",
+      "definition": "family, members of a family",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "風",
+      "pronounciation": "kaze",
+      "definition": "wind, breeze",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "風邪",
+      "pronounciation": "kaze",
+      "definition": "cold, influenza",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "川",
+      "pronounciation": "kawa",
+      "definition": "river, stream",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "警官",
+      "pronounciation": "keikan",
+      "definition": "police officer, policeman",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "結婚",
+      "pronounciation": "kekkon",
+      "definition": "marriage",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "結構",
+      "pronounciation": "kekkou",
+      "definition": "spenlid, nice, okay",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "今朝",
+      "pronounciation": "kesa",
+      "definition": "this morning",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "消す",
+      "pronounciation": "kesu",
+      "definition": "to erase, to delete",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "木",
+      "pronounciation": "ki",
+      "definition": "tree",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "消える",
+      "pronounciation": "kieru",
+      "definition": "to go out, to vanish",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "黄色い",
+      "pronounciation": "kiiroi",
+      "definition": "yellow",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "昨日",
+      "pronounciation": "kinou",
+      "definition": "yesterday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "金曜日",
+      "pronounciation": "kin’youbi",
+      "definition": "Friday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "切符",
+      "pronounciation": "kippu",
+      "definition": "ticket",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "嫌い",
+      "pronounciation": "kirai",
+      "definition": "dislike, hate",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "切る",
+      "pronounciation": "kiru",
+      "definition": "to cut",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "着る",
+      "pronounciation": "kiru",
+      "definition": "to wear, to put on",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "喫茶店",
+      "pronounciation": "kissaten",
+      "definition": "coffee shop",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "北",
+      "pronounciation": "kita",
+      "definition": "north",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "汚い",
+      "pronounciation": "kitanai",
+      "definition": "dirty, filthy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "切手",
+      "pronounciation": "kitte",
+      "definition": "stamp (postage)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "九",
+      "pronounciation": "kyuu",
+      "definition": "nine",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "声",
+      "pronounciation": "koe",
+      "definition": "voice",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ここ",
+      "pronounciation": "koko",
+      "definition": "here",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "九日",
+      "pronounciation": "kokonoka",
+      "definition": "ninth day of the month, nine days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "困る",
+      "pronounciation": "komaru",
+      "definition": "to be troubled, to be worried",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "今晩",
+      "pronounciation": "konban",
+      "definition": "tonight, this evening",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "今週",
+      "pronounciation": "konshuu",
+      "definition": "this week",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "交番",
+      "pronounciation": "kouban",
+      "definition": "police box",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "紅茶",
+      "pronounciation": "koucha",
+      "definition": "black tea",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "公園",
+      "pronounciation": "kouen",
+      "definition": "(public) park",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "子供",
+      "pronounciation": "kodomo",
+      "definition": "child, children",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "答える",
+      "pronounciation": "kotaeru",
+      "definition": "to answer, to reply",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "言葉",
+      "pronounciation": "kotoba",
+      "definition": "language, dialect",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "今年",
+      "pronounciation": "kotoshi",
+      "definition": "this year",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "交差点",
+      "pronounciation": "kousaten",
+      "definition": "crossing, intersection",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "聞く",
+      "pronounciation": "kiku",
+      "definition": "to hear, to listen",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "奇麗",
+      "pronounciation": "kirei",
+      "definition": "pretty, lovely, beautiful",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "去年",
+      "pronounciation": "kyonen",
+      "definition": "last year",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "今日",
+      "pronounciation": "kyou",
+      "definition": "today, this day",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "兄弟",
+      "pronounciation": "kyoudai",
+      "definition": "siblings, brothers and sisters",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "教室",
+      "pronounciation": "kyoushitsu",
+      "definition": "classroom, department",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "口",
+      "pronounciation": "kuchi",
+      "definition": "mouth, opening, hole",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "果物",
+      "pronounciation": "kudamono",
+      "definition": "fruit",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "曇り",
+      "pronounciation": "kumori",
+      "definition": "cloudiness, cloudy weather",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "国",
+      "pronounciation": "kuni",
+      "definition": "country, state, region",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "暗い",
+      "pronounciation": "kurai",
+      "definition": "dark, gloomy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "黒い",
+      "pronounciation": "kuroi",
+      "definition": "black, dark",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "来る",
+      "pronounciation": "kuru",
+      "definition": "to come",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "車",
+      "pronounciation": "kuruma",
+      "definition": "car, automobile",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "薬",
+      "pronounciation": "kusuri",
+      "definition": "medicine",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "靴",
+      "pronounciation": "kutsu",
+      "definition": "shoes, boots",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "靴下",
+      "pronounciation": "kutsushita",
+      "definition": "socks",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "町",
+      "pronounciation": "machi",
+      "definition": "town, block",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "まだ",
+      "pronounciation": "mada",
+      "definition": "still, not yet",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "前",
+      "pronounciation": "mae",
+      "definition": "front, ahead, previous",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "毎朝",
+      "pronounciation": "maiasa",
+      "definition": "every morning",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "毎晩",
+      "pronounciation": "maiban",
+      "definition": "every night",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "毎月",
+      "pronounciation": "maitsuki/maigetsu",
+      "definition": "every month",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "毎日",
+      "pronounciation": "mainichi",
+      "definition": "every day",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "毎週",
+      "pronounciation": "maishuu",
+      "definition": "every week",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "毎年",
+      "pronounciation": "maitoshi",
+      "definition": "every year, yearly",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "窓",
+      "pronounciation": "mado",
+      "definition": "window",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "曲がる",
+      "pronounciation": "magaru",
+      "definition": "to bend, to curve",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "万",
+      "pronounciation": "man",
+      "definition": "ten thousand",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "丸い",
+      "pronounciation": "marui",
+      "definition": "round, circular",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "また",
+      "pronounciation": "mata",
+      "definition": "again, also",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "待つ",
+      "pronounciation": "matsu",
+      "definition": "to wait, to look forward to",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "不味い",
+      "pronounciation": "mazui",
+      "definition": "unappetizing, unsavory",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "目",
+      "pronounciation": "me",
+      "definition": "eye, eyeball",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "眼鏡",
+      "pronounciation": "megane",
+      "definition": "spectacles, glasses",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "道",
+      "pronounciation": "michi",
+      "definition": "road, street, way",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "緑",
+      "pronounciation": "midori",
+      "definition": "green",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "磨く",
+      "pronounciation": "migaku",
+      "definition": "to polish, to shine",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "右",
+      "pronounciation": "migi",
+      "definition": "right, right hand side",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "短い",
+      "pronounciation": "mijikai",
+      "definition": "short",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "耳",
+      "pronounciation": "mimi",
+      "definition": "ear",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "南",
+      "pronounciation": "minami",
+      "definition": "south",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "皆",
+      "pronounciation": "minna",
+      "definition": "all, everyone",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "見る",
+      "pronounciation": "miru",
+      "definition": "to see, to look, to watch",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "店",
+      "pronounciation": "mise",
+      "definition": "store, shop",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "見せる",
+      "pronounciation": "miseru",
+      "definition": "to show, to display",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "水",
+      "pronounciation": "mizu",
+      "definition": "water",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "門",
+      "pronounciation": "mon",
+      "definition": "gate",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "問題",
+      "pronounciation": "mondai",
+      "definition": "question, problem",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "持つ",
+      "pronounciation": "motsu",
+      "definition": "to hold (in one’s hands)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "木曜日",
+      "pronounciation": "mokuyoubi",
+      "definition": "Thursday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "六日",
+      "pronounciation": "muika",
+      "definition": "sixth day of the month, six days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "向こう",
+      "pronounciation": "mukou",
+      "definition": "opposite side, other side",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "村",
+      "pronounciation": "mura",
+      "definition": "village",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "難しい",
+      "pronounciation": "muzukashii",
+      "definition": "difficult, hard",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "長い",
+      "pronounciation": "nagai",
+      "definition": "long, lengthy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "中",
+      "pronounciation": "naka",
+      "definition": "inside, in, among",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "鳴く",
+      "pronounciation": "naku",
+      "definition": "to sing (bird)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "無くす",
+      "pronounciation": "nakusu",
+      "definition": "to lose something",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "名前",
+      "pronounciation": "namae",
+      "definition": "name, full name",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "何",
+      "pronounciation": "nani",
+      "definition": "what",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "七日",
+      "pronounciation": "nanoka",
+      "definition": "seventh day of the month, seven days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "並ぶ",
+      "pronounciation": "narabu",
+      "definition": "to stand in a line",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "並べる",
+      "pronounciation": "naraberu",
+      "definition": "to line up",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "習う",
+      "pronounciation": "narau",
+      "definition": "to be taught, to learn (from a teacher)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "なる",
+      "pronounciation": "naru",
+      "definition": "to become",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "夏",
+      "pronounciation": "natsu",
+      "definition": "summer",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "猫",
+      "pronounciation": "neko",
+      "definition": "cat",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "寝る",
+      "pronounciation": "neru",
+      "definition": "to go to bed",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "二",
+      "pronounciation": "ni",
+      "definition": "two",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "日曜日",
+      "pronounciation": "nichiyoubi",
+      "definition": "Sunday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "賑やか",
+      "pronounciation": "nigiyaka",
+      "definition": "bustling, busy, lively",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "肉",
+      "pronounciation": "niku",
+      "definition": "flesh, meat",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "荷物",
+      "pronounciation": "nimotsu",
+      "definition": "luggage, baggage",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "西",
+      "pronounciation": "nishi",
+      "definition": "west",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "庭",
+      "pronounciation": "niwa",
+      "definition": "garden, yard",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "登る",
+      "pronounciation": "noboru",
+      "definition": "to ascend, to go up",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "飲物",
+      "pronounciation": "nomimono",
+      "definition": "drink, beverage",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "飲む",
+      "pronounciation": "nomu",
+      "definition": "to drink, to gulp",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "乗る",
+      "pronounciation": "noru",
+      "definition": "to get on (train, plane, bus, ship)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "脱ぐ",
+      "pronounciation": "nugu",
+      "definition": "to take off (clothes, shoes)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "伯母さん",
+      "pronounciation": "obasan",
+      "definition": "aunt",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お祖母さん",
+      "pronounciation": "obaasan",
+      "definition": "grandmother",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お弁当",
+      "pronounciation": "obentou",
+      "definition": "Japanese lunch box",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "覚える",
+      "pronounciation": "oboeru",
+      "definition": "to memorize, to remember",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お茶",
+      "pronounciation": "ocha",
+      "definition": "tea",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お風呂",
+      "pronounciation": "ofuro",
+      "definition": "bath",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "美味しい",
+      "pronounciation": "oishii",
+      "definition": "delicious, tasty",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お母さん",
+      "pronounciation": "okaasan",
+      "definition": "mother",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お金",
+      "pronounciation": "okane",
+      "definition": "money",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お菓子",
+      "pronounciation": "okashi",
+      "definition": "sweets, candy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "起きる",
+      "pronounciation": "okiru",
+      "definition": "to get up, to rise",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "置く",
+      "pronounciation": "oku",
+      "definition": "to put, to place",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "奥さん",
+      "pronounciation": "okusan",
+      "definition": "wife, your wife, his wife",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お巡りさん",
+      "pronounciation": "omawarisan",
+      "definition": "police officer",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "重い",
+      "pronounciation": "omoi",
+      "definition": "heavy, weighty",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "面白い",
+      "pronounciation": "omoshiroi",
+      "definition": "interesting, fascinating",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お腹",
+      "pronounciation": "onaka",
+      "definition": "stomach",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "音楽",
+      "pronounciation": "ongaku",
+      "definition": "music",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "女",
+      "pronounciation": "onna",
+      "definition": "female, woman",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "同じ",
+      "pronounciation": "onaji",
+      "definition": "same, identical",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お姉さん",
+      "pronounciation": "oneesan",
+      "definition": "elder sister",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お兄さん",
+      "pronounciation": "oniisan",
+      "definition": "elder brother",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "女の子",
+      "pronounciation": "onna no ko",
+      "definition": "girl",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "多い",
+      "pronounciation": "ooi",
+      "definition": "many, numerous, a lot",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大きい",
+      "pronounciation": "ookii",
+      "definition": "big, large, great",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大勢",
+      "pronounciation": "oozei",
+      "definition": "many, crowd, great number of people",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "降りる",
+      "pronounciation": "oriru",
+      "definition": "to descend, to get off",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お皿",
+      "pronounciation": "osara",
+      "definition": "plate, dish",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "教える",
+      "pronounciation": "oshieru",
+      "definition": "to teach, to instruct",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "遅い",
+      "pronounciation": "osoi",
+      "definition": "slow, late",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "押す",
+      "pronounciation": "osu",
+      "definition": "to push, to press",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お手洗い",
+      "pronounciation": "otearai",
+      "definition": "toilet, restroom",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "男",
+      "pronounciation": "otoko",
+      "definition": "man, male",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "男の子",
+      "pronounciation": "otoko no ko",
+      "definition": "boy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大人",
+      "pronounciation": "otona",
+      "definition": "adult",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一昨日",
+      "pronounciation": "ototoi",
+      "definition": "day before yesterday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "お父さん",
+      "pronounciation": "otousan",
+      "definition": "father, dad",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一昨年",
+      "pronounciation": "ototoshi",
+      "definition": "year before last",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "弟",
+      "pronounciation": "otouto",
+      "definition": "younger brother",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "終わる",
+      "pronounciation": "owaru",
+      "definition": "to finish, to end",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "泳ぐ",
+      "pronounciation": "oyogu",
+      "definition": "to swim",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "来月",
+      "pronounciation": "raigetsu",
+      "definition": "next month",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "来年",
+      "pronounciation": "rainen",
+      "definition": "next year",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "来週",
+      "pronounciation": "raishuu",
+      "definition": "next week",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "冷蔵庫",
+      "pronounciation": "reizouko",
+      "definition": "refrigerator",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "練習",
+      "pronounciation": "renshuu",
+      "definition": "practice",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "六",
+      "pronounciation": "roku",
+      "definition": "six",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "廊下",
+      "pronounciation": "rouka",
+      "definition": "corridor, hallway",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "旅行",
+      "pronounciation": "ryokou",
+      "definition": "travel, trip",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "料理",
+      "pronounciation": "ryouri",
+      "definition": "cooking, cuisine",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "両親",
+      "pronounciation": "ryoushin",
+      "definition": "parents, both parents",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "留学生",
+      "pronounciation": "ryuugakusei",
+      "definition": "overseas student",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "歳",
+      "pronounciation": "sai",
+      "definition": "years old",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "財布",
+      "pronounciation": "saifu",
+      "definition": "purse, wallet",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "魚",
+      "pronounciation": "sakana",
+      "definition": "fish",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "酒",
+      "pronounciation": "sake",
+      "definition": "alcohol, sake",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "先",
+      "pronounciation": "saki",
+      "definition": "previous, prior, former",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "咲く",
+      "pronounciation": "saku",
+      "definition": "to bloom",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "作文",
+      "pronounciation": "sakubun",
+      "definition": "writing (an essay), composition",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "寒い",
+      "pronounciation": "samui",
+      "definition": "cold",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "三",
+      "pronounciation": "san",
+      "definition": "three",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "散歩",
+      "pronounciation": "sanpo",
+      "definition": "walk, stroll",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "再来年",
+      "pronounciation": "sarainen",
+      "definition": "year after next",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "砂糖",
+      "pronounciation": "satou",
+      "definition": "sugar",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "背",
+      "pronounciation": "se",
+      "definition": "height, stature",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "背広",
+      "pronounciation": "sebiro",
+      "definition": "business suit",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "生徒",
+      "pronounciation": "seito",
+      "definition": "pupil",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "石鹸",
+      "pronounciation": "sekken",
+      "definition": "soap",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "狭い",
+      "pronounciation": "semai",
+      "definition": "narrow, confined",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "千",
+      "pronounciation": "sen",
+      "definition": "thousand",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "先月",
+      "pronounciation": "sengetsu",
+      "definition": "last month",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "先生",
+      "pronounciation": "sensei",
+      "definition": "teacher, master, doctor",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "先週",
+      "pronounciation": "senshuu",
+      "definition": "last week",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "洗濯",
+      "pronounciation": "sentaku",
+      "definition": "washing, laundry",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "四",
+      "pronounciation": "shi, yon",
+      "definition": "four",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "七",
+      "pronounciation": "shichi, nana",
+      "definition": "seven",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "写真",
+      "pronounciation": "shashin",
+      "definition": "photograph, photo, picture",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "仕事",
+      "pronounciation": "shigoto",
+      "definition": "work, job",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "閉まる",
+      "pronounciation": "shimaru",
+      "definition": "to be shut, to close",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "閉める",
+      "pronounciation": "shimeru",
+      "definition": "to close, to shut",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "締める",
+      "pronounciation": "shimeru",
+      "definition": "to tie, to fasten",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "新聞",
+      "pronounciation": "shinbun",
+      "definition": "newspaper",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "死ぬ",
+      "pronounciation": "shinu",
+      "definition": "to die, to pass away",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "塩",
+      "pronounciation": "shio",
+      "definition": "salt",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "白い",
+      "pronounciation": "shiroi",
+      "definition": "white",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "知る",
+      "pronounciation": "shiru",
+      "definition": "to be aware of, to know",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "下",
+      "pronounciation": "shita",
+      "definition": "below, down, under",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "質問",
+      "pronounciation": "shitsumon",
+      "definition": "question, inquiry",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "静か",
+      "pronounciation": "shizuka",
+      "definition": "quiet, silent",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "食堂",
+      "pronounciation": "shokudou",
+      "definition": "dining room, dining hall",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "醤油",
+      "pronounciation": "shouyu",
+      "definition": "soy sauce",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "宿題",
+      "pronounciation": "shukudai",
+      "definition": "homework",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "側",
+      "pronounciation": "soba",
+      "definition": "near, close, beside",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "空",
+      "pronounciation": "sora",
+      "definition": "sky",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "外",
+      "pronounciation": "soto",
+      "definition": "outside, exterior",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "掃除",
+      "pronounciation": "souji",
+      "definition": "cleaning, sweeping",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "水曜日",
+      "pronounciation": "suiyoubi",
+      "definition": "Wednesday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "好き",
+      "pronounciation": "suki",
+      "definition": "liking, fondness, love",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "少し",
+      "pronounciation": "sukoshi",
+      "definition": "small quantity, little",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "少ない",
+      "pronounciation": "sukunai",
+      "definition": "few, a little",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "住む",
+      "pronounciation": "sumu",
+      "definition": "to live, to reside",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "する",
+      "pronounciation": "suru",
+      "definition": "to do",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "吸う",
+      "pronounciation": "suu",
+      "definition": "to smoke, to breathe in",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "座る",
+      "pronounciation": "suwaru",
+      "definition": "to sit",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "涼しい",
+      "pronounciation": "suzushii",
+      "definition": "cool, refreshing",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "煙草",
+      "pronounciation": "tabako",
+      "definition": "tabacco, cigarette",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "食べ物",
+      "pronounciation": "tabemono",
+      "definition": "food",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "食べる",
+      "pronounciation": "taberu",
+      "definition": "to eat",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "多分",
+      "pronounciation": "tabun",
+      "definition": "perhaps, probably",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大変",
+      "pronounciation": "taihen",
+      "definition": "very, greatly, immense",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大切",
+      "pronounciation": "taisetsu",
+      "definition": "important, necessary",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大使館",
+      "pronounciation": "taishikan",
+      "definition": "embassy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "高い",
+      "pronounciation": "takai",
+      "definition": "high, tall, expensive",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "沢山",
+      "pronounciation": "takusan",
+      "definition": "a lot, plenty, many",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "卵",
+      "pronounciation": "tamago",
+      "definition": "egg, spawn",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "誕生日",
+      "pronounciation": "tanjoubi",
+      "definition": "birthday",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "楽しい",
+      "pronounciation": "tanoshii",
+      "definition": "enjoyable, fun",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "頼む",
+      "pronounciation": "tanomu",
+      "definition": "to request, to beg, to ask",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "建物",
+      "pronounciation": "tatemono",
+      "definition": "building",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "立つ",
+      "pronounciation": "tatsu",
+      "definition": "to stand, to rise",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "手",
+      "pronounciation": "te",
+      "definition": "hand",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "手紙",
+      "pronounciation": "tegami",
+      "definition": "letter",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "天気",
+      "pronounciation": "tenki",
+      "definition": "weather",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "戸",
+      "pronounciation": "to",
+      "definition": "door",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "飛ぶ",
+      "pronounciation": "tobu",
+      "definition": "to fly",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "友達",
+      "pronounciation": "tomodachi",
+      "definition": "friend, companion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "止まる",
+      "pronounciation": "tomaru",
+      "definition": "to stop (moving)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "隣",
+      "pronounciation": "tonari",
+      "definition": "neighbor, next to",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "十日",
+      "pronounciation": "tooka",
+      "definition": "tenth day of the month, ten days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "鳥",
+      "pronounciation": "tori",
+      "definition": "bird",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "取る",
+      "pronounciation": "toru",
+      "definition": "to take, to pick up",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "年",
+      "pronounciation": "toshi",
+      "definition": "year, age",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "図書館",
+      "pronounciation": "toshokan",
+      "definition": "library",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "時計",
+      "pronounciation": "tokei",
+      "definition": "watch, clock",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "時々",
+      "pronounciation": "tokidoki",
+      "definition": "sometimes, at times",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "所",
+      "pronounciation": "tokoro",
+      "definition": "place, spot, scene",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "遠い",
+      "pronounciation": "tooi",
+      "definition": "far, distant",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "撮る",
+      "pronounciation": "toru",
+      "definition": "to take (a photo), to record (a video)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "とても",
+      "pronounciation": "totemo",
+      "definition": "very, exceedingly",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "疲れる",
+      "pronounciation": "tsukareru",
+      "definition": "to get tired",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "次",
+      "pronounciation": "tsugi",
+      "definition": "next, following",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "使う",
+      "pronounciation": "tsukau",
+      "definition": "to use, to make use of",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一日",
+      "pronounciation": "tsuitachi",
+      "definition": "first day of the month",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "着く",
+      "pronounciation": "tsuku",
+      "definition": "to arrive at, to reach",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "机",
+      "pronounciation": "tsukue",
+      "definition": "desk",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "作る",
+      "pronounciation": "tsukuru",
+      "definition": "to make, to produce",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "詰まらない",
+      "pronounciation": "tsumaranai",
+      "definition": "dull, uninteresting",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "冷たい",
+      "pronounciation": "tsumetai",
+      "definition": "cold (to the touch)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "勤める",
+      "pronounciation": "tsutomeru",
+      "definition": "to work (for), to be employed (at)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "強い",
+      "pronounciation": "tsuyoi",
+      "definition": "strong, powerful",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "上",
+      "pronounciation": "ue",
+      "definition": "above, up, over",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "生まれる",
+      "pronounciation": "umareru",
+      "definition": "to be born",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "海",
+      "pronounciation": "umi",
+      "definition": "sea, ocean",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "売る",
+      "pronounciation": "uru",
+      "definition": "to sell",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "煩い",
+      "pronounciation": "urusai",
+      "definition": "noisy, loud",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "後ろ",
+      "pronounciation": "ushiro",
+      "definition": "back, behind, rear",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "薄い",
+      "pronounciation": "usui",
+      "definition": "thin, pale, light",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "歌",
+      "pronounciation": "uta",
+      "definition": "song",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "歌う",
+      "pronounciation": "utau",
+      "definition": "to sing",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "上着",
+      "pronounciation": "uwagi",
+      "definition": "coat, jacket",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "若い",
+      "pronounciation": "wakai",
+      "definition": "young, youthful",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "分かる",
+      "pronounciation": "wakaru",
+      "definition": "to understand, to comprehend",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "悪い",
+      "pronounciation": "warui",
+      "definition": "bad, poor, inferior",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "忘れる",
+      "pronounciation": "wasureru",
+      "definition": "to forget",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "私",
+      "pronounciation": "watashi",
+      "definition": "I, me",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "渡る",
+      "pronounciation": "wataru",
+      "definition": "to cross over",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "渡す",
+      "pronounciation": "watasu",
+      "definition": "to hand over, to hand in",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "山",
+      "pronounciation": "yama",
+      "definition": "mountain",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "やる",
+      "pronounciation": "yaru",
+      "definition": "to do",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "野菜",
+      "pronounciation": "yasai",
+      "definition": "vegetable",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "安い",
+      "pronounciation": "yasui",
+      "definition": "cheap, inexpensive",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "休み",
+      "pronounciation": "yasumi",
+      "definition": "rest, recess",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "休む",
+      "pronounciation": "yasumu",
+      "definition": "to be absent, to take a day off",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "呼ぶ",
+      "pronounciation": "yobu",
+      "definition": "to call out, to call",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "四日",
+      "pronounciation": "yokka",
+      "definition": "fourth day of the month, four days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "横",
+      "pronounciation": "yoko",
+      "definition": "horizontal",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "読む",
+      "pronounciation": "yomu",
+      "definition": "to read",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "夜",
+      "pronounciation": "yoru",
+      "definition": "evening, night",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "洋服",
+      "pronounciation": "youfuku",
+      "definition": "Western-style clothes",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "八日",
+      "pronounciation": "youka",
+      "definition": "eight day of the month, eight days",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "弱い",
+      "pronounciation": "yowai",
+      "definition": "weak, frail, delicate",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "雪",
+      "pronounciation": "yuki",
+      "definition": "snow",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ゆっくり",
+      "pronounciation": "yukkuri",
+      "definition": "slowly, at ease",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "郵便局",
+      "pronounciation": "yuubinkyoku",
+      "definition": "post office",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "有名",
+      "pronounciation": "yuumei",
+      "definition": "famous",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "雑誌",
+      "pronounciation": "zasshi",
+      "definition": "journal, magazine",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "全部",
+      "pronounciation": "zenbu",
+      "definition": "all, entire, whole",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "アパート",
+      "pronounciation": "apaato",
+      "definition": "apartment",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "バス",
+      "pronounciation": "basu",
+      "definition": "bus",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ベッド",
+      "pronounciation": "beddo",
+      "definition": "bed",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "デパート",
+      "pronounciation": "depaato",
+      "definition": "department store",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ドア",
+      "pronounciation": "doa",
+      "definition": "door (Western style)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "エレベータ",
+      "pronounciation": "erebeeta",
+      "definition": "elevator",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "フォーク",
+      "pronounciation": "fooku",
+      "definition": "fork",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ギター",
+      "pronounciation": "gitaa",
+      "definition": "guitar",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "グラム",
+      "pronounciation": "guramu",
+      "definition": "gram",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ホテル",
+      "pronounciation": "hoteru",
+      "definition": "hotel",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "カメラ",
+      "pronounciation": "kamera",
+      "definition": "camera",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "キロ",
+      "pronounciation": "kiro",
+      "definition": "kilogram",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "コーヒー",
+      "pronounciation": "koohii",
+      "definition": "coffee",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "コート",
+      "pronounciation": "kooto",
+      "definition": "coat",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "コップ",
+      "pronounciation": "koppu",
+      "definition": "glass",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "クラス",
+      "pronounciation": "kurasu",
+      "definition": "class",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "パーティー",
+      "pronounciation": "paatii",
+      "definition": "party",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ペン",
+      "pronounciation": "pen",
+      "definition": "pen",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ペット",
+      "pronounciation": "petto",
+      "definition": "pet",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ポケット",
+      "pronounciation": "poketto",
+      "definition": "pocket",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "プール",
+      "pronounciation": "puuru",
+      "definition": "swimming pool",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "セーター",
+      "pronounciation": "seetaa",
+      "definition": "sweater, jumper",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "シャワー",
+      "pronounciation": "shawaa",
+      "definition": "shower",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "シャツ",
+      "pronounciation": "shatsu",
+      "definition": "shirt",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "スカート",
+      "pronounciation": "sukaato",
+      "definition": "skirt",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "スポーツ",
+      "pronounciation": "supootsu",
+      "definition": "sport",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "スプーン",
+      "pronounciation": "supuun",
+      "definition": "spoon",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "スリッパ",
+      "pronounciation": "surippa",
+      "definition": "slippers",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ストーブ",
+      "pronounciation": "sutoobu",
+      "definition": "heater, stove",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "タクシー",
+      "pronounciation": "takushii",
+      "definition": "taxi",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "テーブル",
+      "pronounciation": "teeburu",
+      "definition": "table",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "テープ",
+      "pronounciation": "teepu",
+      "definition": "tape",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "テープレコーダー",
+      "pronounciation": "teepu rekoodaa",
+      "definition": "tape recorder",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "テレビ",
+      "pronounciation": "terebi",
+      "definition": "television, TV",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "テスト",
+      "pronounciation": "tesuto",
+      "definition": "test",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "トイレ",
+      "pronounciation": "toire",
+      "definition": "toilet, restroom",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ゼロ",
+      "pronounciation": "zero",
+      "definition": "zero, naught",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "ズボン",
+      "pronounciation": "zubon",
+      "definition": "trousers, pants",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    }
+  ]
+}

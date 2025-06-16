@@ -1,0 +1,4364 @@
+{
+  "vocabList": [
+    {
+      "book": "Japanese",
+      "word": "赤字",
+      "pronounciation": "akaji",
+      "definition": "deficit",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "悪事",
+      "pronounciation": "akuji",
+      "definition": "evil deed, crime",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "圧倒",
+      "pronounciation": "attou",
+      "definition": "overwhelm, overpower",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "扱い",
+      "pronounciation": "atsukai",
+      "definition": "treatment, service​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "圧力",
+      "pronounciation": "atsuryoku",
+      "definition": "pressure, stress​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "過ち",
+      "pronounciation": "ayamachi",
+      "definition": "fault, error, indiscretion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "買収",
+      "pronounciation": "baishuu",
+      "definition": "acquisition, buy-out, takeover",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "爆弾",
+      "pronounciation": "bakudan",
+      "definition": "bomb",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "弁護",
+      "pronounciation": "bengo",
+      "definition": "defence, pleading, advocacy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "弁解",
+      "pronounciation": "benkai",
+      "definition": "justification, explanation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "弁明",
+      "pronounciation": "benmei",
+      "definition": "explanation, excuse",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "貧乏",
+      "pronounciation": "binbou",
+      "definition": "poverty, destitute, poor​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "敏感",
+      "pronounciation": "binkan",
+      "definition": "sensibility, susceptibility",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "微笑",
+      "pronounciation": "bishou",
+      "definition": "smile",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "膨張",
+      "pronounciation": "bouchou",
+      "definition": "expansion, swelling, increase",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "防衛",
+      "pronounciation": "bouei",
+      "definition": "defense, protection",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "暴力",
+      "pronounciation": "bouryoku",
+      "definition": "violence, mayhem",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "侮辱",
+      "pronounciation": "bujoku",
+      "definition": "insult, affront, slight",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "部下",
+      "pronounciation": "buka",
+      "definition": "subordinate person",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "分配",
+      "pronounciation": "bunpai",
+      "definition": "division, splitting, sharing",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "分散",
+      "pronounciation": "bunsan",
+      "definition": "dispersion, breakup",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "文書",
+      "pronounciation": "bunsho",
+      "definition": "document, writing, paperwork",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "無礼",
+      "pronounciation": "burei",
+      "definition": "impolite, rude​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "武装",
+      "pronounciation": "busou",
+      "definition": "arms, armament​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "着手",
+      "pronounciation": "chakushu",
+      "definition": "to start work (on), to undertake​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "近づく",
+      "pronounciation": "chikazuku",
+      "definition": "to approach, to draw near",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "蓄積",
+      "pronounciation": "chikuseki",
+      "definition": "accumulation, accumulate",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "賃金",
+      "pronounciation": "chingin",
+      "definition": "wages",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "沈黙",
+      "pronounciation": "chinmoku",
+      "definition": "silence, being silent",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "知性",
+      "pronounciation": "chisei",
+      "definition": "intelligence",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "秩序",
+      "pronounciation": "chitsujo",
+      "definition": "order, regularity",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "直感",
+      "pronounciation": "chokkan",
+      "definition": "intuition, instinct, hunch",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "直面",
+      "pronounciation": "chokumen",
+      "definition": "confrontation, to face",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "挑戦",
+      "pronounciation": "chousen",
+      "definition": "challenge, defiance, dare",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "調達",
+      "pronounciation": "choutatsu",
+      "definition": "supply, provision",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "中断",
+      "pronounciation": "chuudan",
+      "definition": "interruption, suspension, break​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "忠実",
+      "pronounciation": "chuujitsu",
+      "definition": "faithfulness, devotion, loyalty",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "忠告",
+      "pronounciation": "chuukoku",
+      "definition": "advice, warning​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "打撃",
+      "pronounciation": "dageki",
+      "definition": "blow, shock, strike",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大胆",
+      "pronounciation": "daitan",
+      "definition": "bold, daring, audacious​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "妥協",
+      "pronounciation": "dakyou",
+      "definition": "compromise, giving in​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "団結",
+      "pronounciation": "danketsu",
+      "definition": "unity, union, combination",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "脱出",
+      "pronounciation": "dasshutsu",
+      "definition": "escape, break-out​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "土台",
+      "pronounciation": "dodai",
+      "definition": "foundation, base, basis​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "独裁",
+      "pronounciation": "dokusai",
+      "definition": "dictatorship, despotism​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "独占",
+      "pronounciation": "dokusen",
+      "definition": "monopoly, monopolization​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "度胸",
+      "pronounciation": "dokyou",
+      "definition": "courage, bravery, nerve",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "動員",
+      "pronounciation": "douin",
+      "definition": "mobilization",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "同情",
+      "pronounciation": "doujou",
+      "definition": "sympathy, compassion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "動機",
+      "pronounciation": "douki",
+      "definition": "motive, incentive​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "同盟",
+      "pronounciation": "doumei",
+      "definition": "alliance, union, league",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "同類",
+      "pronounciation": "dourui",
+      "definition": "the same kind",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "同士",
+      "pronounciation": "doushi",
+      "definition": "fellow, companion, comrade",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "同等",
+      "pronounciation": "doutou",
+      "definition": "equality, equal, same rights",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "動揺",
+      "pronounciation": "douyou",
+      "definition": "shaking, trembling, disturbance",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "映像",
+      "pronounciation": "eizou",
+      "definition": "reflection, image, video",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "演じる",
+      "pronounciation": "enjiru",
+      "definition": "to perform (a play), to play (a part)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "不動産",
+      "pronounciation": "fudousan",
+      "definition": "real estate​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "腐敗",
+      "pronounciation": "fuhai",
+      "definition": "decomposition, corruption, decay",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "不可欠",
+      "pronounciation": "fukaketsu",
+      "definition": "indispensable, essential​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "復讐",
+      "pronounciation": "fukushuu",
+      "definition": "revenge",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "紛争",
+      "pronounciation": "funsou",
+      "definition": "dispute, trouble, strife​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "相応しい",
+      "pronounciation": "fusawashii",
+      "definition": "appropriate, adequate",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "負傷",
+      "pronounciation": "fushou",
+      "definition": "injury, wound​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "負担",
+      "pronounciation": "futan",
+      "definition": "burden, charge, responsibility​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "不当",
+      "pronounciation": "futou",
+      "definition": "injustice, impropriety, unfair",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "封鎖",
+      "pronounciation": "fuusa",
+      "definition": "blockade",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "概念",
+      "pronounciation": "gainen",
+      "definition": "general idea, concept",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "現地",
+      "pronounciation": "genchi",
+      "definition": "actual place, local",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "厳密",
+      "pronounciation": "genmitsu",
+      "definition": "strict, close, precise",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "減少",
+      "pronounciation": "genshou",
+      "definition": "decrease, reduction, decline",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "原則",
+      "pronounciation": "gensoku",
+      "definition": "principle, general rule​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "幻想",
+      "pronounciation": "gensou",
+      "definition": "illusions",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "犠牲",
+      "pronounciation": "gisei",
+      "definition": "victim, sacrifice, scapegoat",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "合成",
+      "pronounciation": "gousei",
+      "definition": "composition, synthesis",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "軍事",
+      "pronounciation": "gunji",
+      "definition": "military affairs​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "業務",
+      "pronounciation": "gyoumu",
+      "definition": "business, affairs, duties",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "業績",
+      "pronounciation": "gyouseki",
+      "definition": "achievement, performance, results",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "把握",
+      "pronounciation": "haaku",
+      "definition": "grasp, catch, understanding​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "阻む",
+      "pronounciation": "habamu",
+      "definition": "to keep someone from doing, to prevent",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "肺",
+      "pronounciation": "hai",
+      "definition": "lung",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "配置",
+      "pronounciation": "haichi",
+      "definition": "arrangement, deployment",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "背後",
+      "pronounciation": "haigo",
+      "definition": "back, rear, ​background",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "排除",
+      "pronounciation": "haijo",
+      "definition": "exclusion, removal, elimination",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "配慮",
+      "pronounciation": "hairyo",
+      "definition": "consideration, concern, attention",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "廃止",
+      "pronounciation": "haishi",
+      "definition": "abolition, repeal​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "破壊",
+      "pronounciation": "hakai",
+      "definition": "destruction, disruption​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "派遣",
+      "pronounciation": "haken",
+      "definition": "dispatch, despatch, deployment​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "白状",
+      "pronounciation": "hakujou",
+      "definition": "confession",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "繁栄",
+      "pronounciation": "han’ei",
+      "definition": "prosperity, thriving",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "反応",
+      "pronounciation": "hannou",
+      "definition": "reaction, response​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "反乱",
+      "pronounciation": "hanran",
+      "definition": "insurrection, rebellion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "発生",
+      "pronounciation": "hassei",
+      "definition": "outbreak, spring forth, occurrence",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "果たす",
+      "pronounciation": "hatasu",
+      "definition": "to accomplish, to achieve",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "発言",
+      "pronounciation": "hatsugen",
+      "definition": "statement, remark",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "兵器",
+      "pronounciation": "heiki",
+      "definition": "arms, weapons, ordnance​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "閉鎖",
+      "pronounciation": "heisa",
+      "definition": "closing, shutdown, lockout",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "兵士",
+      "pronounciation": "heishi",
+      "definition": "soldier",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "変動",
+      "pronounciation": "hendou",
+      "definition": "change, fluctuation​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "変革",
+      "pronounciation": "henkaku",
+      "definition": "change, transformation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "偏見",
+      "pronounciation": "henken",
+      "definition": "prejudice, narrow view​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "率いる",
+      "pronounciation": "hikiiru",
+      "definition": "to lead, to command",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "悲鳴",
+      "pronounciation": "himei",
+      "definition": "shriek, scream​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "非難",
+      "pronounciation": "hinan",
+      "definition": "criticism, blame, reproach",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "避難",
+      "pronounciation": "hinan",
+      "definition": "taking refuge, finding shelter",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "貧困",
+      "pronounciation": "hinkon",
+      "definition": "poor, needy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "頻繁",
+      "pronounciation": "hinpan",
+      "definition": "frequent, incessant",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "疲労",
+      "pronounciation": "hirou",
+      "definition": "fatigue, weariness​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "悲惨",
+      "pronounciation": "hisan",
+      "definition": "disastrous, tragic",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "匹敵",
+      "pronounciation": "hitteki",
+      "definition": "to be a match for, to rival",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "必然",
+      "pronounciation": "hitsuzen",
+      "definition": "inevitable, necessary",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "施す",
+      "pronounciation": "hodokosu",
+      "definition": "to give, to do, to conduct",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "保護",
+      "pronounciation": "hogo",
+      "definition": "care, protection, shelter",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "保険",
+      "pronounciation": "hoken",
+      "definition": "insurance, guarantee​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "本能",
+      "pronounciation": "honnou",
+      "definition": "instinct",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "本心",
+      "pronounciation": "honshin",
+      "definition": "true feelings​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "本質",
+      "pronounciation": "honshitsu",
+      "definition": "essence, true nature",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "崩壊",
+      "pronounciation": "houkai",
+      "definition": "collapse, crumbling",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "放棄",
+      "pronounciation": "houki",
+      "definition": "abandonment, renunciation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "方策",
+      "pronounciation": "housaku",
+      "definition": "plan, policy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "報酬",
+      "pronounciation": "houshuu",
+      "definition": "remuneration, recompense, reward",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "法廷",
+      "pronounciation": "houtei",
+      "definition": "courtroom",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "票",
+      "pronounciation": "hyou",
+      "definition": "vote, ballot",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一部",
+      "pronounciation": "ichibu",
+      "definition": "one part, one portion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "著しい",
+      "pronounciation": "ichijirushii",
+      "definition": "striking, remarkable, considerable",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "移住",
+      "pronounciation": "ijuu",
+      "definition": "migration, immigration​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "怒り",
+      "pronounciation": "ikari",
+      "definition": "anger, rage, fury",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "一刻",
+      "pronounciation": "ikkoku",
+      "definition": "minute, moment, an instant​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "移行",
+      "pronounciation": "ikou",
+      "definition": "migration, transition​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "移民",
+      "pronounciation": "imin",
+      "definition": "emigration, immigration",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "痛める",
+      "pronounciation": "itameru",
+      "definition": "to hurt, to cause pain",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "痛む",
+      "pronounciation": "itamu",
+      "definition": "to hurt, to ache, to feel a pain​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "意図",
+      "pronounciation": "ito",
+      "definition": "intention, aim, design​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "営む",
+      "pronounciation": "itonamu",
+      "definition": "to run (a business), to operate",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "意欲",
+      "pronounciation": "iyoku",
+      "definition": "will, desire, ambition",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "依然",
+      "pronounciation": "izen",
+      "definition": "still, as yet",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "依存",
+      "pronounciation": "izon",
+      "definition": "dependence, reliance​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "地獄",
+      "pronounciation": "jigoku",
+      "definition": "hell",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "事業",
+      "pronounciation": "jigyou",
+      "definition": "enterprise, business, industry",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "自覚",
+      "pronounciation": "jikaku",
+      "definition": "self-consciousness, self-awareness​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "地元",
+      "pronounciation": "jimoto",
+      "definition": "home area, local",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "迅速",
+      "pronounciation": "jinsoku",
+      "definition": "quick, fast, rapid, swift",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "実践",
+      "pronounciation": "jissen",
+      "definition": "practice, putting into practice",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "実質",
+      "pronounciation": "jisshitsu",
+      "definition": "substance, essence​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "事前",
+      "pronounciation": "jizen",
+      "definition": "prior, beforehand",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "持続",
+      "pronounciation": "jizoku",
+      "definition": "continuation, persisting, lasting",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "助言",
+      "pronounciation": "jogen",
+      "definition": "advice, suggestion​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "譲歩",
+      "pronounciation": "jouho",
+      "definition": "concession, conciliation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "情熱",
+      "pronounciation": "jounetsu",
+      "definition": "passion, enthusiasm",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "上陸",
+      "pronounciation": "jouriku",
+      "definition": "landing, disembarkation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "情勢",
+      "pronounciation": "jousei",
+      "definition": "state of things, state of affairs",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "従業員",
+      "pronounciation": "juugyouin",
+      "definition": "employee, worker​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "柔軟",
+      "pronounciation": "juunan",
+      "definition": "flexible, lithe, soft, pliable​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "株式",
+      "pronounciation": "kabushiki",
+      "definition": "stock (company)​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "課題",
+      "pronounciation": "kadai",
+      "definition": "subject, theme, issue, matter​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "開発",
+      "pronounciation": "kaihatsu",
+      "definition": "development, exploitation​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "回避",
+      "pronounciation": "kaihi",
+      "definition": "evasion, avoidance​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "解除",
+      "pronounciation": "kaijo",
+      "definition": "cancellation, release",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "改革",
+      "pronounciation": "kaikaku",
+      "definition": "reform, reformation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "階級",
+      "pronounciation": "kaikyuu",
+      "definition": "(social) class, rank, grade​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "介入",
+      "pronounciation": "kainyuu",
+      "definition": "intervention",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "賭け",
+      "pronounciation": "kake",
+      "definition": "betting, gambling",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "賭ける",
+      "pronounciation": "kakeru",
+      "definition": "to wager, to bet, to gamble",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "確保",
+      "pronounciation": "kakuho",
+      "definition": "guarantee, maintain, ensure",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "革命",
+      "pronounciation": "kakumei",
+      "definition": "revolution",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "確信",
+      "pronounciation": "kakushin",
+      "definition": "conviction, belief, confidence​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "肝心",
+      "pronounciation": "kanjin",
+      "definition": "essential, fundamental, crucial",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "完璧",
+      "pronounciation": "kanpeki",
+      "definition": "perfect, complete, flawless​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "官僚",
+      "pronounciation": "kanryou",
+      "definition": "bureaucrat, bureaucracy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "監視",
+      "pronounciation": "kanshi",
+      "definition": "monitoring, watching, observation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "干渉",
+      "pronounciation": "kanshou",
+      "definition": "interference, intervention, meddling​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "関与",
+      "pronounciation": "kanyo",
+      "definition": "participation, taking part in",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "寛容",
+      "pronounciation": "kanyou",
+      "definition": "tolerance, generosity",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "固める",
+      "pronounciation": "katameru",
+      "definition": "to harden, to solidify",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "傾ける",
+      "pronounciation": "katamukeru",
+      "definition": "to incline, to lean, to tilt",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "交わす",
+      "pronounciation": "kawasu",
+      "definition": "to exchange, to intersect, to cross",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "軽減",
+      "pronounciation": "keigen",
+      "definition": "abatement, reduction​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "経費",
+      "pronounciation": "keihi",
+      "definition": "expenses, cost, outlay​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "経過",
+      "pronounciation": "keika",
+      "definition": "passage, expiration, progress",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "警戒",
+      "pronounciation": "keikai",
+      "definition": "vigilance, caution, alertness",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "経歴",
+      "pronounciation": "keireki",
+      "definition": "personal history, career​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "経路",
+      "pronounciation": "keiro",
+      "definition": "course, route, means",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "形成",
+      "pronounciation": "keisei",
+      "definition": "formation, molding, taking form​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "携帯",
+      "pronounciation": "keitai",
+      "definition": "something carried (in the hand)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "権限",
+      "pronounciation": "kengen",
+      "definition": "power, authority, jurisdiction​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "権威",
+      "pronounciation": "ken’i",
+      "definition": "authority, power, influence​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "権力",
+      "pronounciation": "kenryoku",
+      "definition": "(political) power, authority",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "決断",
+      "pronounciation": "ketsudan",
+      "definition": "decision, determination​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "決意",
+      "pronounciation": "ketsui",
+      "definition": "decision, determination",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "規模",
+      "pronounciation": "kibo",
+      "definition": "scale, scope, plan",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "危機",
+      "pronounciation": "kiki",
+      "definition": "crisis, danger, risk​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "機構",
+      "pronounciation": "kikou",
+      "definition": "mechanism, organization",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "勤勉",
+      "pronounciation": "kinben",
+      "definition": "diligent, industrious​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "緊急",
+      "pronounciation": "kinkyuu",
+      "definition": "urgent, pressing, emergency​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "規制",
+      "pronounciation": "kisei",
+      "definition": "regulation, control, restriction",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "奇跡",
+      "pronounciation": "kiseki",
+      "definition": "miracle, wonder, marvel​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "競う",
+      "pronounciation": "kisou",
+      "definition": "to compete, to contest",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "規定",
+      "pronounciation": "kitei",
+      "definition": "provision, regulation, rule​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "気絶",
+      "pronounciation": "kizetsu",
+      "definition": "faint, swoon​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "築く",
+      "pronounciation": "kizuku",
+      "definition": "to build, to construct",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "傷つける",
+      "pronounciation": "kizutsukeru",
+      "definition": "to wound, to injure​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "拒む",
+      "pronounciation": "kobamu",
+      "definition": "to refuse, to reject, to decline​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "​誇張",
+      "pronounciation": "kochou",
+      "definition": "exaggeration",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "孤独",
+      "pronounciation": "kodoku",
+      "definition": "solitude, loneliness, isolation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "試みる",
+      "pronounciation": "kokoromiru",
+      "definition": "to try, to attempt",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "根拠",
+      "pronounciation": "konkyo",
+      "definition": "basis, foundation​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "個性",
+      "pronounciation": "kosei",
+      "definition": "individuality, personality",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "固定",
+      "pronounciation": "kotei",
+      "definition": "fixation, fixing",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "興奮",
+      "pronounciation": "koufun",
+      "definition": "excitement, stimulation, agitation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "抗議",
+      "pronounciation": "kougi",
+      "definition": "protest, objection​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "行為",
+      "pronounciation": "koui",
+      "definition": "act, deed, conduct​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "好意",
+      "pronounciation": "koui",
+      "definition": "good will, favor, courtesy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "公開",
+      "pronounciation": "koukai",
+      "definition": "making available to the public",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "後悔",
+      "pronounciation": "koukai",
+      "definition": "regret, repentance, remorse​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "購入",
+      "pronounciation": "kounyuu",
+      "definition": "purchase, buy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "効率",
+      "pronounciation": "kouritsu",
+      "definition": "efficiency",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "交渉",
+      "pronounciation": "koushou",
+      "definition": "negotiations, discussions​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "雇用",
+      "pronounciation": "koyou",
+      "definition": "employment, hire​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "口調",
+      "pronounciation": "kuchou",
+      "definition": "tone, (verbal) expression​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "苦しみ",
+      "pronounciation": "kurushimi",
+      "definition": "pain, anguish, suffering",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "屈辱",
+      "pronounciation": "kutsujoku",
+      "definition": "disgrace, humiliation​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "拒否",
+      "pronounciation": "kyohi",
+      "definition": "refusal, rejection, denial",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "極端",
+      "pronounciation": "kyokutan",
+      "definition": "extreme, extremity​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "脅迫",
+      "pronounciation": "kyouhaku",
+      "definition": "threat, menace, coercion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "脅威",
+      "pronounciation": "kyoui",
+      "definition": "threat, menace​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "享受",
+      "pronounciation": "kyouju",
+      "definition": "reception, acceptance, enjoyment",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "共感",
+      "pronounciation": "kyoukan",
+      "definition": "sympathy, empathy, response​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "教訓",
+      "pronounciation": "kyoukun",
+      "definition": "lesson, precept",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "強烈",
+      "pronounciation": "kyouretsu",
+      "definition": "strong, intense, severe​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "共産",
+      "pronounciation": "kyousan",
+      "definition": "communism",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "強制",
+      "pronounciation": "kyousei",
+      "definition": "obligation, coercion, compulsion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "究極",
+      "pronounciation": "kyuukyoku",
+      "definition": "ultimate, extreme, final",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "救済",
+      "pronounciation": "kyuusai",
+      "definition": "relief, aid, rescue",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "恵む",
+      "pronounciation": "megumu",
+      "definition": "to bless, to show mercy to​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "明白",
+      "pronounciation": "meihaku",
+      "definition": "obvious, clear, plain",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "明瞭",
+      "pronounciation": "meiryou",
+      "definition": "clarity, clearness​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "名誉",
+      "pronounciation": "meiyo",
+      "definition": "honor, credit, prestige​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "未知",
+      "pronounciation": "michi",
+      "definition": "not yet known, unknown",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "身近",
+      "pronounciation": "midjika",
+      "definition": "near oneself, close to one, familiar",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "見方",
+      "pronounciation": "mikata",
+      "definition": "viewpoint, point of view",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "源",
+      "pronounciation": "minamoto",
+      "definition": "source, origin, root​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "満たす",
+      "pronounciation": "mitasu",
+      "definition": "to satisfy, to fulfill, to gratify",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "漏らす",
+      "pronounciation": "morasu",
+      "definition": "to let leak, to reveal​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "摸索",
+      "pronounciation": "mosaku",
+      "definition": "groping (for), exploring for a solution",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "齎す",
+      "pronounciation": "motarasu",
+      "definition": "to bring, to take, to bring about​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "無実",
+      "pronounciation": "mujitsu",
+      "definition": "innocence, guiltlessness",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "無効",
+      "pronounciation": "mukou",
+      "definition": "invalid, no effect",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "無力",
+      "pronounciation": "muryoku",
+      "definition": "powerlessness, incompetent",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "悩み",
+      "pronounciation": "nayami",
+      "definition": "trouble, worry, distress",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "燃料",
+      "pronounciation": "nenryou",
+      "definition": "fuel",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "熱意",
+      "pronounciation": "netsui",
+      "definition": "zeal, enthusiasm​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "憎しみ",
+      "pronounciation": "nikushimi",
+      "definition": "hatred",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "肉体",
+      "pronounciation": "nikutai",
+      "definition": "the body, the flesh​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "担う",
+      "pronounciation": "ninau",
+      "definition": "to carry on shoulder, to bear",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "認識",
+      "pronounciation": "ninshiki",
+      "definition": "recognition, awareness, perception",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "妊娠",
+      "pronounciation": "ninshin",
+      "definition": "conception, pregnancy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "農場",
+      "pronounciation": "noujou",
+      "definition": "farm (agriculture)​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "覚え",
+      "pronounciation": "oboe",
+      "definition": "memory, sense, experience​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "犯す",
+      "pronounciation": "okasu",
+      "definition": "to commit (e.g. crime)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "重荷",
+      "pronounciation": "omoni",
+      "definition": "load, heavy burden",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大幅",
+      "pronounciation": "oohaba",
+      "definition": "big, large, substantial",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "愚か",
+      "pronounciation": "oroka",
+      "definition": "foolish, stupid​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "恐れ",
+      "pronounciation": "osore",
+      "definition": "fear, horror, anxiety",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "襲う",
+      "pronounciation": "osou",
+      "definition": "to attack, to assail",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "訪れる",
+      "pronounciation": "otozureru",
+      "definition": "to visit, to call on​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "負う",
+      "pronounciation": "ou",
+      "definition": "to bear, to take responsibility for",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "楽観",
+      "pronounciation": "rakkan",
+      "definition": "optimism",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "連中",
+      "pronounciation": "renchuu",
+      "definition": "company, lot, bunch",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "理屈",
+      "pronounciation": "rikutsu",
+      "definition": "theory, reason​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "理性",
+      "pronounciation": "risei",
+      "definition": "reason, reasoning power",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "利息",
+      "pronounciation": "risoku",
+      "definition": "interest (bank)​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "理論",
+      "pronounciation": "riron",
+      "definition": "theory",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "論理",
+      "pronounciation": "ronri",
+      "definition": "logic, logical",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "浪費",
+      "pronounciation": "rouhi",
+      "definition": "waste, extravagance​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "領域",
+      "pronounciation": "ryouiki",
+      "definition": "area, domain, territory",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "良心",
+      "pronounciation": "ryoushin",
+      "definition": "conscience",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "察知",
+      "pronounciation": "sacchi",
+      "definition": "sense, infer​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "定める",
+      "pronounciation": "sadameru",
+      "definition": "to decide, to establish, to determine",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "最悪",
+      "pronounciation": "saiaku",
+      "definition": "the worst​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "細部",
+      "pronounciation": "saibu",
+      "definition": "details",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "再生",
+      "pronounciation": "saisei",
+      "definition": "resuscitation, regeneration",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "採用",
+      "pronounciation": "saiyou",
+      "definition": "use, adoption, acceptance​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "最善",
+      "pronounciation": "saizen",
+      "definition": "the very best, utmost​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "栄える",
+      "pronounciation": "sakaeru",
+      "definition": "to prosper, to flourish​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "作戦",
+      "pronounciation": "sakusen",
+      "definition": "tactics, strategy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "悟る",
+      "pronounciation": "satoru",
+      "definition": "to perceive, to sense, to understand",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "世代",
+      "pronounciation": "sedai",
+      "definition": "generation, the world, the age​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "征服",
+      "pronounciation": "seifuku",
+      "definition": "conquest, subjugation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "制服",
+      "pronounciation": "seifuku",
+      "definition": "uniform",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "正義",
+      "pronounciation": "seigi",
+      "definition": "justice, right, righteousness",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "誠実",
+      "pronounciation": "seijitsu",
+      "definition": "sincere, honest, faithful​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "成熟",
+      "pronounciation": "seijuku",
+      "definition": "maturity, ripeness​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "成果",
+      "pronounciation": "seika",
+      "definition": "fruits (of one’s labors), accomplishment",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "政権",
+      "pronounciation": "seiken",
+      "definition": "(political) administration, political power​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "政策",
+      "pronounciation": "seisaku",
+      "definition": "political measures, policy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "正当",
+      "pronounciation": "seitou",
+      "definition": "just, justifiable, right",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "選挙",
+      "pronounciation": "senkyo",
+      "definition": "election",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "戦略",
+      "pronounciation": "senryaku",
+      "definition": "strategy, tactics​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "占領",
+      "pronounciation": "senryou",
+      "definition": "occupying, possession, capture",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "戦闘",
+      "pronounciation": "sentou",
+      "definition": "battle, fight, combat​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "専用",
+      "pronounciation": "senyou",
+      "definition": "exclusive use, personal use",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "接触",
+      "pronounciation": "sesshoku",
+      "definition": "touch, contact​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "設定",
+      "pronounciation": "settei",
+      "definition": "establishment, creation, setting",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "説得",
+      "pronounciation": "settoku",
+      "definition": "persuasion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "設立",
+      "pronounciation": "setsuritsu",
+      "definition": "establishment, founding",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "死",
+      "pronounciation": "shi",
+      "definition": "death, decease​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "強いる",
+      "pronounciation": "shiiru",
+      "definition": "to force, to compel, to coerce​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "支持",
+      "pronounciation": "shiji",
+      "definition": "support, holding up, backing",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "指示",
+      "pronounciation": "shiji",
+      "definition": "instructions, directions, ​indication",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "資格",
+      "pronounciation": "shikaku",
+      "definition": "qualifications, requirements",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "指揮",
+      "pronounciation": "shiki",
+      "definition": "command, direction​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "資金",
+      "pronounciation": "shikin",
+      "definition": "funds, capital​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "仕組み",
+      "pronounciation": "shikumi",
+      "definition": "structure, construction",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "使命",
+      "pronounciation": "shimei",
+      "definition": "mission, errand​, task",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "辛抱",
+      "pronounciation": "shinbou",
+      "definition": "patience, endurance​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "進化",
+      "pronounciation": "shinka",
+      "definition": "evolution, progress​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "侵略",
+      "pronounciation": "shinryaku",
+      "definition": "aggression, invasion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "思考",
+      "pronounciation": "shikou",
+      "definition": "thought, consideration, thinking​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "真実",
+      "pronounciation": "shinjitsu",
+      "definition": "truth, reality​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "真理",
+      "pronounciation": "shinri",
+      "definition": "truth",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "真相",
+      "pronounciation": "shinsou",
+      "definition": "truth, real situation​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "進展",
+      "pronounciation": "shinten",
+      "definition": "progress, development​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "資産",
+      "pronounciation": "shisan",
+      "definition": "property, fortune, assets",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "視線",
+      "pronounciation": "shisen",
+      "definition": "one’s line of sight, one’s gaze",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "指摘",
+      "pronounciation": "shiteki",
+      "definition": "pointing out, identification​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "嫉妬",
+      "pronounciation": "shitto",
+      "definition": "jealousy, envy​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "視野",
+      "pronounciation": "shiya",
+      "definition": "field of vision, outlook​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "処分",
+      "pronounciation": "shobun",
+      "definition": "disposal, dealing (with a problem)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "職務",
+      "pronounciation": "shokumu",
+      "definition": "professional duties​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "所得",
+      "pronounciation": "shotoku",
+      "definition": "income, earnings​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "象徴",
+      "pronounciation": "shouchou",
+      "definition": "symbol",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "衝動",
+      "pronounciation": "shoudou",
+      "definition": "impulse, impetus, urge​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "生涯",
+      "pronounciation": "shougai",
+      "definition": "one’s lifetime",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "証言",
+      "pronounciation": "shougen",
+      "definition": "testimony, (verbal) evidence​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "証拠",
+      "pronounciation": "shouko",
+      "definition": "evidence, proof​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "照明",
+      "pronounciation": "shoumei",
+      "definition": "illumination, lighting​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "消滅",
+      "pronounciation": "shoumetsu",
+      "definition": "extinction, extinguishment",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "奨励",
+      "pronounciation": "shourei",
+      "definition": "encouragement, promotion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "詳細",
+      "pronounciation": "shousai",
+      "definition": "detail, particulars​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "昇進",
+      "pronounciation": "shoushin",
+      "definition": "promotion, advancement",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "少数",
+      "pronounciation": "shousuu",
+      "definition": "minority, few​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "正体",
+      "pronounciation": "shoutai",
+      "definition": "true character, true form",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "勝利",
+      "pronounciation": "shouri",
+      "definition": "victory, triumph, win",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "所有",
+      "pronounciation": "shoyuu",
+      "definition": "one’s possessions, ownership​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "主導",
+      "pronounciation": "shudou",
+      "definition": "leadership, initiative, spearhead​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "守衛",
+      "pronounciation": "shuei",
+      "definition": "security guard, doorkeeper​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "手法",
+      "pronounciation": "shuhou",
+      "definition": "technique, method​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "収集",
+      "pronounciation": "shuushuu",
+      "definition": "gathering up, collection",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "収益",
+      "pronounciation": "shuueki",
+      "definition": "earnings, proceeds, returns",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "措置",
+      "pronounciation": "sochi",
+      "definition": "measure, measures, step​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "損なう",
+      "pronounciation": "sokonau",
+      "definition": "to harm, to hurt, to injure",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "促進",
+      "pronounciation": "sokushin",
+      "definition": "promotion, acceleration",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "染まる",
+      "pronounciation": "somaru",
+      "definition": "to be dyed​, to be tainted, to be infected",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "即座に",
+      "pronounciation": "sokuza ni",
+      "definition": "immediately, right away",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "阻止",
+      "pronounciation": "soshi",
+      "definition": "obstruction, check, hindrance",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "備わる",
+      "pronounciation": "sonawaru",
+      "definition": "to be furnished with, to be equipped with​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "損失",
+      "pronounciation": "sonshitsu",
+      "definition": "loss (e.g. assets or profits)​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "訴訟",
+      "pronounciation": "soshou",
+      "definition": "liftigation, lawsuit​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "装備",
+      "pronounciation": "soubi",
+      "definition": "equipment",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "捜査",
+      "pronounciation": "sousa",
+      "definition": "search, investigation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "創造",
+      "pronounciation": "souzou",
+      "definition": "creation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "遂行",
+      "pronounciation": "suikou",
+      "definition": "accomplishment, execution​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "衰退",
+      "pronounciation": "suitai",
+      "definition": "decline, degeneration, decay",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "推進",
+      "pronounciation": "suishin",
+      "definition": "propulsion, drive​, promotion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "好く",
+      "pronounciation": "suku",
+      "definition": "to like, to love",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "体験",
+      "pronounciation": "taiken",
+      "definition": "personal experience, physical experience",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "対応",
+      "pronounciation": "taiou",
+      "definition": "correspondence, coping with",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "態勢",
+      "pronounciation": "taisei",
+      "definition": "attitude, posture, preparedness",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "対処",
+      "pronounciation": "taisho",
+      "definition": "dealing with, coping with",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "退職",
+      "pronounciation": "taishoku",
+      "definition": "retirement, resignation​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "大衆",
+      "pronounciation": "taishuu",
+      "definition": "general public, the masses​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "高まる",
+      "pronounciation": "takamaru",
+      "definition": "to rise, to swell",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "企む",
+      "pronounciation": "takuramu",
+      "definition": "to scheme, to plan, to conspire",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "保つ",
+      "pronounciation": "tamotsu",
+      "definition": "to keep, to preserve, to maintain",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "達成",
+      "pronounciation": "tassei",
+      "definition": "achievement",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "提供",
+      "pronounciation": "teikyou",
+      "definition": "offer, provisioning, supply​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "停滞",
+      "pronounciation": "teitai",
+      "definition": "stagnation, tie-up, congestion",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "手順",
+      "pronounciation": "tejun",
+      "definition": "process, procedure, sequence",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "適応",
+      "pronounciation": "tekiou",
+      "definition": "adaptation, accommodation",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "展示",
+      "pronounciation": "tenji",
+      "definition": "exhibition, display​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "天井",
+      "pronounciation": "tenjou",
+      "definition": "ceiling, ceiling price​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "転換",
+      "pronounciation": "tenkan",
+      "definition": "conversion, changeover",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "点検",
+      "pronounciation": "tenken",
+      "definition": "inspection, examination, checking​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "天才",
+      "pronounciation": "tensai",
+      "definition": "genius, prodigy",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "手遅れ",
+      "pronounciation": "teokure",
+      "definition": "being (too) late​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "扉",
+      "pronounciation": "tobira",
+      "definition": "door, gate, opening​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "乏しい",
+      "pronounciation": "toboshii",
+      "definition": "meagre, scarce, lacking",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "特権",
+      "pronounciation": "tokken",
+      "definition": "privilege, special right​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "富",
+      "pronounciation": "tomi",
+      "definition": "riches, wealth, fortune​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "富む",
+      "pronounciation": "tomu",
+      "definition": "to be rich in, to abound in",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "突破",
+      "pronounciation": "toppa",
+      "definition": "breaking through, penetration​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "取引",
+      "pronounciation": "torihiki",
+      "definition": "transactions, dealings",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "整える",
+      "pronounciation": "totonoeru",
+      "definition": "to put in order, to adjust​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "統合",
+      "pronounciation": "tougou",
+      "definition": "integration, unification, synthesis​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "投入",
+      "pronounciation": "tounyuu",
+      "definition": "throwing into, inserting",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "討論",
+      "pronounciation": "touron",
+      "definition": "debate, discussion​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "統制",
+      "pronounciation": "tousei",
+      "definition": "regulation, control​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "投資",
+      "pronounciation": "toushi",
+      "definition": "investment",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "到達",
+      "pronounciation": "toutatsu",
+      "definition": "reaching, attaining, arrival​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "告げる",
+      "pronounciation": "tsugeru",
+      "definition": "to tell, to inform",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "追求",
+      "pronounciation": "tsuikyuu",
+      "definition": "pursuit (of a goal, ideal, etc.)",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "追跡",
+      "pronounciation": "tsuiseki",
+      "definition": "chase, pursuit, tracing",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "費やす",
+      "pronounciation": "tsuiyasu",
+      "definition": "to spend, to consume",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "募る",
+      "pronounciation": "tsunoru",
+      "definition": "to grow violent, to become stronger",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "通常",
+      "pronounciation": "tsuujou",
+      "definition": "common, general, normal, usual​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "強まる",
+      "pronounciation": "tsuyomaru",
+      "definition": "to get strong, to gain strength​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "打ち明ける",
+      "pronounciation": "uchiakeru",
+      "definition": "to confide, to reveal",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "動き",
+      "pronounciation": "ugoki",
+      "definition": "movement, move, motion​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "促す",
+      "pronounciation": "unagasu",
+      "definition": "to urge, to press, to prompt",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "運営",
+      "pronounciation": "un’ei",
+      "definition": "management, administration",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "運命",
+      "pronounciation": "unmei",
+      "definition": "fate, destiny",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "運用",
+      "pronounciation": "unyou",
+      "definition": "making use of, application",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "薄れる",
+      "pronounciation": "usureru",
+      "definition": "to fade, to become dim​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "罠",
+      "pronounciation": "wana",
+      "definition": "snare, trap",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "闇",
+      "pronounciation": "yami",
+      "definition": "darkness, the dark",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "野心",
+      "pronounciation": "yashin",
+      "definition": "ambition, aspiration​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "養う",
+      "pronounciation": "yashinau",
+      "definition": "to support, to provide for",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "余地",
+      "pronounciation": "yochi",
+      "definition": "place, room, margin",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "予感",
+      "pronounciation": "yokan",
+      "definition": "presentiment, premonition, hunch​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "欲望",
+      "pronounciation": "yokubou",
+      "definition": "desire, appetite, lust​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "抑制",
+      "pronounciation": "yokusei",
+      "definition": "control, restraint, suppression",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "要因",
+      "pronounciation": "youin",
+      "definition": "main cause, primary factor​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "用件",
+      "pronounciation": "youken",
+      "definition": "business, thing to be done",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "要請",
+      "pronounciation": "yousei",
+      "definition": "appeal, request, demand",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "要する",
+      "pronounciation": "you suru",
+      "definition": "to need, to demand, to require",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "弱める",
+      "pronounciation": "yowameru",
+      "definition": "to weaken​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "勇敢",
+      "pronounciation": "yuukan",
+      "definition": "brave, heroic, gallant​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "優先",
+      "pronounciation": "yuusen",
+      "definition": "preference, priority",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "融資",
+      "pronounciation": "yuushi",
+      "definition": "financing, loan​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "有する",
+      "pronounciation": "yuusuru",
+      "definition": "to own, to be endowed with​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "誘惑",
+      "pronounciation": "yuuwaku",
+      "definition": "temptation, allurement",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "財政",
+      "pronounciation": "zaisei",
+      "definition": "public finance, financial affairs",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "残酷",
+      "pronounciation": "zankoku",
+      "definition": "cruelty, harshness​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "前提",
+      "pronounciation": "zentei",
+      "definition": "preamble, premise, reason",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "絶望",
+      "pronounciation": "zetsubou",
+      "definition": "despair, hopelessness​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "Japanese",
+      "word": "増強",
+      "pronounciation": "zoukyou",
+      "definition": "augment, reinforce, increase​",
+      "gender": "",
+      "quizResults": [],
+      "seen": 0,
+      "snoozed": false
+    }
+  ]
+}
