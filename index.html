@@ -12,6 +12,7 @@
       background: var(--sl-color-neutral-0);
       margin: 0;
       font-family: var(--sl-font-sans);
+      padding-top: 70px; /* Adjust this value to match your nav height */
     }
     main {
       max-width: 700px;
@@ -59,7 +60,7 @@
 </head>
 <body>
   <header>
-    <nav style="background: var(--sl-color-primary-100); padding: 1rem 0;">
+    <nav style="background: var(--sl-color-primary-100); padding: 1rem 0; position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       <div style="max-width: 700px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
         <a href="#" class="branding">FetchFlashQuiz</a>
         <div>
@@ -83,7 +84,9 @@
                <img src="src/1.png" width="80%"/>
             </li>
             <li>
-               <a href="#download" class="nav-link">Click here and download your desired decks.</a>
+               <a href="#download" class="nav-link" style="color: #0074d9; text-decoration: underline;">
+  Click here and download your desired decks.
+</a>
             </li>
             <li>
                Click the icon of this extension, press <strong>'Manage Vocabulary List'</strong>.
@@ -122,18 +125,16 @@
     </sl-card>
     <sl-card id="intro">
       <h2 slot="header">What does this extension do?</h2>
+      <p>I made this extension initially to help memorizing latin words, then somehow I just kept on adding more features.</p>
       <p>This extension is designed to help you learn new languages by providing flashcards and quizzes based on your vocabulary lists. You can import premade decks, add new words, and customize your learning experience.</p>
-      <ol>
-        <li>You can import and export the language flashcard decks</li>
-        <li>This extension can generate quizzes based on your vocabulary lists - inflections, pronounciations, genders, everything. </li>
-        <li>It will automatically find pronounciations, gender, etymology for the vocab your look up. For latin and french wods it will fetch its inflections for you too! </li>
-        <li>If you want to test your vocab, press 'test your vocabs' when you open up a new tab. </li>
-        <li>This extension keeps track of the words you have learned and tested. If you want to test your weak vocabs, press 'test your weak vocabs' in 'Manage Vocabulary List' page. </li>
-        <li>You can import and export your vocabulary lists.</li>
-        <li>If you want to practice inflections for your latin and french, press 'practice inflections' in 'Manage Vocabulary List' page.</li>
-        <li>You can make collections for different topics or themes in Manage Vocabulary Page.</li>
-        <li>Start learning with flashcards and quizzes!</li>
-      </ol>
+      <p>You can import and export the language flashcard decks.</p>
+      <p>This extension can generate quizzes based on your vocabulary lists - inflections, pronunciations, genders, everything.</p>
+      <p>It will automatically find pronunciations, gender, etymology for the vocab you look up. For Latin and French words it will fetch their inflections for you too!</p>
+      <p>If you want to test your vocab, press 'test your vocabs' when you open up a new tab.</p>
+      <p>This extension keeps track of the words you have learned and tested. If you want to test your weak vocabs, press 'test your weak vocabs' in the 'Manage Vocabulary List' page.</p>
+      <p>If you want to practice inflections for your Latin and French, press 'practice inflections' in the 'Manage Vocabulary List' page.</p>
+      <p>You can make collections for different topics or themes in the Manage Vocabulary Page.</p>
+      <p>Start learning with flashcards and quizzes!</p>
     </sl-card>
     <sl-card id="download">
       <h2 slot="header">Download premade decks</h2>
@@ -166,19 +167,23 @@
           <li>
             <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
             <a href="./Language learning/German/German A1.json" download>
-              A1 (partial eytm complete)
+              [A1 (partial eytm complete)]
             </a>
-            <br><a href="./Language learning/German/German A2.json" download>
-              A2
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="./Language learning/German/German A2.json" download>
+              [A2]
             </a>
-            <br><a href="./Language learning/German/German A2_1.json.json" download>
-              A2_1
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="./Language learning/German/German A2_1.json.json" download>
+              [A2_1]
             </a>
-            <br><a href="./Language learning/German/German B1.json" download>
-              B1
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="./Language learning/German/German B1.json" download>
+             [B1]
             </a>
-            <br><a href="./Language learning/German/German B2.json" download>
-              B2
+            <sl-icon name="file-earmark-arrow-down" class="icon"></sl-icon>
+            <a href="./Language learning/German/German B2.json" download>
+             [B2]
             </a>
           </li>
         </ul>
@@ -227,8 +232,8 @@
       <dl>
         <dd>Q : What does the "Beta" for Chinese and Japanese mean? </dt>
         <dd>A : We fetch words from wiktionary.org. It is a little complicated when it comes to Chinese and Japanese languages.</dd>
-        <dd>Q : I have encountered some issues with this extension</dt>
-        <<dd>A : Let me know using the contact details at the bottom, I will fix it. Or you can download the newest version from github at the bottom - sometimes it takes a while for the extension to get updated in the extensions store and I tend to do multiple bugfix in one update. So it is possible that your problem is solved in the github version.</dd>
+        <dd><br>Q : I have encountered some issues with this extension</dt>
+        <dd>A : Let me know using the contact details at the bottom, I will fix it. Or you can download the newest version from github at the bottom - sometimes it takes a while for the extension to get updated in the extensions store and I tend to do multiple bugfix in one update. So it is possible that your problem is solved in the github version.</dd>
         <dd><br>Q : Will it support any more languages?</dt>
         <dd>A : If you let me know what language do you want to add, I can look into it.</dd>
         <dd><br>Q : Why is there no french vocab decks?</dt>
