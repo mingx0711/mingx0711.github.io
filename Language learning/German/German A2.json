@@ -1,0 +1,9527 @@
+{
+  "vocabList": [
+    {
+      "book": "German",
+      "word": "Accessoires",
+      "definition": "accessories",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "anhaben",
+      "definition": "to be wearing",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Apfelschorle",
+      "definition": "apple spritzer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Aubergine",
+      "definition": "aubergine",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Ausrüstung",
+      "definition": "equipment",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Baby",
+      "definition": "baby items",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Badesachen",
+      "definition": "swimwear",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Bart",
+      "definition": "beard",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Bekleidung",
+      "definition": "clothing",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "bestimmt",
+      "definition": "surely",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "blond",
+      "definition": "blond",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "braten",
+      "definition": "to roast",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "bummeln",
+      "definition": "to stroll",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "bunt",
+      "definition": "colourful",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Camping",
+      "definition": "camping",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Champignon",
+      "definition": "mushroom",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Currywurst",
+      "definition": "currywurst",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Dame",
+      "definition": "lady",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "darin",
+      "definition": "in it",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "dick",
+      "definition": "fat",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Dieb",
+      "definition": "thief",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Ding",
+      "definition": "thing",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Duft",
+      "definition": "smell",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "dünn",
+      "definition": "thin",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Duschgel",
+      "definition": "shower gel",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "egal",
+      "definition": "equal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Ehepaar",
+      "definition": "married couple",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "einfarbig",
+      "definition": "monochromatic",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Elektronik",
+      "definition": "electronics",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Fahrradhelm",
+      "definition": "cycle helmet",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "fantastisch",
+      "definition": "fantastic",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Fast Food",
+      "definition": "fast food",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Flipflops",
+      "definition": "flip flops",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "frittieren",
+      "definition": "to fry",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gemüselasagne",
+      "definition": "vegetable lasagne",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gepunktet",
+      "definition": "spotty",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gericht",
+      "definition": "meal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gestreift",
+      "definition": "striped",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "glatt",
+      "definition": "smooth",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Glatze",
+      "definition": "bald head",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gold",
+      "definition": "gold",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "griechisch",
+      "definition": "Greek",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gulaschsuppe",
+      "definition": "goulash soup",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gürtel",
+      "definition": "belt",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Haarpflege",
+      "definition": "hair care",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Hauptgericht",
+      "definition": "main meal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Hautpflege",
+      "definition": "skin care",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "hübsch",
+      "definition": "pretty",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kamera",
+      "definition": "camera",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "kariert",
+      "definition": "checkered",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kompliment",
+      "definition": "compliment",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kopfhörer",
+      "definition": "headphones",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kosmetiktasche",
+      "definition": "cosmetic bag",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Küchengerät",
+      "definition": "kitchen appliance",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "laufen",
+      "definition": "to run",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Lieblingsfarbe",
+      "definition": "favourite colour",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "lockig",
+      "definition": "curly",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Make-up",
+      "definition": "make up",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Maus",
+      "definition": "mouse",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Mineralwasser",
+      "definition": "mineral water",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Modegeschäft",
+      "definition": "fashion shop",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Modeschmuck",
+      "definition": "fashion jewellry",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "nachher",
+      "definition": "afterwards",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Naturkosmetik",
+      "definition": "natural cosmetics",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Navigationsgerät (Navi)",
+      "definition": "navigation device",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Ofen",
+      "definition": "oven",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Ohrring",
+      "definition": "earring",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Parfümerie",
+      "definition": "perfumery",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Pfanne",
+      "definition": "pan",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "plötzlich",
+      "definition": "suddenly",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Polizist",
+      "definition": "policeman",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schafskäse",
+      "definition": "feta cheese",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "scharf",
+      "definition": "spicy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "schauen",
+      "definition": "to look",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schaufenster",
+      "definition": "shop window",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "schick",
+      "definition": "chic",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "schlank",
+      "definition": "slim",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schmuck",
+      "definition": "jewellry",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schnäppchen",
+      "definition": "deal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schnitzel",
+      "definition": "schnitzel",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schnurrbart",
+      "definition": "moustache",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schrei",
+      "definition": "scream",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schuhgröße",
+      "definition": "shoe size",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Shorts",
+      "definition": "shorts",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Silber",
+      "definition": "silver",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Snack",
+      "definition": "snack",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Spielwaren",
+      "definition": "toys",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Steak",
+      "definition": "steak",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "stehlen",
+      "definition": "to steal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Stiefel",
+      "definition": "boot",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Süßigkeiten",
+      "definition": "sweets",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tattoo",
+      "definition": "tattoo",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Toaster",
+      "definition": "toaster",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "ungarisch",
+      "definition": "Hungarian",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Unterwäsche",
+      "definition": "underwear",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vanilleeis",
+      "definition": "vanilla ice cream",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vegetarier",
+      "definition": "vegetarian",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "vegetarisch",
+      "definition": "vegetarian",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "wandern",
+      "definition": "to hike",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Wanderschuh",
+      "definition": "hiking shoes",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Wecker",
+      "definition": "alarm",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "wirklich",
+      "definition": "really",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "wunderbar",
+      "definition": "wonderful",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "zubereiten",
+      "definition": "to prepare",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Zucchini",
+      "definition": "zucchini",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Abteilung",
+      "definition": "department",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "angeben",
+      "definition": "to indicate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Anruf",
+      "definition": "call",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Anrufer",
+      "definition": "caller",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Arbeitgeber",
+      "definition": "employer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Arbeitsauftrag",
+      "definition": "work order",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Arbeitsbeginn",
+      "definition": "start of work",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Arbeitsschutz",
+      "definition": "occupational safety",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Arbeitsvertrag",
+      "definition": "work contract",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Aufzug",
+      "definition": "lift",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Außendienst",
+      "definition": "sales representatives",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "ausmachen",
+      "definition": "to account for",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Beauftragte",
+      "definition": "agent",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "bereit",
+      "definition": "ready",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "bereitstellen",
+      "definition": "to make ready",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "besprechen",
+      "definition": "to discuss",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Besprechung",
+      "definition": "meeting",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "betätigen",
+      "definition": "to operate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "betreffen",
+      "definition": "to relate to",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "bewahren",
+      "definition": "to save from",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "bewegen",
+      "definition": "to move",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Bildschirm",
+      "definition": "screen",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Brand",
+      "definition": "fire",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Brandbekämpfung",
+      "definition": "fire fighting",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Brandfall",
+      "definition": "case of fire",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Brandschutz",
+      "definition": "fire prevention",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "brennen",
+      "definition": "to burn",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Buchhaltung",
+      "definition": "accountant",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "danken",
+      "definition": "to thank",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "deutlich",
+      "definition": "clearly",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "echt",
+      "definition": "really",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Einweisung",
+      "definition": "instruction",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Elektrik",
+      "definition": "electrics",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Entwurf",
+      "definition": "draft",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "erlauben",
+      "definition": "to allow",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "erwarten",
+      "definition": "to wait for",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "erwischen",
+      "definition": "to catch",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Feuerlöscher",
+      "definition": "fire extinguisher",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Flamme",
+      "definition": "flame",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "folgen",
+      "definition": "to follow",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gefährden",
+      "definition": "to endanger",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gestalten",
+      "definition": "to design",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gesund",
+      "definition": "healthy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Grafik",
+      "definition": "graphics",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Grafiker",
+      "definition": "graphic designer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Hektik",
+      "definition": "rush",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "heraussuchen",
+      "definition": "to pick out",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "hinfahren",
+      "definition": "to go there",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "höflich",
+      "definition": "polite",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Internetzugang",
+      "definition": "internet access",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kabelsalat",
+      "definition": "cable tangle",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "kennzeichnen",
+      "definition": "to mark",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kerze",
+      "definition": "candle",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Konto",
+      "definition": "account",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kontoverbindung",
+      "definition": "account connection",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "kopieren",
+      "definition": "to copy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kraft",
+      "definition": "power",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kundenbetreuung",
+      "definition": "customer support",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Laptop",
+      "definition": "laptop",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Marketing",
+      "definition": "marketing",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Mehrfachsteckdose",
+      "definition": "power strip",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "mitschreiben",
+      "definition": "to take notes",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Nachbereitung",
+      "definition": "follow-up",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "nennen",
+      "definition": "to name",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Personalabteilung",
+      "definition": "personnel department",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Personalbüro",
+      "definition": "personnel office",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Personalleiter",
+      "definition": "head of personnel",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Protokoll",
+      "definition": "protocol",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "reagieren",
+      "definition": "to react",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Regel",
+      "definition": "rule",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rettungswagen",
+      "definition": "ambulance",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rückfrage",
+      "definition": "query",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sekretariat",
+      "definition": "secretary's office",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sicherheit",
+      "definition": "security",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Steckdose",
+      "definition": "socket",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Steuer",
+      "definition": "tax",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Teelicht",
+      "definition": "tea light",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "überlasten",
+      "definition": "to overload",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "unbürokratisch",
+      "definition": "unbureaucratic",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "unterstützen",
+      "definition": "to support",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verabschieden",
+      "definition": "to adopt",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verbessern",
+      "definition": "to improve",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verboten",
+      "definition": "to forbid",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Verhalten",
+      "definition": "behaviour",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verlegen",
+      "definition": "to reschedule",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "vermeiden",
+      "definition": "to avoid",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vermeidung",
+      "definition": "avoidance",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Versicherung",
+      "definition": "insurance",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vertrieb",
+      "definition": "sales",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verwenden",
+      "definition": "to use",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "vorbeikommen",
+      "definition": "to drop by",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "vorbereiten",
+      "definition": "to prepare",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vorschrift",
+      "definition": "regulation",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Werbeflyer",
+      "definition": "flyer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Werbeagentur",
+      "definition": "marketing agency",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Werbetexter",
+      "definition": "copy writer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "aggressiv",
+      "definition": "aggressive",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "anders",
+      "definition": "different",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Angst",
+      "definition": "fear",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "aufhören",
+      "definition": "to stop",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "aufpassen",
+      "definition": "to watch out",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "ausreichend",
+      "definition": "enough",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "befriedigend",
+      "definition": "satisfactory",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Begrüßung",
+      "definition": "greeting",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "beraten",
+      "definition": "to advise",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Bericht",
+      "definition": "report",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Berufskolleg",
+      "definition": "vocational college",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Berufswunsch",
+      "definition": "career aspiration",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Biologie",
+      "definition": "biology",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Bundesland",
+      "definition": "federal state",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Chemie",
+      "definition": "chemistry",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "damals",
+      "definition": "back then",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "dieselbe",
+      "definition": "the same",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Diplom",
+      "definition": "diploma",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Elternabend",
+      "definition": "parent's evening",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Elternsprechtag",
+      "definition": "parent-teacher day",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "lehrer",
+      "definition": "English teacher",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Erdkunde",
+      "definition": "geography",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "etwa",
+      "definition": "around",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Fach",
+      "definition": "subject",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Fachhochschule",
+      "definition": "technical college",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Fachhochschulreife",
+      "definition": "technical college certificate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Fluss",
+      "definition": "river",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "formell",
+      "definition": "formula",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Fotograf",
+      "definition": "photographer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "freiwillig",
+      "definition": "voluntary",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gesamtschule",
+      "definition": "comprehensive school",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Geschichte",
+      "definition": "history",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gipsbein",
+      "definition": "leg in plaster",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Glück",
+      "definition": "luck",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gymnasium",
+      "definition": "Grammar school",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Halbjahr",
+      "definition": "half-year",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Hauptschule",
+      "definition": "secondary school",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "hinfallen",
+      "definition": "to fall over",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Integrationsverein",
+      "definition": "integration association",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Jugendliche",
+      "definition": "youth",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Junge",
+      "definition": "boy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kindertagesstätte (Kita)",
+      "definition": "nursery school",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Klasse",
+      "definition": "class",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Klassenarbeit",
+      "definition": "classwork",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Klassenlehrer",
+      "definition": "class teacher",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Knöchel",
+      "definition": "knuckle",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Korb",
+      "definition": "basket",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kunst",
+      "definition": "art",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Lieblingsfach",
+      "definition": "favourite subject",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "lösen",
+      "definition": "to solve",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Lust",
+      "definition": "desire",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Mädchen",
+      "definition": "girl",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "mangelhaft",
+      "definition": "unsatisfactory",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Mathearbeit",
+      "definition": "maths test",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Meinung",
+      "definition": "opinion",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Nachhilfe",
+      "definition": "private tuition",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "normal",
+      "definition": "normal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Note",
+      "definition": "mark",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Oberschule",
+      "definition": "secondary school",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "olympisch",
+      "definition": "olympic",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Pflicht",
+      "definition": "duty",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Physik",
+      "definition": "physics",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Pilot",
+      "definition": "pilot",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Planung",
+      "definition": "schedule",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Realschule",
+      "definition": "secondary modern school",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rede",
+      "definition": "speech",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Religion",
+      "definition": "religious studies",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schaubild",
+      "definition": "diagram",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "schrecklich",
+      "definition": "terrible",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schulform",
+      "definition": "type of school",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schulleiter",
+      "definition": "headteacher",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schulpflicht",
+      "definition": "compulsory school attendance",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schulsystem",
+      "definition": "school system",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "selbst",
+      "definition": "even",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sozialpädagoge/-pädagogin",
+      "definition": "social education worker",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sportunterricht",
+      "definition": "sports lessons",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "streng",
+      "definition": "strict",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tagesordnung",
+      "definition": "daily schedule",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Teenager",
+      "definition": "teenager",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "teilnehmen",
+      "definition": "to take part",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tier",
+      "definition": "animal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tierpfleger",
+      "definition": "zookeeper",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "träumen",
+      "definition": "to dream",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "traurig",
+      "definition": "sad",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "turnen",
+      "definition": "to do gymnastics",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "umknicken",
+      "definition": "to fold over",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "unfair",
+      "definition": "unfair",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "ungenügend",
+      "definition": "unsatisfactory",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Uniform",
+      "definition": "uniform",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "unten",
+      "definition": "under",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Unterschied",
+      "definition": "difference",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Variante",
+      "definition": "alternative",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vergangenheit",
+      "definition": "past",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vokabeltest",
+      "definition": "vocabulary test",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vortrag",
+      "definition": "presentation",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Alternative",
+      "definition": "alternative",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "anerkannt",
+      "definition": "recognised",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Anweisung",
+      "definition": "instruction",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Auflistung",
+      "definition": "list",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Behandlung",
+      "definition": "treatment",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "belegen",
+      "definition": "to prove",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Bescheinigung",
+      "definition": "certificate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Boden",
+      "definition": "floor",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "dagegen",
+      "definition": "in contrast",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "damit",
+      "definition": "so that",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Eiswürfel",
+      "definition": "ice cube",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "empfindlich",
+      "definition": "sensitive",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "engagieren",
+      "definition": "to engage",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "entspannen",
+      "definition": "to relax",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Entspannung",
+      "definition": "relaxation",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "erfahren",
+      "definition": "to find out",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "erstatten",
+      "definition": "to compensate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "fit",
+      "definition": "fit",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gesamt",
+      "definition": "whole",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gesundheitlich",
+      "definition": "hygienic",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gymnastik",
+      "definition": "gymnastics",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Handgelenk",
+      "definition": "wrist",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Hausmittel",
+      "definition": "home remedy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Haut",
+      "definition": "skin",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "hiermit",
+      "definition": "hierwith",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "hierzu",
+      "definition": "hereto",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "hochlegen",
+      "definition": "to elevate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "holen",
+      "definition": "to fetch",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "klagen",
+      "definition": "to sue",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "kommunizieren",
+      "definition": "to communicate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "kompliziert",
+      "definition": "complicated",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kostenerstattung",
+      "definition": "reimbursement of costs",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kostenübernahme",
+      "definition": "cost transfer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "kühlen",
+      "definition": "to cool",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "leihen",
+      "definition": "to lend",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "manche",
+      "definition": "some",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Massage",
+      "definition": "massage",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "massieren",
+      "definition": "to massage",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Meditation",
+      "definition": "meditation",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Muskel",
+      "definition": "muscle",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Nebenwirkung",
+      "definition": "side effect",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Pilates",
+      "definition": "pilates",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rat",
+      "definition": "advice",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "reizen",
+      "definition": "to irritate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rückenmuskulatur",
+      "definition": "back muscles",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "schlafengehen",
+      "definition": "",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "schlagen",
+      "definition": "to hit",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schmerztablette",
+      "definition": "pain medication",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schwellung",
+      "definition": "swelling",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "selber",
+      "definition": "by oneself",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "speziell",
+      "definition": "special",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sportart",
+      "definition": "type of sport",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sportverein",
+      "definition": "sports club",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "ständig",
+      "definition": "constant",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "stärken",
+      "definition": "to strengthen",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tanzkurs",
+      "definition": "dance class",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Teilnahme",
+      "definition": "participation",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Teilnahmebescheinigung",
+      "definition": "participation certificate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "telefonisch",
+      "definition": "by telephone",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Therapie",
+      "definition": "therapy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Trainer",
+      "definition": "trainer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "treiben",
+      "definition": "to do",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tüte",
+      "definition": "bag",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Übelkeit",
+      "definition": "nausea",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "übersenden",
+      "definition": "to send",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "überweisen",
+      "definition": "to transfer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "übrigens",
+      "definition": "by the way",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Verabschiedung",
+      "definition": "approval",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "vermitteln",
+      "definition": "to procure",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verschreiben",
+      "definition": "to prescribe",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Versicherungsnehmer",
+      "definition": "policy holder",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Versicherungstarif",
+      "definition": "insurance tariff",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Verspannung",
+      "definition": "Verspannungen",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Aktivität",
+      "definition": "Aktivitäten",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "eigen",
+      "definition": "own",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Eingabe",
+      "definition": "input",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "eingeben",
+      "definition": "to input",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "einzahlen",
+      "definition": "to pay in",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "erledigen",
+      "definition": "to manage to",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "eröffnen",
+      "definition": "to open",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Filiale",
+      "definition": "branch",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "folgend",
+      "definition": "following",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "formulieren",
+      "definition": "to formulate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gebühr",
+      "definition": "fee",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Geldautomat",
+      "definition": "cash machine",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Geldbörse",
+      "definition": "purse",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Geldstück",
+      "definition": "coin",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "genießen",
+      "definition": "to enjoy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gewinnen",
+      "definition": "to win",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Girocard",
+      "definition": "girocard",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Girokonto",
+      "definition": "current account",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Hufeisen",
+      "definition": "horseshoe",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "IBAN",
+      "definition": "IBAN",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "indirekt",
+      "definition": "indirect",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Innenstadt",
+      "definition": "city centre",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "jederzeit",
+      "definition": "anytime",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kleeblatt",
+      "definition": "cloverleaf",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kleingeld",
+      "definition": "small change",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kontoauszug",
+      "definition": "account statement",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kontoinhaber",
+      "definition": "account holder",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kontonummer",
+      "definition": "account number",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kontostand",
+      "definition": "balance",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "kontrollieren",
+      "definition": "to monitor",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kreditinstitut",
+      "definition": "credit institute",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kreditkarte",
+      "definition": "credit card",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kundennummer",
+      "definition": "customer number",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kundenreferenz",
+      "definition": "customer reference",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Laden",
+      "definition": "premises",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Leistung",
+      "definition": "service",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Menge",
+      "definition": "amount",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "mobil",
+      "definition": "portable",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "monatlich",
+      "definition": "monthly",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Münze",
+      "definition": "coin",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "niemand",
+      "definition": "nobody",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Nulltarif",
+      "definition": "zero tariff rate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "nutzen",
+      "definition": "useage",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Online-Banking",
+      "definition": "online banking",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Pfennig",
+      "definition": "penny",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "PIN",
+      "definition": "PIN",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Quatsch",
+      "definition": "rubbish",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rechnung",
+      "definition": "bill",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rechnungsbetrag",
+      "definition": "invoice amount",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Rechnungsnummer",
+      "definition": "invoice number",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "reich",
+      "definition": "rich",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Reichtum",
+      "definition": "wealth",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Respekt",
+      "definition": "respect",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schein",
+      "definition": "bank note",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "schlachten",
+      "definition": "to rob",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schornsteinfeger",
+      "definition": "chimney sweep",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sparkonto",
+      "definition": "savings account",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sparschwein",
+      "definition": "piggy bank",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "spätestens",
+      "definition": "at the latest",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "stecken",
+      "definition": "to put",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "stoßen",
+      "definition": "to encounter",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "TAN",
+      "definition": "TAN",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Taste",
+      "definition": "button",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Täter",
+      "definition": "culprit",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Überfall",
+      "definition": "robbery",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "überfallen",
+      "definition": "to rob",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Überwachungskamera",
+      "definition": "CCTV",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Überweisung",
+      "definition": "transfer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Überweisungsformular",
+      "definition": "bank transfer form",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Versuch",
+      "definition": "attempt",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Verwendungszweck",
+      "definition": "purpose",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vorteil",
+      "definition": "advantage",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "weglaufen",
+      "definition": "to run away",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Zahlungsempfänger",
+      "definition": "payee",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Zeitungs",
+      "definition": "newspaper article",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Zeuge/Zeugin",
+      "definition": "thing",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "zurückgeben",
+      "definition": "to return",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "abschalten to switch off",
+      "definition": "",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "ärgern",
+      "definition": "to annoy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "asiatisch",
+      "definition": "asian",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Ausflug",
+      "definition": "excursion",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "ausgezeichnet",
+      "definition": "excellent",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Ausgleich",
+      "definition": "balance",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "außer",
+      "definition": "apart from",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Aussicht",
+      "definition": "prospect",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Babysitter",
+      "definition": "babysitter",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Band",
+      "definition": "band",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Basketball",
+      "definition": "basketball",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "basteln",
+      "definition": "to do crafts",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Besteck",
+      "definition": "cutlery",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Chor",
+      "definition": "choir",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "daheim",
+      "definition": "at home",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Daumen",
+      "definition": "thumb",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Einlass",
+      "definition": "admission",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "entlang",
+      "definition": "along",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Event",
+      "definition": "event",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Feuerzeug",
+      "definition": "lighter",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Freizeit",
+      "definition": "free time",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Freizeitaktivität",
+      "definition": "free time activities",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Freizeitangebot",
+      "definition": "leisure opportunities",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Freizeitvergnügen",
+      "definition": "pastime",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gabel",
+      "definition": "fork",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gastronomie",
+      "definition": "gastronomy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gedicht",
+      "definition": "poem",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Gegensatz",
+      "definition": "contrast",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Geiger",
+      "definition": "violinist",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "gemischt",
+      "definition": "mixed",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Geschirr",
+      "definition": "crockery",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Grill",
+      "definition": "barbecue",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Grillkohle",
+      "definition": "barbecue coal",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Grillplatz",
+      "definition": "barbecue area",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Grillsoße",
+      "definition": "barbecue sauce",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Grillzange",
+      "definition": "barbecue tong",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "herrlich",
+      "definition": "delightful",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "herum",
+      "definition": "around",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "interessieren",
+      "definition": "to interest",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Interviewpartner",
+      "definition": "interview partner",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "irgendwo",
+      "definition": "somewhere",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "jährlich",
+      "definition": "annually",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "jeweils",
+      "definition": "respectively",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "knackig",
+      "definition": "crispy",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "konzentrieren",
+      "definition": "to concentrate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Kumpel",
+      "definition": "mate",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Leidenschaft",
+      "definition": "passion",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Löffel",
+      "definition": "spoon",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "malen",
+      "definition": "to paint",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "meist",
+      "definition": "most",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Messer",
+      "definition": "knife",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "mitfahren",
+      "definition": "to travel with",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "nähen",
+      "definition": "to sew",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "normalerweise",
+      "definition": "normally",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Open-Air-Konzert",
+      "definition": "open air concert",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Poetry-Slam",
+      "definition": "poetry slam",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Regie",
+      "definition": "management",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Saal",
+      "definition": "hall",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schach",
+      "definition": "chess",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schnupperkurs",
+      "definition": "taster course",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Schüssel",
+      "definition": "key",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "segeln",
+      "definition": "to sail",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sieg",
+      "definition": "victory",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Spielfeld",
+      "definition": "playing field",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sportergebnis",
+      "definition": "sports result",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Sportplatz",
+      "definition": "sports field",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "surfen",
+      "definition": "to surf",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tango",
+      "definition": "tango",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tänzer",
+      "definition": "dancer",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tischdecke",
+      "definition": "tablecloth",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Tischdekoration",
+      "definition": "table decoration",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "trotzdem",
+      "definition": "despite",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "umfangreich",
+      "definition": "comprehensive",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Umfrage",
+      "definition": "survey",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Umkleide",
+      "definition": "changing room",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "unterhalten",
+      "definition": "to entertain",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "veranstalten",
+      "definition": "to organise",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Veranstaltungshinweis",
+      "definition": "event information",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verbringen",
+      "definition": "to spend time",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Verpackung",
+      "definition": "packaging",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "verteilen",
+      "definition": "to distribute",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Volleyballspiel",
+      "definition": "volley ball game",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    },
+    {
+      "book": "German",
+      "word": "Vorlesung",
+      "definition": "lecture",
+      "etym": "",
+      "gender": "",
+      "hasChecked": false,
+      "language": "de",
+      "pronounciation": "",
+      "quizResults": [
+        "n",
+        "n",
+        "n",
+        "n"
+      ],
+      "seen": 0,
+      "snoozed": false
+    }
+
+  ]
+}
