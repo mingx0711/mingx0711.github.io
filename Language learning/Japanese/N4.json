@@ -1,7 +1,7 @@
 {
   "vocabList": [
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "上がる",
       "pronounciation": "agaru",
       "definition": "to rise, to ascend",
@@ -11,7 +11,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "挨拶",
       "pronounciation": "aisatsu",
       "definition": "greeting, salutation",
@@ -21,7 +21,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "味",
       "pronounciation": "aji",
       "definition": "flavor, taste",
@@ -31,7 +31,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "赤ちゃん",
       "pronounciation": "akachan",
       "definition": "baby, infant​",
@@ -41,7 +41,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "赤ん坊",
       "pronounciation": "akanbou",
       "definition": "baby, infant​",
@@ -51,7 +51,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "案内",
       "pronounciation": "annai",
       "definition": "guidance, leading (the way)",
@@ -61,7 +61,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "安心",
       "pronounciation": "anshin",
       "definition": "relief, peace of mind​",
@@ -71,7 +71,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "安全",
       "pronounciation": "anzen",
       "definition": "safety",
@@ -81,7 +81,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "浅い",
       "pronounciation": "asai",
       "definition": "shallow, superficial​",
@@ -91,7 +91,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "足音",
       "pronounciation": "ashioto",
       "definition": "sound of footsteps",
@@ -101,7 +101,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "遊び",
       "pronounciation": "asobi",
       "definition": "playing",
@@ -111,7 +111,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "集る",
       "pronounciation": "atsumaru",
       "definition": "to gather, to collect, to assemble​",
@@ -121,7 +121,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "集める",
       "pronounciation": "atsumeru",
       "definition": "to collect, to assemble, to gather​",
@@ -131,7 +131,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "合う",
       "pronounciation": "au",
       "definition": "to fit, to match, to suit",
@@ -141,7 +141,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "謝る",
       "pronounciation": "ayamaru",
       "definition": "to apologize",
@@ -151,7 +151,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "倍",
       "pronounciation": "bai",
       "definition": "twice, double​, times",
@@ -161,7 +161,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "番組",
       "pronounciation": "bangumi",
       "definition": "program (e.g. TV)",
@@ -171,7 +171,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "場所",
       "pronounciation": "basho",
       "definition": "place, location",
@@ -181,7 +181,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "別",
       "pronounciation": "betsu",
       "definition": "different, another",
@@ -191,7 +191,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "美術館",
       "pronounciation": "bijutsukan",
       "definition": "art gallery, art museum​",
@@ -201,7 +201,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "びっくり",
       "pronounciation": "bikkuri",
       "definition": "to be surprised",
@@ -211,7 +211,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "僕",
       "pronounciation": "boku",
       "definition": "I, me",
@@ -221,7 +221,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "貿易",
       "pronounciation": "boueki",
       "definition": "trade (foreign)​",
@@ -231,7 +231,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "部長",
       "pronounciation": "buchou",
       "definition": "head of a section or department",
@@ -241,7 +241,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "ぶどう",
       "pronounciation": "budou",
       "definition": "grape",
@@ -251,7 +251,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "文学",
       "pronounciation": "bungaku",
       "definition": "literature",
@@ -261,7 +261,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "文化",
       "pronounciation": "bunka",
       "definition": "culture, civilization",
@@ -271,7 +271,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "文法",
       "pronounciation": "bunpou",
       "definition": "grammar",
@@ -281,7 +281,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "血",
       "pronounciation": "chi",
       "definition": "blood",
@@ -291,7 +291,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "力",
       "pronounciation": "chikara",
       "definition": "force, strength, vigor",
@@ -301,7 +301,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "地理",
       "pronounciation": "chiri",
       "definition": "geography",
@@ -311,7 +311,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "中学校",
       "pronounciation": "chuugakkou",
       "definition": "junior high school",
@@ -321,7 +321,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "注意",
       "pronounciation": "chuui",
       "definition": "caution, being careful",
@@ -331,7 +331,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "注射",
       "pronounciation": "chuusha",
       "definition": "injection",
@@ -341,7 +341,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "駐車場",
       "pronounciation": "chuushajou",
       "definition": "parking lot",
@@ -351,7 +351,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "大分",
       "pronounciation": "daibu",
       "definition": "considerably, greatly",
@@ -361,7 +361,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "大学生",
       "pronounciation": "daigakusei",
       "definition": "university student",
@@ -371,7 +371,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "大事",
       "pronounciation": "daiji",
       "definition": "important, serious, crucial​",
@@ -381,7 +381,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "大体",
       "pronounciation": "daitai",
       "definition": "general, substantially",
@@ -391,7 +391,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "だから",
       "pronounciation": "dakara",
       "definition": "so, therefore",
@@ -401,7 +401,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "駄目",
       "pronounciation": "dame",
       "definition": "no good, useless",
@@ -411,7 +411,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "暖房",
       "pronounciation": "danbou",
       "definition": "(indoor) heating​",
@@ -421,7 +421,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "男性",
       "pronounciation": "dansei",
       "definition": "man, male",
@@ -431,7 +431,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "電報",
       "pronounciation": "denpou",
       "definition": "telegram",
@@ -441,7 +441,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "電灯",
       "pronounciation": "dentou",
       "definition": "electric light​",
@@ -451,7 +451,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "どんどん",
       "pronounciation": "dondon",
       "definition": "rapidly, continuously",
@@ -461,7 +461,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "泥棒",
       "pronounciation": "dorobou",
       "definition": "thief, burglar, robber, theft​",
@@ -471,7 +471,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "動物園",
       "pronounciation": "doubutsuen",
       "definition": "zoo",
@@ -481,7 +481,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "道具",
       "pronounciation": "dougu",
       "definition": "tool, implement",
@@ -491,7 +491,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "枝",
       "pronounciation": "eda",
       "definition": "branch, bough",
@@ -501,7 +501,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "遠慮",
       "pronounciation": "enryo",
       "definition": "constraint, restraint, modesty",
@@ -511,7 +511,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "選ぶ",
       "pronounciation": "erabu",
       "definition": "to choose, to select",
@@ -521,7 +521,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "不便",
       "pronounciation": "fuben",
       "definition": "inconvenience",
@@ -531,7 +531,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "増える",
       "pronounciation": "fueru",
       "definition": "to increase, to multiply",
@@ -541,7 +541,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "深い",
       "pronounciation": "fukai",
       "definition": "deep, profound",
@@ -551,7 +551,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "復習",
       "pronounciation": "fukushuu",
       "definition": "review, revision",
@@ -561,7 +561,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "複雑",
       "pronounciation": "fukuzatsu",
       "definition": "complex, complicated",
@@ -571,7 +571,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "踏む",
       "pronounciation": "fumu",
       "definition": "to step on, to tread on​",
@@ -581,7 +581,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "船",
       "pronounciation": "fune",
       "definition": "ship, boat",
@@ -591,7 +591,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "布団",
       "pronounciation": "futon",
       "definition": "futon",
@@ -601,7 +601,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "太る",
       "pronounciation": "futoru",
       "definition": "to grow fat",
@@ -611,7 +611,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "普通",
       "pronounciation": "futsuu",
       "definition": "general, ordinary, usual​",
@@ -621,7 +621,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "頑張る",
       "pronounciation": "ganbaru",
       "definition": "to hang on, to do one’s best",
@@ -631,7 +631,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "原因",
       "pronounciation": "gen’in",
       "definition": "cause, origin, source​",
@@ -641,7 +641,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "下宿",
       "pronounciation": "geshuku",
       "definition": "boarding, lodging",
@@ -651,7 +651,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "技術",
       "pronounciation": "gijutsu",
       "definition": "technology, engineering​",
@@ -661,7 +661,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "ご馳走",
       "pronounciation": "gochisou",
       "definition": "feast, treating (someone)​",
@@ -671,7 +671,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "塵",
       "pronounciation": "gomi",
       "definition": "rubbish, trash, garbage",
@@ -681,7 +681,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "ご覧になる",
       "pronounciation": "goran ni naru",
       "definition": "to see, to look, to watch​",
@@ -691,7 +691,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "ご存じ",
       "pronounciation": "gozonji",
       "definition": "knowing",
@@ -701,7 +701,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "ご主人",
       "pronounciation": "goshujin",
       "definition": "your husband",
@@ -711,7 +711,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "具合",
       "pronounciation": "guai",
       "definition": "condition, state, health",
@@ -721,7 +721,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "軍人",
       "pronounciation": "gunjin",
       "definition": "military personnel, soldier",
@@ -731,7 +731,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "葉",
       "pronounciation": "ha",
       "definition": "leaf",
@@ -741,7 +741,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "拝見",
       "pronounciation": "haiken",
       "definition": "seeing, look at",
@@ -751,7 +751,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "歯医者",
       "pronounciation": "haisha",
       "definition": "dentist",
@@ -761,7 +761,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "始める",
       "pronounciation": "hajimeru",
       "definition": "to start, to begin",
@@ -771,7 +771,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "はっきり",
       "pronounciation": "hakkiri",
       "definition": "clearly, plainly",
@@ -781,7 +781,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "運ぶ",
       "pronounciation": "hakobu",
       "definition": "to carry, to transport",
@@ -791,7 +791,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "花見",
       "pronounciation": "hanami",
       "definition": "cherry blossom viewing",
@@ -801,7 +801,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "反対",
       "pronounciation": "hantai",
       "definition": "opposition, resistance",
@@ -811,7 +811,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "払う",
       "pronounciation": "harau",
       "definition": "to pay",
@@ -821,7 +821,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "発音",
       "pronounciation": "hatsuon",
       "definition": "pronunciation",
@@ -831,7 +831,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "林",
       "pronounciation": "hayashi",
       "definition": "woods, forest",
@@ -841,7 +841,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "恥ずかしい",
       "pronounciation": "hazukashii",
       "definition": "shy, embarrassed",
@@ -851,7 +851,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "変",
       "pronounciation": "hen",
       "definition": "strange, odd, peculiar",
@@ -861,7 +861,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "返事",
       "pronounciation": "henji",
       "definition": "reply, answer, response​",
@@ -871,7 +871,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "酷い",
       "pronounciation": "hidoi",
       "definition": "cruel, heartless",
@@ -881,7 +881,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "冷える",
       "pronounciation": "hieru",
       "definition": "to grow cold",
@@ -891,7 +891,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "ひげ",
       "pronounciation": "hige",
       "definition": "mustache, beard",
@@ -901,7 +901,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "非常に",
       "pronounciation": "hijou ni",
       "definition": "very, extremely",
@@ -911,7 +911,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "光",
       "pronounciation": "hikari",
       "definition": "light, beam",
@@ -921,7 +921,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "光る",
       "pronounciation": "hikaru",
       "definition": "to shine, to glitter",
@@ -931,7 +931,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "引き出し",
       "pronounciation": "hikidashi",
       "definition": "drawer",
@@ -941,7 +941,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "引き出す",
       "pronounciation": "hikidasu",
       "definition": "to pull out, to take out",
@@ -951,7 +951,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "引っ越す",
       "pronounciation": "hikkosu",
       "definition": "to move (house)",
@@ -961,7 +961,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "飛行場",
       "pronounciation": "hikoujou",
       "definition": "airfield, airport",
@@ -971,7 +971,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "開く",
       "pronounciation": "hiraku",
       "definition": "to open, to undo​",
@@ -981,7 +981,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "昼間",
       "pronounciation": "hiruma",
       "definition": "daytime, during the day",
@@ -991,7 +991,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "拾う",
       "pronounciation": "hirou",
       "definition": "to pick up",
@@ -1001,7 +1001,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "昼休み",
       "pronounciation": "hiruyasumi",
       "definition": "lunch break",
@@ -1011,7 +1011,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "久しぶり",
       "pronounciation": "hisashiburi",
       "definition": "it’s been a while",
@@ -1021,7 +1021,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "褒める",
       "pronounciation": "homeru",
       "definition": "to praise, to admire",
@@ -1031,7 +1031,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "翻訳",
       "pronounciation": "honyaku",
       "definition": "translation",
@@ -1041,7 +1041,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "星",
       "pronounciation": "hoshi",
       "definition": "star",
@@ -1051,7 +1051,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "ほとんど",
       "pronounciation": "hotondo",
       "definition": "mostly, nearly",
@@ -1061,7 +1061,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "法律",
       "pronounciation": "houritsu",
       "definition": "law",
@@ -1071,7 +1071,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "一度",
       "pronounciation": "ichido",
       "definition": "once, one time",
@@ -1081,7 +1081,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "医学",
       "pronounciation": "igaku",
       "definition": "medical science, medicine",
@@ -1091,7 +1091,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "苛める",
       "pronounciation": "ijimeru",
       "definition": "to bully, to torment",
@@ -1101,7 +1101,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "以上",
       "pronounciation": "ijou",
       "definition": "not less than, beyond",
@@ -1111,7 +1111,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "以下",
       "pronounciation": "ika",
       "definition": "not exceeding, below",
@@ -1121,7 +1121,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "意見",
       "pronounciation": "iken",
       "definition": "opinion, view, comment​",
@@ -1131,7 +1131,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "生きる",
       "pronounciation": "ikiru",
       "definition": "to live, to exist​",
@@ -1141,7 +1141,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "以内",
       "pronounciation": "inai",
       "definition": "within, inside of",
@@ -1151,7 +1151,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "田舎",
       "pronounciation": "inaka",
       "definition": "rural area, countryside",
@@ -1161,7 +1161,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "祈る",
       "pronounciation": "inoru",
       "definition": "to pray, to wish​",
@@ -1171,7 +1171,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "一杯",
       "pronounciation": "ippai",
       "definition": "full, a lot",
@@ -1181,7 +1181,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "石",
       "pronounciation": "ishi",
       "definition": "stone, gem, jewel",
@@ -1191,7 +1191,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "一生懸命",
       "pronounciation": "isshoukenmei",
       "definition": "very hard, with utmost effort",
@@ -1201,7 +1201,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "急ぐ",
       "pronounciation": "isogu",
       "definition": "to hurry, to rush",
@@ -1211,7 +1211,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "糸",
       "pronounciation": "ito",
       "definition": "thread, yarn, string",
@@ -1221,7 +1221,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "邪魔",
       "pronounciation": "jama",
       "definition": "hindrance, obstacle",
@@ -1231,7 +1231,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "字",
       "pronounciation": "ji",
       "definition": "character (i.e. kanji)​",
@@ -1241,7 +1241,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "時代",
       "pronounciation": "jidai",
       "definition": "period, epoch, era, age​",
@@ -1251,7 +1251,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "事故",
       "pronounciation": "jiko",
       "definition": "accident, incident, trouble​",
@@ -1261,7 +1261,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "事務所",
       "pronounciation": "jimusho",
       "definition": "office",
@@ -1271,7 +1271,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "神社",
       "pronounciation": "jinja",
       "definition": "Shinto shrine​",
@@ -1281,7 +1281,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "人口",
       "pronounciation": "jinkou",
       "definition": "population",
@@ -1291,7 +1291,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "地震",
       "pronounciation": "jishin",
       "definition": "earthquake",
@@ -1301,7 +1301,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "辞典",
       "pronounciation": "jiten",
       "definition": "dictionary",
@@ -1311,7 +1311,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "自由",
       "pronounciation": "jiyuu",
       "definition": "freedom, liberty",
@@ -1321,7 +1321,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "女性",
       "pronounciation": "josei",
       "definition": "woman, female",
@@ -1331,7 +1331,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "準備",
       "pronounciation": "junbi",
       "definition": "preparation, set up",
@@ -1341,7 +1341,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "十分",
       "pronounciation": "juubun",
       "definition": "plenty, enough, sufficient",
@@ -1351,7 +1351,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "住所",
       "pronounciation": "juusho",
       "definition": "address",
@@ -1361,7 +1361,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "壁",
       "pronounciation": "kabe",
       "definition": "wall, partition​",
@@ -1371,7 +1371,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "課長",
       "pronounciation": "kachou",
       "definition": "section manager, section chief​",
@@ -1381,7 +1381,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "帰り",
       "pronounciation": "kaeri",
       "definition": "return, coming back​",
@@ -1391,7 +1391,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "変える",
       "pronounciation": "kaeru",
       "definition": "to change, to alter",
@@ -1401,7 +1401,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "科学",
       "pronounciation": "kagaku",
       "definition": "science",
@@ -1411,7 +1411,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "鏡",
       "pronounciation": "kagami",
       "definition": "mirror, looking-glass​",
@@ -1421,7 +1421,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "海岸",
       "pronounciation": "kaigan",
       "definition": "coast, beach​",
@@ -1431,7 +1431,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "会議",
       "pronounciation": "kaigi",
       "definition": "meeting, conference",
@@ -1441,7 +1441,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "会議室",
       "pronounciation": "kaigishitsu",
       "definition": "conference room",
@@ -1451,7 +1451,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "会場",
       "pronounciation": "kaijou",
       "definition": "assembly hall, meeting place",
@@ -1461,7 +1461,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "会話",
       "pronounciation": "kaiwa",
       "definition": "conversation",
@@ -1471,7 +1471,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "火事",
       "pronounciation": "kaji",
       "definition": "fire, conflagration​",
@@ -1481,7 +1481,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "掛ける",
       "pronounciation": "kakeru",
       "definition": "to hang, to hoist, to raise",
@@ -1491,7 +1491,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "格好",
       "pronounciation": "kakkou",
       "definition": "shape, form, figure",
@@ -1501,7 +1501,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "構う",
       "pronounciation": "kamau",
       "definition": "to mind, to care about",
@@ -1511,7 +1511,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "髪",
       "pronounciation": "kami",
       "definition": "hair (on the head)​",
@@ -1521,7 +1521,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "噛む",
       "pronounciation": "kamu",
       "definition": "to bite, to chew, to gnaw​",
@@ -1531,7 +1531,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "家内",
       "pronounciation": "kanai",
       "definition": "(my) wife",
@@ -1541,7 +1541,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "必ず",
       "pronounciation": "kanarazu",
       "definition": "always, without exception",
@@ -1551,7 +1551,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "悲しい",
       "pronounciation": "kanashii",
       "definition": "sad, sorrowful​",
@@ -1561,7 +1561,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "金持ち",
       "pronounciation": "kanemochi",
       "definition": "rich person​",
@@ -1571,7 +1571,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "考える",
       "pronounciation": "kangaeru",
       "definition": "to think about",
@@ -1581,7 +1581,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "関係",
       "pronounciation": "kankei",
       "definition": "relation, relationship, connection",
@@ -1591,7 +1591,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "彼女",
       "pronounciation": "kanojo",
       "definition": "she, her",
@@ -1601,7 +1601,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "簡単",
       "pronounciation": "kantan",
       "definition": "simple, easy, uncomplicated​",
@@ -1611,7 +1611,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "顔",
       "pronounciation": "kao",
       "definition": "face, look",
@@ -1621,7 +1621,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "彼",
       "pronounciation": "kare",
       "definition": "he, him",
@@ -1631,7 +1631,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "彼ら",
       "pronounciation": "karera",
       "definition": "they, them",
@@ -1641,7 +1641,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "形",
       "pronounciation": "katachi",
       "definition": "form, shape, figure",
@@ -1651,7 +1651,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "硬い",
       "pronounciation": "katai",
       "definition": "hard, solid, tough​",
@@ -1661,7 +1661,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "片付ける",
       "pronounciation": "katazukeru",
       "definition": "to tidy up, to put in order",
@@ -1671,7 +1671,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "勝つ",
       "pronounciation": "katsu",
       "definition": "to win, to gain victory​",
@@ -1681,7 +1681,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "乾く",
       "pronounciation": "kawaku",
       "definition": "to get dry",
@@ -1691,7 +1691,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "代わり",
       "pronounciation": "kawari",
       "definition": "substitute, replacement",
@@ -1701,7 +1701,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "変わる",
       "pronounciation": "kawaru",
       "definition": "to change, to be transformed",
@@ -1711,7 +1711,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "通う",
       "pronounciation": "kayou",
       "definition": "to go back and forth between",
@@ -1721,7 +1721,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "飾る",
       "pronounciation": "kazaru",
       "definition": "to decorate, to ornament",
@@ -1731,7 +1731,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "毛",
       "pronounciation": "ke",
       "definition": "hair, fur, wool​",
@@ -1741,7 +1741,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "怪我",
       "pronounciation": "kega",
       "definition": "injury, hurt",
@@ -1751,7 +1751,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "計画",
       "pronounciation": "keikaku",
       "definition": "plan, project",
@@ -1761,7 +1761,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "経験",
       "pronounciation": "keiken",
       "definition": "experience",
@@ -1771,7 +1771,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "警察",
       "pronounciation": "keisatsu",
       "definition": "police",
@@ -1781,7 +1781,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "経済",
       "pronounciation": "keizai",
       "definition": "economics, economy",
@@ -1791,7 +1791,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "見物",
       "pronounciation": "kenbutsu",
       "definition": "sightseeing, watching",
@@ -1801,7 +1801,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "喧嘩",
       "pronounciation": "kenka",
       "definition": "quarrel, brawl, fight",
@@ -1811,7 +1811,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "研究",
       "pronounciation": "kenkyuu",
       "definition": "study, research, investigation​",
@@ -1821,7 +1821,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "研究室",
       "pronounciation": "kenkyuushitsu",
       "definition": "laboratory",
@@ -1831,7 +1831,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "消しゴム",
       "pronounciation": "keshogomu",
       "definition": "eraser",
@@ -1841,7 +1841,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "景色",
       "pronounciation": "keshiki",
       "definition": "scenery, landscape​",
@@ -1851,7 +1851,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "気",
       "pronounciation": "ki",
       "definition": "spirit, mind, heart​",
@@ -1861,7 +1861,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "厳しい",
       "pronounciation": "kibishii",
       "definition": "severe, strict, rigid",
@@ -1871,7 +1871,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "気分",
       "pronounciation": "kibun",
       "definition": "feeling, mood",
@@ -1881,7 +1881,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "機会",
       "pronounciation": "kikai",
       "definition": "chance, opportunity​",
@@ -1891,7 +1891,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "危険",
       "pronounciation": "kiken",
       "definition": "danger, peril, hazard​",
@@ -1901,7 +1901,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "聞こえる",
       "pronounciation": "kikoeru",
       "definition": "to be heard, to be audible​",
@@ -1911,7 +1911,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "決る",
       "pronounciation": "kimaru",
       "definition": "to be decided, to be settled​",
@@ -1921,7 +1921,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "決める",
       "pronounciation": "kimeru",
       "definition": "to decide, to choose",
@@ -1931,7 +1931,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "君",
       "pronounciation": "kimi",
       "definition": "you, buddy, pal",
@@ -1941,7 +1941,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "気持ち",
       "pronounciation": "kimochi",
       "definition": "feeling, sensation, mood​",
@@ -1951,7 +1951,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "近所",
       "pronounciation": "kinjo",
       "definition": "neighborhood",
@@ -1961,7 +1961,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "季節",
       "pronounciation": "kisetsu",
       "definition": "season",
@@ -1971,7 +1971,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "汽車",
       "pronounciation": "kisha",
       "definition": "train",
@@ -1981,7 +1981,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "規則",
       "pronounciation": "kisoku",
       "definition": "rule, regulation​",
@@ -1991,7 +1991,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "心",
       "pronounciation": "kokoro",
       "definition": "mind, heart, spirit​",
@@ -2001,7 +2001,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "国内",
       "pronounciation": "kokunai",
       "definition": "internal, domestic​",
@@ -2011,7 +2011,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "国際",
       "pronounciation": "kokusai",
       "definition": "international",
@@ -2021,7 +2021,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "細かい",
       "pronounciation": "komakai",
       "definition": "small, fine, minute",
@@ -2031,7 +2031,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "米",
       "pronounciation": "kome",
       "definition": "rice",
@@ -2041,7 +2041,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "込む",
       "pronounciation": "komu",
       "definition": "to be crowded, to be packed​",
@@ -2051,7 +2051,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "今度",
       "pronounciation": "kondo",
       "definition": "this time, next time",
@@ -2061,7 +2061,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "この間",
       "pronounciation": "kono aida",
       "definition": "the other day, lately",
@@ -2071,7 +2071,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "この頃",
       "pronounciation": "kono goro",
       "definition": "recently, nowadays",
@@ -2081,7 +2081,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "今夜",
       "pronounciation": "kon’ya",
       "definition": "this evening, tonight​",
@@ -2091,7 +2091,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "これから",
       "pronounciation": "kore kara",
       "definition": "after this",
@@ -2101,7 +2101,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "故障",
       "pronounciation": "koshou",
       "definition": "breakdown, out of order",
@@ -2111,7 +2111,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "答え",
       "pronounciation": "kotae",
       "definition": "answer, reply, response",
@@ -2121,7 +2121,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "事",
       "pronounciation": "koto",
       "definition": "thing, matter",
@@ -2131,7 +2131,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "小鳥",
       "pronounciation": "kotori",
       "definition": "small bird, songbird​",
@@ -2141,7 +2141,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "校長",
       "pronounciation": "kouchou",
       "definition": "principal, headmaster​",
@@ -2151,7 +2151,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "講堂",
       "pronounciation": "koudou",
       "definition": "auditorium, lecture hall​",
@@ -2161,7 +2161,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "郊外",
       "pronounciation": "kougai",
       "definition": "suburb, outskirts​",
@@ -2171,7 +2171,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "講義",
       "pronounciation": "kougi",
       "definition": "lecture",
@@ -2181,7 +2181,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "工業",
       "pronounciation": "kougyou",
       "definition": "(manufacturing) industry​",
@@ -2191,7 +2191,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "工場",
       "pronounciation": "koujou",
       "definition": "factory, plant, mill",
@@ -2201,7 +2201,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "高校",
       "pronounciation": "koukou",
       "definition": "senior high school, high school​",
@@ -2211,7 +2211,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "高校生",
       "pronounciation": "koukousei",
       "definition": "senior high school student​",
@@ -2221,7 +2221,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "公務員",
       "pronounciation": "koumuin",
       "definition": "government worker, public servant",
@@ -2231,7 +2231,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "交通",
       "pronounciation": "koutsuu",
       "definition": "traffic, transportation",
@@ -2241,7 +2241,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "壊れる",
       "pronounciation": "kowareru",
       "definition": "to be broken",
@@ -2251,7 +2251,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "壊す",
       "pronounciation": "kowasu",
       "definition": "to break, to destroy",
@@ -2261,7 +2261,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "首",
       "pronounciation": "kubi",
       "definition": "neck",
@@ -2271,7 +2271,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "雲",
       "pronounciation": "kumo",
       "definition": "cloud",
@@ -2281,7 +2281,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "比べる",
       "pronounciation": "kuraberu",
       "definition": "to compare",
@@ -2291,7 +2291,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "暮れる",
       "pronounciation": "kureru",
       "definition": "to get dark, to grow dark​",
@@ -2301,7 +2301,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "草",
       "pronounciation": "kusa",
       "definition": "grass, weed, herb",
@@ -2311,7 +2311,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "空気",
       "pronounciation": "kuuki",
       "definition": "air, atmosphere​",
@@ -2321,7 +2321,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "空港",
       "pronounciation": "kuukou",
       "definition": "airport",
@@ -2331,7 +2331,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "怖い",
       "pronounciation": "kowai",
       "definition": "scary, frightening",
@@ -2341,7 +2341,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "客",
       "pronounciation": "kyaku",
       "definition": "guest, visitor​",
@@ -2351,7 +2351,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "教育",
       "pronounciation": "kyouiku",
       "definition": "education, schooling",
@@ -2361,7 +2361,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "教会",
       "pronounciation": "kyoukai",
       "definition": "church",
@@ -2371,7 +2371,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "興味",
       "pronounciation": "kyoumi",
       "definition": "interest, curiosity",
@@ -2381,7 +2381,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "競争",
       "pronounciation": "kyousou",
       "definition": "competition, contest",
@@ -2391,7 +2391,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "急",
       "pronounciation": "kyuu",
       "definition": "sudden, abrupt, unexpected​",
@@ -2401,7 +2401,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "急行",
       "pronounciation": "kyuukou",
       "definition": "moving at high speed​",
@@ -2411,7 +2411,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "間違える",
       "pronounciation": "machigaeru",
       "definition": "to make a mistake",
@@ -2421,7 +2421,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "参る",
       "pronounciation": "mairu",
       "definition": "to go, to come (humble)",
@@ -2431,7 +2431,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "真面目",
       "pronounciation": "majime",
       "definition": "seriousness, earnestness",
@@ -2441,7 +2441,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "負ける",
       "pronounciation": "makeru",
       "definition": "to lose, to be defeated",
@@ -2451,7 +2451,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "漫画",
       "pronounciation": "manga",
       "definition": "cartoon, comic",
@@ -2461,7 +2461,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "間に合う",
       "pronounciation": "maniau",
       "definition": "to be in time for",
@@ -2471,7 +2471,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "真中",
       "pronounciation": "mannaka",
       "definition": "middle, center",
@@ -2481,7 +2481,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "または",
       "pronounciation": "matawa",
       "definition": "or, otherwise",
@@ -2491,7 +2491,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "周り",
       "pronounciation": "mawari",
       "definition": "surroundings, neighbourhood",
@@ -2501,7 +2501,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "回る",
       "pronounciation": "mawaru",
       "definition": "to turn, to revolve",
@@ -2511,7 +2511,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "まず",
       "pronounciation": "mazu",
       "definition": "first of all",
@@ -2521,7 +2521,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "召し上がる",
       "pronounciation": "meshiagaru",
       "definition": "to eat, to drink",
@@ -2531,7 +2531,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "珍しい",
       "pronounciation": "mezurashii",
       "definition": "unusual, rare, curious​",
@@ -2541,7 +2541,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "見える",
       "pronounciation": "mieru",
       "definition": "to be seen, to be in sight",
@@ -2551,7 +2551,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "港",
       "pronounciation": "minato",
       "definition": "harbor, port",
@@ -2561,7 +2561,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "見つかる",
       "pronounciation": "mitsukaru",
       "definition": "to be found",
@@ -2571,7 +2571,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "見つける",
       "pronounciation": "mitsukeru",
       "definition": "to discover, to find",
@@ -2581,7 +2581,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "湖",
       "pronounciation": "mizuumi",
       "definition": "lake",
@@ -2591,7 +2591,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "もちろん",
       "pronounciation": "mochiron",
       "definition": "of course, certainly",
@@ -2601,7 +2601,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "戻る",
       "pronounciation": "modoru",
       "definition": "to return, to go back",
@@ -2611,7 +2611,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "森",
       "pronounciation": "mori",
       "definition": "forest",
@@ -2621,7 +2621,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "もし",
       "pronounciation": "moshi",
       "definition": "if, in case",
@@ -2631,7 +2631,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "申し上げる",
       "pronounciation": "moushiageru",
       "definition": "to say, to tell (humble)",
@@ -2641,7 +2641,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "申す",
       "pronounciation": "mousu",
       "definition": "to say, to be called (humble)",
@@ -2651,7 +2651,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "もうすぐ",
       "pronounciation": "mousugu",
       "definition": "soon, shortly",
@@ -2661,7 +2661,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "迎える",
       "pronounciation": "mukaeru",
       "definition": "to go out to meet",
@@ -2671,7 +2671,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "向かう",
       "pronounciation": "mukau",
       "definition": "to face, to go towards",
@@ -2681,7 +2681,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "昔",
       "pronounciation": "mukashi",
       "definition": "olden days, former",
@@ -2691,7 +2691,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "無理",
       "pronounciation": "muri",
       "definition": "unreasonable, impossible",
@@ -2701,7 +2701,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "虫",
       "pronounciation": "mushi",
       "definition": "insect, bug",
@@ -2711,7 +2711,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "息子",
       "pronounciation": "musuko",
       "definition": "son",
@@ -2721,7 +2721,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "娘",
       "pronounciation": "musume",
       "definition": "(my) daughter, girl",
@@ -2731,7 +2731,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "投げる",
       "pronounciation": "nageru",
       "definition": "to throw, to cast away",
@@ -2741,7 +2741,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "中々",
       "pronounciation": "nakanaka",
       "definition": "very, considerably",
@@ -2751,7 +2751,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "泣く",
       "pronounciation": "naku",
       "definition": "to cry, to weep",
@@ -2761,7 +2761,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "無くなる",
       "pronounciation": "nakunaru",
       "definition": "to be lost, to be missing",
@@ -2771,7 +2771,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "亡くなる",
       "pronounciation": "nakunaru",
       "definition": "to die",
@@ -2781,7 +2781,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "治る",
       "pronounciation": "naoru",
       "definition": "to be cured",
@@ -2791,7 +2791,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "直る",
       "pronounciation": "naoru",
       "definition": "to get mended",
@@ -2801,7 +2801,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "直す",
       "pronounciation": "naosu",
       "definition": "to fix, to repair",
@@ -2811,7 +2811,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "慣れる",
       "pronounciation": "nareru",
       "definition": "to get used to",
@@ -2821,7 +2821,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "鳴る",
       "pronounciation": "naru",
       "definition": "to sound, to ring",
@@ -2831,7 +2831,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "なるほど",
       "pronounciation": "naru hodo",
       "definition": "I see!, That’s right!",
@@ -2841,7 +2841,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "寝坊",
       "pronounciation": "nebou",
       "definition": "sleeping in late",
@@ -2851,7 +2851,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "値段",
       "pronounciation": "nedan",
       "definition": "price, cost",
@@ -2861,7 +2861,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "眠い",
       "pronounciation": "nemui",
       "definition": "sleepy, drowsy",
@@ -2871,7 +2871,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "眠る",
       "pronounciation": "nemuru",
       "definition": "to sleep",
@@ -2881,7 +2881,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "熱心",
       "pronounciation": "nesshin",
       "definition": "zeal, enthusiasm",
@@ -2891,7 +2891,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "熱",
       "pronounciation": "netsu",
       "definition": "heat",
@@ -2901,7 +2901,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "苦い",
       "pronounciation": "nigai",
       "definition": "bitter",
@@ -2911,7 +2911,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "逃げる",
       "pronounciation": "nigeru",
       "definition": "to escape, to run away",
@@ -2921,7 +2921,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "二階建て",
       "pronounciation": "nikaidate",
       "definition": "two-storied building​",
@@ -2931,7 +2931,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "日記",
       "pronounciation": "nikki",
       "definition": "diary, journal",
@@ -2941,7 +2941,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "人形",
       "pronounciation": "ningyou",
       "definition": "doll",
@@ -2951,7 +2951,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "匂い",
       "pronounciation": "nioi",
       "definition": "scent, smell",
@@ -2961,7 +2961,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "似る",
       "pronounciation": "niru",
       "definition": "to resemble, to look like",
@@ -2971,7 +2971,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "喉",
       "pronounciation": "nodo",
       "definition": "throat",
@@ -2981,7 +2981,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "残る",
       "pronounciation": "nokoru",
       "definition": "to remain, to be left",
@@ -2991,7 +2991,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "乗り換える",
       "pronounciation": "norikaeru",
       "definition": "to transfer (trains), to change (bus, train)​",
@@ -3001,7 +3001,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "乗り物",
       "pronounciation": "norimono",
       "definition": "vehicle, conveyance",
@@ -3011,7 +3011,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "濡れる",
       "pronounciation": "nureru",
       "definition": "to get wet",
@@ -3021,7 +3021,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "塗る",
       "pronounciation": "nuru",
       "definition": "to paint, to plaster",
@@ -3031,7 +3031,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "盗む",
       "pronounciation": "nusumu",
       "definition": "to steal​",
@@ -3041,7 +3041,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "入学",
       "pronounciation": "nyuugaku",
       "definition": "entry to school or university",
@@ -3051,7 +3051,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "入院",
       "pronounciation": "nyuuin",
       "definition": "hospitalization",
@@ -3061,7 +3061,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "落ちる",
       "pronounciation": "ochiru",
       "definition": "to fall down, to drop",
@@ -3071,7 +3071,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "踊り",
       "pronounciation": "odori",
       "definition": "dance",
@@ -3081,7 +3081,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "驚く",
       "pronounciation": "odoroku",
       "definition": "to be surprised, to be astonished​",
@@ -3091,7 +3091,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "踊る",
       "pronounciation": "odoru",
       "definition": "to dance",
@@ -3101,7 +3101,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お祝い",
       "pronounciation": "oiwai",
       "definition": "congratulations, celebration",
@@ -3111,7 +3111,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お嬢さん",
       "pronounciation": "ojousan",
       "definition": "(your) daughter, young lady",
@@ -3121,7 +3121,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "可笑しい",
       "pronounciation": "okashii",
       "definition": "funny, strange, odd",
@@ -3131,7 +3131,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "行う",
       "pronounciation": "okonau",
       "definition": "to perform, to do",
@@ -3141,7 +3141,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "怒る",
       "pronounciation": "okoru",
       "definition": "to get angry, to get mad​",
@@ -3151,7 +3151,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "起こす",
       "pronounciation": "okosu",
       "definition": "to raise, to wake, to cause",
@@ -3161,7 +3161,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "億",
       "pronounciation": "oku",
       "definition": "hundred million",
@@ -3171,7 +3171,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "屋上",
       "pronounciation": "okujou",
       "definition": "rooftop",
@@ -3181,7 +3181,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "贈り物",
       "pronounciation": "okurimono",
       "definition": "present, gift",
@@ -3191,7 +3191,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "遅れる",
       "pronounciation": "okureru",
       "definition": "to be late, to be delayed",
@@ -3201,7 +3201,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "送る",
       "pronounciation": "okuru",
       "definition": "to send, to dispatch",
@@ -3211,7 +3211,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お祭り",
       "pronounciation": "omatsuri",
       "definition": "festival, feast, carnival​",
@@ -3221,7 +3221,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お見舞い",
       "pronounciation": "omimai",
       "definition": "calling on someone who is ill",
@@ -3231,7 +3231,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お土産",
       "pronounciation": "omiyage",
       "definition": "present, souvenir​",
@@ -3241,7 +3241,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "玩具",
       "pronounciation": "omocha",
       "definition": "toy, plaything",
@@ -3251,7 +3251,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "思い出す",
       "pronounciation": "omoidasu",
       "definition": "to recall, to remember",
@@ -3261,7 +3261,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "表",
       "pronounciation": "omote",
       "definition": "surface, face, front, outside",
@@ -3271,7 +3271,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "思う",
       "pronounciation": "omou",
       "definition": "to think, to consider",
@@ -3281,7 +3281,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お礼",
       "pronounciation": "orei",
       "definition": "thanks, gratitude",
@@ -3291,7 +3291,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "折れる",
       "pronounciation": "oreru",
       "definition": "to break, to be broken",
@@ -3301,7 +3301,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "折る",
       "pronounciation": "oru",
       "definition": "to break, to fracture",
@@ -3311,7 +3311,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "押し入れ",
       "pronounciation": "oshiire",
       "definition": "closet",
@@ -3321,7 +3321,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "仰る",
       "pronounciation": "ossharu",
       "definition": "to say, to speak",
@@ -3331,7 +3331,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お宅",
       "pronounciation": "otaku",
       "definition": "your house, your home, your family",
@@ -3341,7 +3341,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "音",
       "pronounciation": "oto",
       "definition": "sound, noise",
@@ -3351,7 +3351,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "落とす",
       "pronounciation": "otosu",
       "definition": "to drop, to let fall",
@@ -3361,7 +3361,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "夫",
       "pronounciation": "otto",
       "definition": "husband",
@@ -3371,7 +3371,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "お釣り",
       "pronounciation": "otsuri",
       "definition": "change (for a purchase)",
@@ -3381,7 +3381,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "終わり",
       "pronounciation": "owari",
       "definition": "the end",
@@ -3391,7 +3391,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "親",
       "pronounciation": "oya",
       "definition": "parent, parents",
@@ -3401,7 +3401,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "歴史",
       "pronounciation": "rekishi",
       "definition": "history",
@@ -3411,7 +3411,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "連絡",
       "pronounciation": "renraku",
       "definition": "to contact, to get in touch​",
@@ -3421,7 +3421,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "利用",
       "pronounciation": "riyou",
       "definition": "use, utilization",
@@ -3431,7 +3431,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "理由",
       "pronounciation": "riyuu",
       "definition": "reason, motive",
@@ -3441,7 +3441,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "留守",
       "pronounciation": "rusu",
       "definition": "absence, being away from home​",
@@ -3451,7 +3451,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "旅館",
       "pronounciation": "ryokan",
       "definition": "Japanese-style lodging",
@@ -3461,7 +3461,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "両方",
       "pronounciation": "ryouhou",
       "definition": "both, both sides",
@@ -3471,7 +3471,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "寂しい",
       "pronounciation": "sabishii",
       "definition": "lonely, lonesome, solitary",
@@ -3481,7 +3481,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "下がる",
       "pronounciation": "sagaru",
       "definition": "to come down, to get lower",
@@ -3491,7 +3491,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "探す",
       "pronounciation": "sagasu",
       "definition": "to search, to look for",
@@ -3501,7 +3501,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "下げる",
       "pronounciation": "sageru",
       "definition": "to hang, to lower",
@@ -3511,7 +3511,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "最後",
       "pronounciation": "saigo",
       "definition": "last, final, latest",
@@ -3521,7 +3521,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "最近",
       "pronounciation": "saikin",
       "definition": "most recent, these days",
@@ -3531,7 +3531,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "最初",
       "pronounciation": "saisho",
       "definition": "beginning, first",
@@ -3541,7 +3541,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "坂",
       "pronounciation": "saka",
       "definition": "slope, hill",
@@ -3551,7 +3551,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "盛ん",
       "pronounciation": "sakan",
       "definition": "popular, prosperous",
@@ -3561,7 +3561,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "さっき",
       "pronounciation": "sakki",
       "definition": "some time ago, just now",
@@ -3571,7 +3571,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "昨夜",
       "pronounciation": "sakuya",
       "definition": "last night",
@@ -3581,7 +3581,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "産業",
       "pronounciation": "sangyou",
       "definition": "industry",
@@ -3591,7 +3591,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "さ来月",
       "pronounciation": "saraigetsu",
       "definition": "month after next​",
@@ -3601,7 +3601,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "さ来週",
       "pronounciation": "saraishuu",
       "definition": "week after next​",
@@ -3611,7 +3611,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "差し上げる",
       "pronounciation": "sashiageru",
       "definition": "to give, to offer",
@@ -3621,7 +3621,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "騒ぐ",
       "pronounciation": "sawagu",
       "definition": "to make noise, to rustle",
@@ -3631,7 +3631,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "触る",
       "pronounciation": "sawaru",
       "definition": "to touch, to feel​",
@@ -3641,7 +3641,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "政治",
       "pronounciation": "seiji",
       "definition": "politics, government​",
@@ -3651,7 +3651,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "生活",
       "pronounciation": "seikatsu",
       "definition": "living, life",
@@ -3661,7 +3661,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "生産",
       "pronounciation": "seisan",
       "definition": "production, manufacture",
@@ -3671,7 +3671,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "西洋",
       "pronounciation": "seiyou",
       "definition": "the west, Western countries​",
@@ -3681,7 +3681,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "世界",
       "pronounciation": "sekai",
       "definition": "the world, society",
@@ -3691,7 +3691,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "席",
       "pronounciation": "seki",
       "definition": "seat",
@@ -3701,7 +3701,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "線",
       "pronounciation": "sen",
       "definition": "line, stripe, stria​",
@@ -3711,7 +3711,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "背中",
       "pronounciation": "senaka",
       "definition": "back (of body)​",
@@ -3721,7 +3721,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "先輩",
       "pronounciation": "senpai",
       "definition": "senior (at work or school)",
@@ -3731,7 +3731,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "戦争",
       "pronounciation": "sensou",
       "definition": "war",
@@ -3741,7 +3741,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "説明",
       "pronounciation": "setsumei",
       "definition": "explanation, exposition​",
@@ -3751,7 +3751,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "世話",
       "pronounciation": "sewa",
       "definition": "looking after, help",
@@ -3761,7 +3761,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "社長",
       "pronounciation": "shachou",
       "definition": "company president",
@@ -3771,7 +3771,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "社会",
       "pronounciation": "shakai",
       "definition": "society, public, community",
@@ -3781,7 +3781,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "市",
       "pronounciation": "shi",
       "definition": "city",
@@ -3791,7 +3791,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "試合",
       "pronounciation": "shiai",
       "definition": "match, game",
@@ -3801,7 +3801,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "叱る",
       "pronounciation": "shikaru",
       "definition": "to scold",
@@ -3811,7 +3811,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "仕方",
       "pronounciation": "shikata",
       "definition": "way, method, means",
@@ -3821,7 +3821,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "試験",
       "pronounciation": "shiken",
       "definition": "examination, exam, test​",
@@ -3831,7 +3831,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "島",
       "pronounciation": "shima",
       "definition": "island",
@@ -3841,7 +3841,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "市民",
       "pronounciation": "shimin",
       "definition": "citizen, citizenry, public​",
@@ -3851,7 +3851,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "品物",
       "pronounciation": "shinamono",
       "definition": "goods, article, thing​",
@@ -3861,7 +3861,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "新聞社",
       "pronounciation": "shinbunsha",
       "definition": "newspaper company",
@@ -3871,7 +3871,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "心配",
       "pronounciation": "shinpai",
       "definition": "worry, concern, anxiety",
@@ -3881,7 +3881,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "親切",
       "pronounciation": "shinsetsu",
       "definition": "kindness, gentleness​",
@@ -3891,7 +3891,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "調べる",
       "pronounciation": "shiraberu",
       "definition": "to examine, to investigate",
@@ -3901,7 +3901,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "知らせる",
       "pronounciation": "shiraseru",
       "definition": "to notify, to advise, to inform​",
@@ -3911,7 +3911,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "下着",
       "pronounciation": "shitagi",
       "definition": "underwear",
@@ -3921,7 +3921,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "支度",
       "pronounciation": "shitaku",
       "definition": "preparation, arrangements​",
@@ -3931,7 +3931,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "失礼",
       "pronounciation": "shitsurei",
       "definition": "discourtesy, impoliteness​",
@@ -3941,7 +3941,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "失敗",
       "pronounciation": "shippai",
       "definition": "failure, mistake, blunder​",
@@ -3951,7 +3951,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "食事",
       "pronounciation": "shokuji",
       "definition": "meal",
@@ -3961,7 +3961,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "食料品",
       "pronounciation": "shokuryouhin",
       "definition": "foodstuff, groceries​",
@@ -3971,7 +3971,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "小学校",
       "pronounciation": "shougakkou",
       "definition": "primary school",
@@ -3981,7 +3981,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "紹介",
       "pronounciation": "shoukai",
       "definition": "introduction, presentation",
@@ -3991,7 +3991,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "小説",
       "pronounciation": "shousetsu",
       "definition": "novel, (short) story​",
@@ -4001,7 +4001,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "将来",
       "pronounciation": "shourai",
       "definition": "future, prospects",
@@ -4011,7 +4011,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "招待",
       "pronounciation": "shoutai",
       "definition": "invitation",
@@ -4021,7 +4021,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "趣味",
       "pronounciation": "shumi",
       "definition": "hobby, pastime",
@@ -4031,7 +4031,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "出発",
       "pronounciation": "shuppatsu",
       "definition": "departure",
@@ -4041,7 +4041,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "出席",
       "pronounciation": "shusseki",
       "definition": "attendance, presence",
@@ -4051,7 +4051,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "習慣",
       "pronounciation": "shuukan",
       "definition": "habit, custom",
@@ -4061,7 +4061,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "祖母",
       "pronounciation": "sobo",
       "definition": "grandmother",
@@ -4071,7 +4071,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "育てる",
       "pronounciation": "sodateru",
       "definition": "to raise, to rear, to bring up",
@@ -4081,7 +4081,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "祖父",
       "pronounciation": "sofu",
       "definition": "grandfather",
@@ -4091,7 +4091,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "そんな",
       "pronounciation": "sonna",
       "definition": "such",
@@ -4101,7 +4101,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "それで",
       "pronounciation": "sore de",
       "definition": "and, thereupon",
@@ -4111,7 +4111,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "それほど",
       "pronounciation": "sore hodo",
       "definition": "to that degree",
@@ -4121,7 +4121,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "それに",
       "pronounciation": "sore ni",
       "definition": "besides, in addition",
@@ -4131,7 +4131,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "そろそろ",
       "pronounciation": "sorosoro",
       "definition": "soon, momentarily",
@@ -4141,7 +4141,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "卒業",
       "pronounciation": "sotsugyou",
       "definition": "graduation",
@@ -4151,7 +4151,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "相談",
       "pronounciation": "soudan",
       "definition": "consultation, discussion",
@@ -4161,7 +4161,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "素晴らしい",
       "pronounciation": "subarashii",
       "definition": "wonderful, splendid",
@@ -4171,7 +4171,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "滑る",
       "pronounciation": "suberu",
       "definition": "to glide, to slide",
@@ -4181,7 +4181,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "水道",
       "pronounciation": "suidou",
       "definition": "water supply, water service",
@@ -4191,7 +4191,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "過ぎる",
       "pronounciation": "sugiru",
       "definition": "to pass through, to pass by",
@@ -4201,7 +4201,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "凄い",
       "pronounciation": "sugoi",
       "definition": "terrible, dreadful​, amazing",
@@ -4211,7 +4211,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "水泳",
       "pronounciation": "suiei",
       "definition": "swimming",
@@ -4221,7 +4221,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "すっかり",
       "pronounciation": "sukkari",
       "definition": "all, completely, totally",
@@ -4231,7 +4231,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "空く",
       "pronounciation": "suku",
       "definition": "to become empty",
@@ -4241,7 +4241,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "隅",
       "pronounciation": "sumi",
       "definition": "corner, nook, recess​",
@@ -4251,7 +4251,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "済む",
       "pronounciation": "sumu",
       "definition": "to finish, to end",
@@ -4261,7 +4261,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "砂",
       "pronounciation": "suna",
       "definition": "sand, grit​",
@@ -4271,7 +4271,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "進む",
       "pronounciation": "susumu",
       "definition": "to advance, to go forward​",
@@ -4281,7 +4281,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "捨てる",
       "pronounciation": "suteru",
       "definition": "to throw away, to cast away",
@@ -4291,7 +4291,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "数学",
       "pronounciation": "suugaku",
       "definition": "mathematics",
@@ -4301,7 +4301,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "正しい",
       "pronounciation": "tadashii",
       "definition": "right, correct",
@@ -4311,7 +4311,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "退院",
       "pronounciation": "taiin",
       "definition": "discharge from hospital​",
@@ -4321,7 +4321,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "大抵",
       "pronounciation": "taitei",
       "definition": "mostly, ordinarily",
@@ -4331,7 +4331,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "たまに",
       "pronounciation": "tama ni",
       "definition": "occasionally, once in a while​",
@@ -4341,7 +4341,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "棚",
       "pronounciation": "tana",
       "definition": "shelf, shelves",
@@ -4351,7 +4351,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "楽しみ",
       "pronounciation": "tanoshimi",
       "definition": "enjoyment, pleasure",
@@ -4361,7 +4361,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "楽む",
       "pronounciation": "tanoshimu",
       "definition": "to enjoy (oneself)​",
@@ -4371,7 +4371,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "倒れる",
       "pronounciation": "taoreru",
       "definition": "to fall, to collapse",
@@ -4381,7 +4381,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "足りる",
       "pronounciation": "tariru",
       "definition": "to be sufficient, to be enough​",
@@ -4391,7 +4391,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "確か",
       "pronounciation": "tashika",
       "definition": "sure, certain, positive",
@@ -4401,7 +4401,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "足す",
       "pronounciation": "tasu",
       "definition": "to add, to top up",
@@ -4411,7 +4411,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "多数",
       "pronounciation": "tasuu",
       "definition": "large number, many​",
@@ -4421,7 +4421,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "畳",
       "pronounciation": "tatami",
       "definition": "tatami mat",
@@ -4431,7 +4431,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "立てる",
       "pronounciation": "tateru",
       "definition": "to stand up",
@@ -4441,7 +4441,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "建てる",
       "pronounciation": "tateru",
       "definition": "to build, to construct​",
@@ -4451,7 +4451,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "訪ねる",
       "pronounciation": "tazuneru",
       "definition": "to visit, to call on",
@@ -4461,7 +4461,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "尋ねる",
       "pronounciation": "tazuneru",
       "definition": "to ask, to enquire",
@@ -4471,7 +4471,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "手袋",
       "pronounciation": "tebukuro",
       "definition": "glove, mitten, mitt​",
@@ -4481,7 +4481,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "丁寧",
       "pronounciation": "teinei",
       "definition": "polite, courteous, careful​",
@@ -4491,7 +4491,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "適当",
       "pronounciation": "tekitou",
       "definition": "suitable, proper, fit",
@@ -4501,7 +4501,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "点",
       "pronounciation": "ten",
       "definition": "point, dot, spot",
@@ -4511,7 +4511,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "天",
       "pronounciation": "ten",
       "definition": "sky",
@@ -4521,7 +4521,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "店員",
       "pronounciation": "ten’in",
       "definition": "shop assistant, clerk",
@@ -4531,7 +4531,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "天気予報",
       "pronounciation": "tenkiyohou",
       "definition": "weather forecast",
@@ -4541,7 +4541,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "展覧会",
       "pronounciation": "tenrankai",
       "definition": "exhibition",
@@ -4551,7 +4551,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "寺",
       "pronounciation": "tera",
       "definition": "temple (Buddhist)​",
@@ -4561,7 +4561,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "手伝う",
       "pronounciation": "tetsudau",
       "definition": "to help, to assist, to aid​",
@@ -4571,7 +4571,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "届ける",
       "pronounciation": "todokeru",
       "definition": "to deliver, to send",
@@ -4581,7 +4581,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "床屋",
       "pronounciation": "tokoya",
       "definition": "barbershop, barber​",
@@ -4591,7 +4591,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "特別",
       "pronounciation": "tokubetsu",
       "definition": "special",
@@ -4601,7 +4601,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "特に",
       "pronounciation": "toku ni",
       "definition": "particularly, especially​",
@@ -4611,7 +4611,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "特急",
       "pronounciation": "tokkyuu",
       "definition": "limited express",
@@ -4621,7 +4621,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "泊まる",
       "pronounciation": "tomaru",
       "definition": "to stay at (e.g. hotel)​",
@@ -4631,7 +4631,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "遠く",
       "pronounciation": "tooku",
       "definition": "far away, distant",
@@ -4641,7 +4641,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "通る",
       "pronounciation": "tooru",
       "definition": "to go by, to go past",
@@ -4651,7 +4651,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "取り替える",
       "pronounciation": "torikaeru",
       "definition": "to exchange, to replace​",
@@ -4661,7 +4661,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "とうとう",
       "pronounciation": "toutou",
       "definition": "finally, at",
@@ -4671,7 +4671,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "都合",
       "pronounciation": "tsugou",
       "definition": "circumstances, convenience​",
@@ -4681,7 +4681,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "捕まえる",
       "pronounciation": "tsukamaeru",
       "definition": "to catch, to arrest",
@@ -4691,7 +4691,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "月",
       "pronounciation": "tsuki",
       "definition": "moon",
@@ -4701,7 +4701,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "付く",
       "pronounciation": "tsuku",
       "definition": "to be attached, to adhere",
@@ -4711,7 +4711,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "妻",
       "pronounciation": "tsuma",
       "definition": "wife",
@@ -4721,7 +4721,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "連れる",
       "pronounciation": "tsureru",
       "definition": "to lead, to take (a person)​",
@@ -4731,7 +4731,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "釣る",
       "pronounciation": "tsuru",
       "definition": "to fish, to lure in",
@@ -4741,7 +4741,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "伝える",
       "pronounciation": "tsutaeru",
       "definition": "to convey, to report",
@@ -4751,7 +4751,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "包む",
       "pronounciation": "tsutsumu",
       "definition": "to wrap up, to tuck in",
@@ -4761,7 +4761,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "続ける",
       "pronounciation": "tsuzukeru",
       "definition": "to continue, to keep up",
@@ -4771,7 +4771,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "続く",
       "pronounciation": "tsuzuku",
       "definition": "to continue, to last, to go on​",
@@ -4781,7 +4781,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "腕",
       "pronounciation": "ude",
       "definition": "arm",
@@ -4791,7 +4791,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "植える",
       "pronounciation": "ueru",
       "definition": "to plant, to grow, to raise​​",
@@ -4801,7 +4801,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "動く",
       "pronounciation": "ugoku",
       "definition": "to move, to stir, to shift",
@@ -4811,7 +4811,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "受ける",
       "pronounciation": "ukeru",
       "definition": "to receive, to get​",
@@ -4821,7 +4821,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "受付",
       "pronounciation": "uketsuke",
       "definition": "reception (desk), information desk​",
@@ -4831,7 +4831,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "旨い",
       "pronounciation": "umai",
       "definition": "delicious, appetizing",
@@ -4841,7 +4841,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "運動",
       "pronounciation": "undou",
       "definition": "exercise, motion",
@@ -4851,7 +4851,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "運転",
       "pronounciation": "unten",
       "definition": "operation, operating",
@@ -4861,7 +4861,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "運転手",
       "pronounciation": "untenshu",
       "definition": "driver, chauffeur​",
@@ -4871,7 +4871,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "裏",
       "pronounciation": "ura",
       "definition": "reverse side, rear, back",
@@ -4881,7 +4881,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "嬉しい",
       "pronounciation": "ureshii",
       "definition": "happy, glad",
@@ -4891,7 +4891,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "売り場",
       "pronounciation": "uriba",
       "definition": "sales floor, counter (in shop)​",
@@ -4901,7 +4901,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "嘘",
       "pronounciation": "uso",
       "definition": "lie, falsehood",
@@ -4911,7 +4911,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "打つ",
       "pronounciation": "utsu",
       "definition": "to hit, to strike, to knock",
@@ -4921,7 +4921,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "美しい",
       "pronounciation": "utsukushii",
       "definition": "beautiful, lovely​",
@@ -4931,7 +4931,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "移る",
       "pronounciation": "utsuru",
       "definition": "to move (house), to transfer (department)​",
@@ -4941,7 +4941,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "写す",
       "pronounciation": "utsusu",
       "definition": "to transcribe, to duplicate",
@@ -4951,7 +4951,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "別れる",
       "pronounciation": "wakareru",
       "definition": "to part, to separate",
@@ -4961,7 +4961,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "沸かす",
       "pronounciation": "wakasu",
       "definition": "to boil, to heat​",
@@ -4971,7 +4971,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "訳",
       "pronounciation": "wake",
       "definition": "reason, cause",
@@ -4981,7 +4981,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "沸く",
       "pronounciation": "waku",
       "definition": "to grow hot, to boil",
@@ -4991,7 +4991,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "笑う",
       "pronounciation": "warau",
       "definition": "to laugh",
@@ -5001,7 +5001,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "割れる",
       "pronounciation": "wareru",
       "definition": "to break, to be smashed",
@@ -5011,7 +5011,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "割合",
       "pronounciation": "wariai",
       "definition": "rate, ratio",
@@ -5021,7 +5021,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "忘れ物",
       "pronounciation": "wasuremono",
       "definition": "something forgotten",
@@ -5031,7 +5031,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "やはり",
       "pronounciation": "yahari",
       "definition": "as expected",
@@ -5041,7 +5041,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "焼ける",
       "pronounciation": "yakeru",
       "definition": "to be roasted",
@@ -5051,7 +5051,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "焼く",
       "pronounciation": "yaku",
       "definition": "to burn, to roast, to bake",
@@ -5061,7 +5061,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "役に立つ",
       "pronounciation": "yaku ni tatsu",
       "definition": "to be helpful, to be useful​",
@@ -5071,7 +5071,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "約束",
       "pronounciation": "yakusoku",
       "definition": "promise, agreement",
@@ -5081,7 +5081,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "止める",
       "pronounciation": "yameru",
       "definition": "to stop",
@@ -5091,7 +5091,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "止む",
       "pronounciation": "yamu",
       "definition": "to cease, to stop",
@@ -5101,7 +5101,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "優しい",
       "pronounciation": "yasashii",
       "definition": "tender, kind, gentle",
@@ -5111,7 +5111,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "痩せる",
       "pronounciation": "yaseru",
       "definition": "to become thin, to slim",
@@ -5121,7 +5121,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "やっと",
       "pronounciation": "yatto",
       "definition": "at last",
@@ -5131,7 +5131,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "柔らかい",
       "pronounciation": "yawarakai",
       "definition": "soft, tender",
@@ -5141,7 +5141,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "用",
       "pronounciation": "you",
       "definition": "business, task, errand",
@@ -5151,7 +5151,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "汚れる",
       "pronounciation": "yogoreru",
       "definition": "to get dirty",
@@ -5161,7 +5161,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "喜ぶ",
       "pronounciation": "yorokobu",
       "definition": "to be delighted",
@@ -5171,7 +5171,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "寄る",
       "pronounciation": "yoru",
       "definition": "to approach, to drop by",
@@ -5181,7 +5181,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "予習",
       "pronounciation": "yoshuu",
       "definition": "preparation for a lesson​",
@@ -5191,7 +5191,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "予定",
       "pronounciation": "yotei",
       "definition": "plans, arrangement",
@@ -5201,7 +5201,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "用意",
       "pronounciation": "youi",
       "definition": "preparation, arrangements",
@@ -5211,7 +5211,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "用事",
       "pronounciation": "youji",
       "definition": "tasks, things to do",
@@ -5221,7 +5221,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "予約",
       "pronounciation": "yoyaku",
       "definition": "reservation, appointment",
@@ -5231,7 +5231,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "湯",
       "pronounciation": "yu",
       "definition": "hot water",
@@ -5241,7 +5241,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "指",
       "pronounciation": "yubi",
       "definition": "finger, toe",
@@ -5251,7 +5251,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "指輪",
       "pronounciation": "yubiwa",
       "definition": "(finger) ring",
@@ -5261,7 +5261,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "夢",
       "pronounciation": "yume",
       "definition": "dream",
@@ -5271,7 +5271,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "輸入",
       "pronounciation": "yunyuu",
       "definition": "import, importation",
@@ -5281,7 +5281,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "揺れる",
       "pronounciation": "yureru",
       "definition": "to shake, to sway",
@@ -5291,7 +5291,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "輸出",
       "pronounciation": "yushutsu",
       "definition": "export",
@@ -5301,7 +5301,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "夕食",
       "pronounciation": "yuushoku",
       "definition": "evening meal, dinner​",
@@ -5311,7 +5311,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "残念",
       "pronounciation": "zannen",
       "definition": "deplorable, regret, bad luck",
@@ -5321,7 +5321,7 @@
       "snoozed": false
     },
     {
-      "book": "Japanese",
+      "book": "Japanese","language":"ja",
       "word": "随分",
       "pronounciation": "zuibun",
       "definition": "very, extremely, surprisingly",
