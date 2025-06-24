@@ -15,13 +15,15 @@
       padding-top: 70px; /* Adjust this value to match your nav height */
     }
     main {
-      max-width: 700px;
-      margin: 2rem auto;
-      padding: 1rem;
+      padding: 0.5rem;
+      max-width: 70vw;
     }
     sl-card {
       margin-bottom: 2rem;
       display: block;
+    }
+    #container{
+      margin-left: 10vw;
     }
     .branding {
       position: sticky;
@@ -56,9 +58,66 @@
       vertical-align: middle;
       margin-right: 0.3em;
     }
+      .sl-sidebar {
+      position: fixed;
+      top: 70px; /* matches your nav height */
+      left: 0;
+      width: 20vw;
+      height: calc(100% - 70px);
+      background: var(--sl-color-primary-50, #f8f9fa);
+      border-right: 1px solid #eee;
+      padding: 1.5rem 0.5rem 1.5rem 1rem;
+      z-index: 900;
+      box-sizing: border-box;
+    }
+    main {
+      margin-left: 200px;
+    }
+    @media (max-width: 800px) {
+      .sl-sidebar {
+        display: none;
+      }
+    }
+    html {
+      scroll-padding-top: 90px; /* Adjust to your navbar height (70px + some gap) */
+    }
   </style>
 </head>
 <body>
+    <!-- Shoelace Sidebar Navigation -->
+  <aside class="sl-sidebar">
+    <nav>
+      <sl-menu>
+        <sl-menu-item>
+          <a href="#importPremade" style="text-decoration:none; color:inherit;">Import Decks (in 3 steps)</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#lookUp" style="text-decoration:none; color:inherit;">Look up words</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#import" style="text-decoration:none; color:inherit;"> Make a deck and share to others</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#test" style="text-decoration:none; color:inherit;">Test your vocab</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#listening" style="text-decoration:none; color:inherit;">Test your listening</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#weak" style="text-decoration:none; color:inherit;">Test your weak vocabs</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#editWord" style="text-decoration:none; color:inherit;">Edit words</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#addCollection" style="text-decoration:none; color:inherit;">Edit collections</a>
+        </sl-menu-item>
+        <sl-menu-item>
+          <a href="#inflection" style="text-decoration:none; color:inherit;">Practice latin & french inflections</a>
+        </sl-menu-item>
+      </sl-menu>
+    </nav>
+  </aside>
   <header>
     <nav style="background: var(--sl-color-primary-100); padding: 1rem 0; position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       <div style="max-width: 700px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
@@ -74,55 +133,121 @@
     </nav>
   </header>
   <main>
+    <div id = "container">
      <sl-card id="how-to-use-this">
       <h2 slot="header">How do I use this extension?</h2>
       <ul>
-        <h2 slot="header">How to Import the Decks (in 4 steps)</h2>
+        <h2 slot="header" id = "importPremade">How to Import the Decks (in 3 steps)</h2>
           <ol>
             <li>
                Click the <strong>extensions</strong> icon, pin this extension.
-               <img src="src/1.png" width="80%"/>
+               <br><img src="src/1.png" width="60%"/>
             </li>
             <li>
-               <a href="#download" class="nav-link" style="color: #0074d9; text-decoration: underline;">
-                  Click here and download your desired decks.
-                </a>
-            </li>
-            <li>
-               Click the icon of this extension, press <strong>'Manage Vocabulary List'</strong>.
-               <img src="src/2.png" width="50%"/>
-
-            </li>
-            <li>
-               Click <strong>'Import vocabs from Json files'</strong>. Upload the file you just downloaded.And then refresh the page.
-                <img src="src/3.png" width="100%"/>
-                <img src="src/4.png" width="100%"/>
-
+              Click the extension icon. Choose the decks you want to add, the vocabs will sync quickly to your vocab lists              
+              <br> <img src="src/12.png" width="40%"/>
+              <br>You can click here to add decks
+              <br>  <img src="src/11.png" width="40%"/>
               </li>
             <li>
-             Open a new tab, click the cog button to set the time you want to autoplay the flashcards. click the pay button to auto play flashcard. Enjoy learning! If you don't want to see a particular word anymore you can press snooze. You can also set the color pallete at the bottom of the page. Be careful sometimes quizzes will be auto generated for you to enhance your learning!
-               <img src="src/5.png" width="100%"/>
+             Open a new tab, click the cog button to set the time you want to autoplay the flashcards. 
+              <br>- Click the pay button to auto play flashcard.
+              <br>- Click Snooze to snooze this vocab (it will not show up in flashcards)
+              <br>- Click star to focus this vocab (it will show up more frequently in flashcards)
+              <br>- Click the buttons to change pallete
+              <br>- Click the speaker icon to listen to the sound of the vocab. It might needs to be pressed twice when you just open up a new tab.
+              <br>- If you have a line telling you there are words that could be lacking etymology, you can press that line to start fetching those in the background. If you import a premade deck it is likely that they do not have etymology.
+              <br>Sometimes quizzes will be auto generated for you to enhance your learning!
+              <img src="src/5.png" width="80%"/>
 
             </li>
           </ol>
-        <h2> How to use the dictionary feature</h2>
-        <ol>
-           <li>
-               Click the icon of this extension whenever you see a new word.
-          </li>
-          <li>
-            Enter the word you want to query, select the language and the collection you want to add it into (you can leave everything else blank) and press <strong>Add</strong>. And then press <strong>'Add to Database'</strong>.
-            <br><img src="src/6.png" width="50%"/>
+        <h2 id = "lookUp"> How to look up words</h2>
+          <ol>
+            <li>
+                Click the icon of this extension whenever you see a new word.
+            </li>
+            <li>
+              Enter the word you want to query, select the language and the collection you want to add it into (you can leave everything else blank) and press <strong>Add</strong>.The extension will look up everything you need for you. And then press <strong>'Add to Database'</strong>.
+              <br><img src="src/7.png" width="40%"/>
+              <br><em>Or,</em><br>
+                Enter the word/phrase, definition and optional gender and pronunciation. Select the collection, press <strong>Add</strong>.
+                <br><img src="src/6.png" width="40%"/>
+              <br>*You dont have to choose collection and language everytime, it will remember your last choice.
 
-            <br><em>Or,</em><br>
-            Enter the word/phrase, definition and optional gender and pronunciation. Select the collection, press <strong>Add</strong>.
-            <br>*You dont have to choose collection and language everytime, it will remember your last choice.
-            <br><img src="src/7.png" width="50%"/>
-
-          </li>
+            </li>
+        </ul>
+          <h2 id = "import"> How to make a deck and share to others</h2>
+          <ol>
+            <li>First,Click the extension icon then press 'Manage Vocabulary List'.
+                <br><img src="src/8.png" width="40%"/>  
+            <li>Then, press 'Export vocabs as Json' then check your download folder.
+                <br><img src="src/9.png" width="70%"/>
+            <li>If you want to upload a deck your friend made, you can press 'Import vocabs from Json files'
+                <br><img src="src/3.png" width="70%"/>  
+            <li>Select the file you want to upload then refresh the page.
+                <br><img src="src/4.png" width="70%"/>    
+          </ol>
           
-      </ul>
-    </sl-card>
+          <h2 id = "test"> How to test your vocab</h2>
+           <ol>
+            <li>First, press 'Test your vocab' when you open up a new tab
+                <br><img src="src/10.png" width="80%"/>  
+            <li>Choose the collection you want to test and press start button. 
+                <br><img src="src/13.png" width="80%"/>
+            <li>You can do as many tests as you like. If you press 'End test', you will see your scores on each section compared to your past results on this collection and your scoring trend. Otherwise it will not be recorded. 
+                <br><img src="src/14.png" width="80%"/> 
+                <br><img src="src/15.png" width="80%"/>    
+          </ol>
+          <h2 id = "listening"> How to test your listening</h2>
+          <li>First, press 'Test your listening' when you open up a new tab
+                <br><img src="src/16.png" width="80%"/>  
+            <li>Choose the collection you want to test and make your selection here. 
+                <br><img src="src/17.png" width="80%"/>
+            <li> Press the speaker button to hear the words. And you can write it in the test area. Press 'Reveal Words' to reveal them. You can press next to go to the next set, and you can do as many sets as you want. 
+                <br><img src="src/18.png" width="80%"/> 
+          <h2 id = "weak"> How to test your weak vocabs</h2>
+          <ol>
+            <li>First,Click the extension icon then press 'Manage Vocabulary List'.
+                <br><img src="src/8.png" width="40%"/>  
+            <li>Then, press 'Test your weak Vocabs', you will be tested on all the vocabs that you have got wrong more than twice in the last 4 quiz results(from newtab, test your vocabulary page, and this page.)
+                <br><img src="src/19.png" width="70%"/>   
+          </ol>
+          <h2 id = "editWord"> How to edit words</h2>
+          <ol>
+            <li>First,Click the extension icon then press 'Manage Vocabulary List'.
+                <br><img src="src/8.png" width="40%"/>  
+            <li>You can focus, snooze or delete words here. 
+                <br><img src="src/20.png" width="70%"/>   
+                 <li>If you want to edit a word, Press 'search' 
+                <br><img src="src/21.png" width="70%"/>    
+                <li>You can edit its fields here, press 'Save' to save. 
+                <br><img src="src/22.png" width="70%"/> 
+          </ol>
+          <h2 id = "addCollection"> How to edit collections</h2>
+           <ol>
+            <li>First,Click the extension icon then press 'Manage Vocabulary List'.
+                <br><img src="src/8.png" width="40%"/>  
+            <li>Press 'Manage Collection' 
+                <br><img src="src/23.png" width="70%"/>   
+                 <li>You can add a new empty collection or delete collection here 
+                <br><img src="src/24.png" width="70%"/>    
+          </ol>
+          <h2 id = "inflection"> How to Practice latin & french inflections</h2>
+           <ol>
+            <li>First,Click the extension icon then press 'Manage Vocabulary List'.
+                <br><img src="src/8.png" width="40%"/>  
+            <li>Press this button. You should only choose collections that contains Latin and/or French words.
+                <br><img src="src/25.png" width="70%"/>
+          </ol>
+          <h2 id = "editDecks"> Easiest way of editing decks</h2>
+           <ol>
+            <li>If you want to edit the decks that you download from this website (not from the page when you click extension icon), and you want to change the collection name, the easier way is to open it in a text editor and replaceAll the "book" field name to the name you desire.
+                <br><img src="src/26.png" width="40%"/>  
+          </ol>
+        </sl-card>
+
+    
     <sl-card id="intro">
       <h2 slot="header">What does this extension do?</h2>
       <p>I made this extension initially to help memorizing latin words, then somehow I just kept on adding more features.</p>
@@ -257,8 +382,8 @@
         <dd><br>Q : How many vocabs can you store in this app?</dt>
         <dd>A : Technically around 15000 words with definition, gender, etymology, and inflections. That should be enough for a while</dd>
       </dl>
-    </sl-card>
-
+    
+</sl-card>
     <sl-card id="contacts">
       <h2 slot="header">Contacts</h2>
       <ul>
@@ -275,7 +400,8 @@
           Discord: <a href="https://discord.com/invite/yourdiscord" target="_blank">yourdiscord</a>
         </li>
       </ul>
-    </sl-card>
+    
+    </div>
   </main>
   <footer>
     <hr style="margin-bottom: 1rem;">
@@ -284,6 +410,8 @@
   <script type="module">
     import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/icon/icon.js';
     import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/card/card.js';
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/menu/menu.js';
+    import 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/components/menu-item/menu-item.js';
   </script>
 </body>
 </html>
