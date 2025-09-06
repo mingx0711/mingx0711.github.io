@@ -13,152 +13,158 @@
   <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace.js"></script>
   <style>
     body {
-      background: var(--sl-color-neutral-0);
+      background: #f4f8fb;
       margin: 0;
       font-family: var(--sl-font-sans);
       padding-top: 70px;
-      /* Adjust this value to match your nav height */
-      padding-top: 70px;
-      /* Adjust this value to match your nav height */
     }
 
+    .sl-sidebar {
+      position: fixed;
+      top: 70px;
+      left: 0;
+      width: 220px;
+      height: calc(100% - 70px);
+      background: #fff;
+      border-right: 1px solid #e3e7ea;
+      padding: 1.5rem 0.5rem 1.5rem 1rem;
+      z-index: 900;
+      box-sizing: border-box;
+      box-shadow: 2px 0 8px rgba(0, 0, 0, 0.04);
+      overflow-y: auto;
+    }
+
+    .sl-sidebar sl-menu-item a {
+      display: block;
+      padding: 0.5em 0.5em;
+      border-radius: 6px;
+      transition: background 0.2s, color 0.2s;
+      font-size: 1.07em;
+    }
+
+    .sl-sidebar sl-menu-item a:hover {
+      background: var(--sl-color-primary-100, #eaf6fb);
+      color: var(--sl-color-primary-700, #0074d9);
+      text-decoration: none;
+    }
 
     main {
-      padding: 0.5rem;
-      max-width: 70vw;
+      margin-left: 240px;
+      padding: 2rem 2vw 2rem 2vw;
+      max-width: 900px;
     }
-
 
     sl-card {
       margin-bottom: 2rem;
       display: block;
+      background: #fff;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+      border-radius: 12px;
+      padding: 1.5rem;
     }
 
-    #container {
+    sl-card h2[slot="header"] {
+      font-size: 1.5em;
+      font-weight: bold;
+      color: var(--sl-color-primary-700, #0074d9);
+      margin-bottom: 0.5em;
+    }
 
-      #container {
-        margin-left: 10vw;
-      }
+    h3 {
+      color: var(--sl-color-primary-600, #0090d9);
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
 
+    .icon {
+      vertical-align: middle;
+      margin-right: 0.3em;
+      color: var(--sl-color-primary-600, #0090d9);
+    }
 
-      .branding {
-        position: sticky;
-        top: 0;
-        z-index: 1001;
-        background: var(--sl-color-primary-100);
-        /* match nav background */
-        background: var(--sl-color-primary-100);
-        /* match nav background */
-        display: inline-block;
-        padding: 0.5rem 1rem;
-        font-size: 1.5rem;
-        font-weight: bold;
-        letter-spacing: 1px;
-        color: var(--sl-color-primary-600);
-        text-decoration: none;
-      }
+    .branding {
+      font-size: 2rem;
+      font-weight: bold;
+      letter-spacing: 1px;
+      color: var(--sl-color-primary-700, #0074d9);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5em;
+    }
 
+    .nav-link {
+      color: var(--sl-color-primary-700, #0074d9);
+      text-decoration: none;
+      font-weight: 500;
+      margin: 0 0.5rem;
+      font-size: 1.1em;
+      transition: color 0.2s;
+    }
 
-      .nav-link {
-        color: var(--sl-color-neutral-700);
-        text-decoration: none;
-        font-weight: 500;
-        margin: 0 0.5rem;
-      }
+    .nav-link:hover {
+      color: var(--sl-color-primary-900, #005fa3);
+      text-decoration: underline;
+    }
 
+    footer {
+      text-align: center;
+      color: var(--sl-color-neutral-500, #888);
+      margin: 2rem 0 1rem 0;
+      font-size: 0.95rem;
+      background: #f8f9fa;
+      padding: 1.5em 0 0.5em 0;
+      border-top: 1px solid #e3e7ea;
+    }
 
-      .nav-link:hover {
-        color: var(--sl-color-primary-600);
-        text-decoration: underline;
-      }
-
-
-      footer {
-        text-align: center;
-        color: var(--sl-color-neutral-500);
-        margin: 2rem 0 1rem 0;
-        font-size: 0.95rem;
-      }
-
-
-      .icon {
-        vertical-align: middle;
-        margin-right: 0.3em;
+    @media (max-width: 1000px) {
+      main {
+        margin-left: 0;
+        max-width: 98vw;
+        padding: 1rem 1vw;
       }
 
       .sl-sidebar {
+        display: none;
+      }
+    }
 
-        .sl-sidebar {
-          position: fixed;
-          top: 70px;
-          /* matches your nav height */
-          top: 70px;
-          /* matches your nav height */
-          left: 0;
-          width: 20vw;
-          height: calc(100% - 70px);
-          background: var(--sl-color-primary-50, #f8f9fa);
-          border-right: 1px solid #eee;
-          padding: 1.5rem 0.5rem 1.5rem 1rem;
-          z-index: 900;
-          box-sizing: border-box;
-        }
-
-
-        main {
-          margin-left: 200px;
-        }
-
-
-        @media (max-width: 800px) {
-          .sl-sidebar {
-            display: none;
-          }
-        }
-
-
-        html {
-          scroll-padding-top: 90px;
-          /* Adjust to your navbar height (70px + some gap) */
-          scroll-padding-top: 90px;
-          /* Adjust to your navbar height (70px + some gap) */
-        }
+    html {
+      scroll-padding-top: 90px;
+    }
   </style>
 </head>
 
-
 <body>
-  <!-- Shoelace Sidebar Navigation -->
-  <!-- Shoelace Sidebar Navigation -->
   <aside class="sl-sidebar">
     <nav>
       <sl-menu>
         <sl-menu-item>
-          <a href="#importPremade" style="text-decoration:none; color:inherit;">Import Decks (in 3 steps)</a>
+          <a href="#importPremade">Import Decks (in 3 steps)</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#lookUp" style="text-decoration:none; color:inherit;">Look up words</a>
+          <a href="#lookUp">Look up words</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#import" style="text-decoration:none; color:inherit;"> Make a deck and share to others</a>
+          <a href="#import">Make a deck and share to others</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#test" style="text-decoration:none; color:inherit;">Test your vocab</a>
+          <a href="#test">Test your vocab</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#listening" style="text-decoration:none; color:inherit;">Test your listening</a>
+          <a href="#listening">Test your listening</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#weak" style="text-decoration:none; color:inherit;">Test your weak vocabs</a>
+          <a href="#weak">Test your weak vocabs</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#editWord" style="text-decoration:none; color:inherit;">Edit words</a>
+          <a href="#editWord">Edit words</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#addCollection" style="text-decoration:none; color:inherit;">Edit collections</a>
+          <a href="#addCollection">Edit collections</a>
         </sl-menu-item>
         <sl-menu-item>
-          <a href="#inflection" style="text-decoration:none; color:inherit;">Practice latin & french inflections</a>
+          <a href="#inflection">Practice latin & french inflections</a>
         </sl-menu-item>
       </sl-menu>
     </nav>
@@ -167,21 +173,19 @@
     <nav
       style="background: var(--sl-color-primary-100); padding: 1rem 0; position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       <div
-        style="max-width: 700px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
-        <nav
-          style="background: var(--sl-color-primary-100); padding: 1rem 0; position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-          <div
-            style="max-width: 700px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
-            <a href="#" class="branding">FetchFlashQuiz</a>
-            <div>
-              <a href="#how-to-use-this" class="nav-link">Guide</a>
-              <a href="#intro" class="nav-link">Introduction</a>
-              <a href="#download" class="nav-link">Download decks</a>
-              <a href="#qa" class="nav-link">Q&amp;A</a>
-              <a href="#contacts" class="nav-link">Contacts</a>
-            </div>
-          </div>
-        </nav>
+        style="max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
+        <a href="#" class="branding">
+          <sl-icon name="book"></sl-icon>FetchFlashQuiz
+        </a>
+        <div>
+          <a href="#how-to-use-this" class="nav-link">Guide</a>
+          <a href="#intro" class="nav-link">Introduction</a>
+          <a href="#download" class="nav-link">Download decks</a>
+          <a href="#qa" class="nav-link">Q&amp;A</a>
+          <a href="#contacts" class="nav-link">Contacts</a>
+        </div>
+      </div>
+    </nav>
   </header>
   <main>
     <div id="container">
