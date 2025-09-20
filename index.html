@@ -17,6 +17,8 @@
       margin: 0;
       font-family: var(--sl-font-sans);
       padding-top: 70px;
+      font-family: Tahoma, sans-serif;
+
     }
 
     .sl-sidebar {
@@ -32,6 +34,7 @@
       box-sizing: border-box;
       box-shadow: 2px 0 8px rgba(0, 0, 0, 0.04);
       overflow-y: auto;
+      font-family: Tahoma, sans-serif;
     }
 
     .sl-sidebar li a {
@@ -40,11 +43,13 @@
       border-radius: 6px;
       transition: background 0.2s, color 0.2s;
       font-size: 1.07em;
+      font-family: Tahoma, sans-serif;
+
     }
 
     .sl-sidebar li a:hover {
       background: var(--sl-color-primary-100, #eaf6fb);
-      color: var(--sl-color-primary-700, #0074d9);
+      color: #4f605f;
       text-decoration: none;
     }
 
@@ -52,6 +57,8 @@
       margin-left: 240px;
       padding: 2rem 2vw 2rem 2vw;
       max-width: 900px;
+      font-family: Tahoma, sans-serif;
+
     }
 
     sl-card {
@@ -61,64 +68,81 @@
       box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
       border-radius: 12px;
       padding: 1.5rem;
+      font-family: Tahoma, sans-serif;
+
     }
 
     sl-card h2[slot="header"] {
       font-size: 1.5em;
-      font-weight: bold;
-      color: var(--sl-color-primary-700, #0074d9);
+      color: #4f605f;
       margin-bottom: 0.5em;
+      font-family: Tahoma, sans-serif;
+
     }
 
     h3 {
-      color: var(--sl-color-primary-600, #0090d9);
+      color: #4f605f;
       margin-top: 1.5em;
       margin-bottom: 0.5em;
+      font-family: Tahoma, sans-serif;
+
     }
 
     .icon {
       vertical-align: middle;
       margin-right: 0.3em;
-      color: var(--sl-color-primary-600, #0090d9);
+      color: #4f605f;
     }
 
     .branding {
       font-size: 2rem;
       font-weight: bold;
       letter-spacing: 1px;
-      color: var(--sl-color-primary-700, #0074d9);
+      color: #4f605f;
       text-decoration: none;
       display: flex;
       align-items: center;
       gap: 0.5em;
+      font-family: Tahoma, sans-serif;
+
     }
 
     .nav-link {
-      color: var(--sl-color-primary-700, #0074d9);
+      color: #4f605f;
       text-decoration: none;
       font-weight: 500;
       margin: 0 0.5rem;
       font-size: 1.1em;
       transition: color 0.2s;
+      font-family: Tahoma, sans-serif;
+
     }
 
     .nav-link:hover {
-      color: var(--sl-color-primary-900, #005fa3);
+      color: #bbf0ed;
       text-decoration: underline;
     }
 
     footer {
       text-align: center;
-      color: var(--sl-color-neutral-500, #888);
+      color: #888;
       margin: 2rem 0 1rem 0;
       font-size: 0.95rem;
       background: #f8f9fa;
       padding: 1.5em 0 0.5em 0;
       border-top: 1px solid #e3e7ea;
+      font-family: Tahoma, sans-serif;
+
     }
 
     li {
       font-size: 0.89vw;
+      font-family: Tahoma, sans-serif;
+
+    }
+
+    a {
+      font-family: Tahoma, sans-serif;
 
     }
 
@@ -201,7 +225,7 @@
   </aside>
   <header>
     <nav
-      style="background: var(--sl-color-primary-100); padding: 1rem 0; position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+      style="background: #e6f3f2; padding: 1rem 0; position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       <div
         style="max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
         <a href="#" class="branding">
@@ -226,7 +250,8 @@
           <source src="src/96.mp4" type="video/mp4">
 
         </video>
-        now with ability to change your backgrounds!
+        <br>
+        <br>now with ability to change your backgrounds! Yes I drew them no AI was used
         <br><img src="src/background change.gif" width="80%" />
       </sl-card>
       <sl-card id="how-german">
@@ -244,7 +269,7 @@
           <source src="src/latin.mp4" type="video/mp4">
         </video>
       </sl-card>
-      <sl-card id="how-to-use-this">
+      <sl-card id="how-to-use-this" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
         <h2 slot="header" id="importPremade">Text tutorial</h2>
         <h2 slot="header" id="importPremade">How to Import the Decks (in 3 steps)</h2>
         <ol>
@@ -431,7 +456,8 @@
 
       <sl-card id="intro">
         <h2 slot="header">What does this extension do?</h2>
-        <p>This extension serves as an instant dictionary and a flashcard list.
+        <p style="margin-right: 5%;margin-left: 5%;">This extension serves as an instant dictionary and a flashcard
+          list.
           Everytime you open up a new page A random word or quiz will show up. You can also use Learn or Test feature to
           learn or test words.
           <br>
@@ -445,7 +471,7 @@
 
       <sl-card id="qa">
         <h2 slot="header">Q&amp;A</h2>
-        <dl>
+        <dl style="margin-right: 5%;">
           <dd>Q : What does the "Beta" for Chinese and Japanese mean? </dt>
           <dd>A : We fetch words from wiktionary.org. It is a little complicated when it comes to Chinese and
             Japanese
@@ -479,7 +505,7 @@
       </sl-card>
       <sl-card id="future">
         <h2 slot="header">Future Plans</h2>
-        <dl>
+        <dl style="margin-right: 5%;margin-left: 5%;">
           I plan to add more language specific features in testing and learning.
           <br>
           <br>
@@ -671,6 +697,7 @@
             <sl-icon name="envelope" class="icon"></sl-icon>
             Email: <a href="mailto:xming0711@gmail.com">xming0711@gmail.com</a>
           </li>
+          <br>
           <li>
             <sl-icon name="github" class="icon"></sl-icon>
             GitHub: <a href="https://github.com/mingx0711" target="_blank">mingx0711</a>
