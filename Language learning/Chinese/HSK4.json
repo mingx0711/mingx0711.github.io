@@ -1,7 +1,8 @@
 {
   "vocabList": [
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "romance; love (romantic); CL:个",
       "gender": "",
       "pronounciation": "ài qíng",
@@ -11,7 +12,8 @@
       "word": "爱情"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to arrange; to plan; to set up",
       "gender": "",
       "pronounciation": "ān pái",
@@ -21,8 +23,9 @@
       "word": "安排"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "safe; secure; safety; security",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "safe; secure; safety",
       "gender": "",
       "pronounciation": "ān quán",
       "quizResults": [],
@@ -31,7 +34,8 @@
       "word": "安全"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "on time; before deadline; on schedule",
       "gender": "",
       "pronounciation": "àn shí",
@@ -41,8 +45,9 @@
       "word": "按时"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "according to; in accordance with; in the light of; on the basis of",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "according to; in accordance with; in the light of",
       "gender": "",
       "pronounciation": "àn zhào",
       "quizResults": [],
@@ -51,7 +56,8 @@
       "word": "按照"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "percent;",
       "gender": "",
       "pronounciation": "bǎi fēn zhī",
@@ -61,8 +67,9 @@
       "word": "百分之"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "a stick; club or cudgel; smart; capable; strong; wonderful; classifier for legs of a relay race",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "a stick; club or cudgel; smart",
       "gender": "",
       "pronounciation": "bàng",
       "quizResults": [],
@@ -71,7 +78,8 @@
       "word": "棒"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "steamed stuffed bun; CL:个",
       "gender": "",
       "pronounciation": "bāo zi",
@@ -81,8 +89,9 @@
       "word": "包子"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to protect; to defend; to safeguard; protection; CL:种[zhong3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to protect; to defend; to safeguard",
       "gender": "",
       "pronounciation": "bǎo hù",
       "quizResults": [],
@@ -91,8 +100,9 @@
       "word": "保护"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "guarantee; to guarantee; to ensure; to safeguard; to pledge; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "guarantee; to guarantee; to ensure",
       "gender": "",
       "pronounciation": "bǎo zhèng",
       "quizResults": [],
@@ -101,8 +111,9 @@
       "word": "保证"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to sign up; to enter one's name; to apply; to register; to enroll; to enlist",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to sign up; to enter one's name; to apply",
       "gender": "",
       "pronounciation": "bào míng",
       "quizResults": [],
@@ -111,8 +122,9 @@
       "word": "报名"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to hold; to carry (in one's arms); to hug or embrace; surround; cherish",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to hold; to carry (in one's arms); to hug or embrace",
       "gender": "",
       "pronounciation": "bào",
       "quizResults": [],
@@ -121,8 +133,9 @@
       "word": "抱"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "sorry; We apologize!; to feel apologetic; to regret",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "sorry; We apologize!; to feel apologetic",
       "gender": "",
       "pronounciation": "bào qiàn",
       "quizResults": [],
@@ -131,8 +144,9 @@
       "word": "抱歉"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "(two, three etc) -fold; times (multiplier); double; to increase or multiply",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "(two, three etc) -fold; times (multiplier); double",
       "gender": "",
       "pronounciation": "bèi",
       "quizResults": [],
@@ -141,8 +155,9 @@
       "word": "倍"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "original; originally; at first; it goes without saying; of course",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "original; originally; at first",
       "gender": "",
       "pronounciation": "běn lái",
       "quizResults": [],
@@ -151,8 +166,9 @@
       "word": "本来"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "stupid; foolish; silly; slow-witted; clumsy",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "stupid; foolish; silly",
       "gender": "",
       "pronounciation": "bèn",
       "quizResults": [],
@@ -161,7 +177,8 @@
       "word": "笨"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "for example; for instance; such as",
       "gender": "",
       "pronounciation": "bǐ rú",
@@ -171,7 +188,8 @@
       "word": "比如"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to graduate; graduation; to finish school",
       "gender": "",
       "pronounciation": "bì yè",
@@ -181,8 +199,9 @@
       "word": "毕业"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "a time; everywhere; turn; all over; one time",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "a time; everywhere; turn",
       "gender": "",
       "pronounciation": "biàn",
       "quizResults": [],
@@ -191,8 +210,9 @@
       "word": "遍"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "(an official) standard; norm; criterion; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "(an official) standard; norm; criterion",
       "gender": "",
       "pronounciation": "biāo zhǔn",
       "quizResults": [],
@@ -201,7 +221,8 @@
       "word": "标准"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "form; table; CL:张[zhang1] ,份[fen4]",
       "gender": "",
       "pronounciation": "biǎo gé",
@@ -211,8 +232,9 @@
       "word": "表格"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to express; to show; to say; to state; to indicate; to mean",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to express; to show; to say",
       "gender": "",
       "pronounciation": "biǎo shì",
       "quizResults": [],
@@ -221,8 +243,9 @@
       "word": "表示"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "play; show; performance; exhibition; to perform; to act; to demonstrate; CL:场[chang3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "play; show; performance",
       "gender": "",
       "pronounciation": "biǎo yǎn",
       "quizResults": [],
@@ -231,7 +254,8 @@
       "word": "表演"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to praise; to commend",
       "gender": "",
       "pronounciation": "biǎo yáng",
@@ -241,8 +265,9 @@
       "word": "表扬"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "biscuit; cracker; cookie; CL:片[pian4] ,块[kuai4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "biscuit; cracker; cookie",
       "gender": "",
       "pronounciation": "bǐng gān",
       "quizResults": [],
@@ -251,8 +276,9 @@
       "word": "饼干"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "moreover; furthermore; in addition; besides; and",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "moreover; furthermore; in addition",
       "gender": "",
       "pronounciation": "bìng qiě",
       "quizResults": [],
@@ -261,7 +287,8 @@
       "word": "并且"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "doctor; court academician (in feudal China); Ph.D.",
       "gender": "",
       "pronounciation": "bó shì",
@@ -271,8 +298,9 @@
       "word": "博士"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "only; merely; no more than; but; however; anyway (to get back to a previous topic)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "only; merely; no more than",
       "gender": "",
       "pronounciation": "bú guò",
       "quizResults": [],
@@ -281,8 +309,9 @@
       "word": "不过"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "have no choice or option but to; cannot but; have to; can't help it; can't avoid",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "have no choice or option but to; cannot but; have to",
       "gender": "",
       "pronounciation": "bù dé bù",
       "quizResults": [],
@@ -291,7 +320,8 @@
       "word": "不得不"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "no matter (what, how); regardless of; no matter",
       "gender": "",
       "pronounciation": "bù guǎn",
@@ -301,7 +331,8 @@
       "word": "不管"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "not only (this one); not just (...) but also",
       "gender": "",
       "pronounciation": "bù jǐn",
@@ -311,8 +342,9 @@
       "word": "不仅"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "part; share; section; piece; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "part; share; section",
       "gender": "",
       "pronounciation": "bù fen",
       "quizResults": [],
@@ -321,8 +353,9 @@
       "word": "部分"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to wipe; to erase; rubbing (brush stroke in painting); to clean; to polish",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to wipe; to erase; rubbing (brush stroke in painting)",
       "gender": "",
       "pronounciation": "cā",
       "quizResults": [],
@@ -331,7 +364,8 @@
       "word": "擦"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to guess",
       "gender": "",
       "pronounciation": "cāi",
@@ -341,8 +375,9 @@
       "word": "猜"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "material; data; makings; stuff; CL:个,种[zhong3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "material; data; makings",
       "gender": "",
       "pronounciation": "cái liào",
       "quizResults": [],
@@ -351,7 +386,8 @@
       "word": "材料"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to look around; to inspect; visit and observe",
       "gender": "",
       "pronounciation": "cān guān",
@@ -361,8 +397,9 @@
       "word": "参观"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "dining-hall; dining-room; restaurant; CL:间[jian1] ,家[jia1]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "dining-hall; dining-room; restaurant",
       "gender": "",
       "pronounciation": "cān tīng",
       "quizResults": [],
@@ -371,7 +408,8 @@
       "word": "餐厅"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "toilet; lavatory; CL:间[jian1] ,处[chu4]",
       "gender": "",
       "pronounciation": "cè suǒ",
@@ -381,7 +419,8 @@
       "word": "厕所"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "almost; nearly; more or less",
       "gender": "",
       "pronounciation": "chà bu duō",
@@ -391,8 +430,9 @@
       "word": "差不多"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to try (to taste); to experience; flavor; (past tense marker); already; formerly; ever; once; test",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to try (to taste); to experience; flavor",
       "gender": "",
       "pronounciation": "cháng",
       "quizResults": [],
@@ -401,7 +441,8 @@
       "word": "尝"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "the Great Wall",
       "gender": "",
       "pronounciation": "cháng chéng",
@@ -411,7 +452,8 @@
       "word": "长城"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "Changjiang river; Yangtze river",
       "gender": "",
       "pronounciation": "cháng jiāng",
@@ -421,8 +463,9 @@
       "word": "长江"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "large place used for a specific purpose; stage; scene (of a play); threshing floor; classifier for sporting or recreational activities; classifier for number of exams",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "large place used for a specific purpose; stage; scene (of a play)",
       "gender": "",
       "pronounciation": "chǎng",
       "quizResults": [],
@@ -431,7 +474,8 @@
       "word": "场"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to surpass; to exceed; to outstrip",
       "gender": "",
       "pronounciation": "chāo guò",
@@ -441,7 +485,8 @@
       "word": "超过"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to ride (in a vehicle)",
       "gender": "",
       "pronounciation": "chéng zuò",
@@ -451,7 +496,8 @@
       "word": "乘坐"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "success; to succeed; CL:次[ci4] ,个",
       "gender": "",
       "pronounciation": "chéng gōng",
@@ -461,7 +507,8 @@
       "word": "成功"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to become; to turn into",
       "gender": "",
       "pronounciation": "chéng wéi",
@@ -471,8 +518,9 @@
       "word": "成为"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "honest; honesty; honorable; truthful",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "honest; honesty; honorable",
       "gender": "",
       "pronounciation": "chéng shí",
       "quizResults": [],
@@ -481,7 +529,8 @@
       "word": "诚实"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to be startled; to be shocked; to be amazed",
       "gender": "",
       "pronounciation": "chī jīng",
@@ -491,7 +540,8 @@
       "word": "吃惊"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "again; once more; re-",
       "gender": "",
       "pronounciation": "chóng xīn",
@@ -501,7 +551,8 @@
       "word": "重新"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to smoke (a cigarette, tobacco)",
       "gender": "",
       "pronounciation": "chōu yān",
@@ -511,7 +562,8 @@
       "word": "抽烟"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to go on an official or business trip",
       "gender": "",
       "pronounciation": "chū chāi",
@@ -521,7 +573,8 @@
       "word": "出差"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to start out; to set off",
       "gender": "",
       "pronounciation": "chū fā",
@@ -531,7 +584,8 @@
       "word": "出发"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to be born",
       "gender": "",
       "pronounciation": "chū shēng",
@@ -541,8 +595,9 @@
       "word": "出生"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to appear; to arise; to emerge; to show up",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to appear; to arise; to emerge",
       "gender": "",
       "pronounciation": "chū xiàn",
       "quizResults": [],
@@ -551,7 +606,8 @@
       "word": "出现"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "kitchen; CL:间[jian1]",
       "gender": "",
       "pronounciation": "chú fáng",
@@ -561,7 +617,8 @@
       "word": "厨房"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "fax; facsimile",
       "gender": "",
       "pronounciation": "chuán zhēn",
@@ -571,7 +628,8 @@
       "word": "传真"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "window; CL:个,扇[shan4]",
       "gender": "",
       "pronounciation": "chuāng hu",
@@ -581,7 +639,8 @@
       "word": "窗户"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression",
       "gender": "",
       "pronounciation": "cí yǔ",
@@ -591,7 +650,8 @@
       "word": "词语"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "always; at all times; never (if used in negative sentence)",
       "gender": "",
       "pronounciation": "cóng lái",
@@ -601,7 +661,8 @@
       "word": "从来"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "careless; thoughtless",
       "gender": "",
       "pronounciation": "cū xīn",
@@ -611,8 +672,9 @@
       "word": "粗心"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "exist; deposit; store; keep; survive",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "exist; deposit; store",
       "gender": "",
       "pronounciation": "cún",
       "quizResults": [],
@@ -621,8 +683,9 @@
       "word": "存"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "error; mistake; mistaken; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "error; mistake; mistaken",
       "gender": "",
       "pronounciation": "cuò wù",
       "quizResults": [],
@@ -631,7 +694,8 @@
       "word": "错误"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "answer; solution; CL:个",
       "gender": "",
       "pronounciation": "dá àn",
@@ -641,8 +705,9 @@
       "word": "答案"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to decorate; to dress; to make up; to adorn; manner of dressing; style of dress",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to decorate; to dress; to make up",
       "gender": "",
       "pronounciation": "dǎ ban",
       "quizResults": [],
@@ -651,7 +716,8 @@
       "word": "打扮"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to disturb; to bother; to trouble",
       "gender": "",
       "pronounciation": "dǎ rǎo",
@@ -661,7 +727,8 @@
       "word": "打扰"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to print; to seal; to stamp",
       "gender": "",
       "pronounciation": "dǎ yìn",
@@ -671,7 +738,8 @@
       "word": "打印"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to greet sb by word or action; to give prior notice",
       "gender": "",
       "pronounciation": "dǎ zhāo hu",
@@ -681,7 +749,8 @@
       "word": "打招呼"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to give a discount",
       "gender": "",
       "pronounciation": "dǎ zhé",
@@ -691,7 +760,8 @@
       "word": "打折"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to give or have an injection",
       "gender": "",
       "pronounciation": "dǎ zhēn",
@@ -701,8 +771,9 @@
       "word": "打针"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "roughly; probably; rough; approximate; about",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "roughly; probably; rough",
       "gender": "",
       "pronounciation": "dà gài",
       "quizResults": [],
@@ -711,7 +782,8 @@
       "word": "大概"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "embassy; CL:座[zuo4] ,个",
       "gender": "",
       "pronounciation": "dà shǐ guǎn",
@@ -721,7 +793,8 @@
       "word": "大使馆"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "approximately; about",
       "gender": "",
       "pronounciation": "dà yuē",
@@ -731,7 +804,8 @@
       "word": "大约"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "doctor; minister of state (in pre-Han states); CL:个,位[wei4]",
       "gender": "",
       "pronounciation": "dài fu",
@@ -741,8 +815,9 @@
       "word": "大夫"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to put on or wear (glasses, hat, gloves etc); to respect; to bear; to support",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to put on or wear (glasses, hat, gloves etc); to respect; to bear",
       "gender": "",
       "pronounciation": "dài",
       "quizResults": [],
@@ -751,8 +826,9 @@
       "word": "戴"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to be; manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to be; manage; withstand",
       "gender": "",
       "pronounciation": "dāng",
       "quizResults": [],
@@ -761,7 +837,8 @@
       "word": "当"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "then; at that time; while",
       "gender": "",
       "pronounciation": "dāng shí",
@@ -771,7 +848,8 @@
       "word": "当时"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "knife; CL:把[ba3]",
       "gender": "",
       "pronounciation": "dāo",
@@ -781,7 +859,8 @@
       "word": "刀"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "tour guide; to conduct a tour; a guidebook",
       "gender": "",
       "pronounciation": "dǎo yóu",
@@ -791,7 +870,8 @@
       "word": "导游"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to move backwards; converse",
       "gender": "",
       "pronounciation": "dào",
@@ -801,7 +881,8 @@
       "word": "倒"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "in all places; everywhere",
       "gender": "",
       "pronounciation": "dào chù",
@@ -811,8 +892,9 @@
       "word": "到处"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "finally; in the end; when all is said and done; after all; to the end; to the last",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "finally; in the end; when all is said and done",
       "gender": "",
       "pronounciation": "dào dǐ",
       "quizResults": [],
@@ -821,7 +903,8 @@
       "word": "到底"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to apologize; to make an apology",
       "gender": "",
       "pronounciation": "dào qiàn",
@@ -831,8 +914,9 @@
       "word": "道歉"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to have to, to need to (particle used to express capability, possibility, degree, effect...); must; ought to; to need to",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to have to, to need to (particle used to express capability, possibility, degree, effect...); must; ought to",
       "gender": "",
       "pronounciation": "dé",
       "quizResults": [],
@@ -841,7 +925,8 @@
       "word": "得"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "proud of oneself; pleased with oneself; complacent",
       "gender": "",
       "pronounciation": "dé yì",
@@ -851,7 +936,8 @@
       "word": "得意"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "boarding pass",
       "gender": "",
       "pronounciation": "dēng jī pái",
@@ -861,7 +947,8 @@
       "word": "登机牌"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "etc (indicating the end of an enumeration)",
       "gender": "",
       "pronounciation": "děng",
@@ -871,8 +958,9 @@
       "word": "等"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "low; beneath; to lower (one's head); to let droop; to hang down; to incline",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "low; beneath; to lower (one's head)",
       "gender": "",
       "pronounciation": "dī",
       "quizResults": [],
@@ -881,8 +969,9 @@
       "word": "低"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "background; bottom; base; the end of a period of time; towards the end of (last month)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "background; bottom; base",
       "gender": "",
       "pronounciation": "dǐ",
       "quizResults": [],
@@ -891,8 +980,9 @@
       "word": "底"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "place; site; location; venue; CL:個|个[ge4];",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "place; site; location",
       "gender": "",
       "pronounciation": "dì diǎn",
       "quizResults": [],
@@ -901,7 +991,8 @@
       "word": "地点"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "the Earth; planet; CL:个",
       "gender": "",
       "pronounciation": "dì qiú",
@@ -911,7 +1002,8 @@
       "word": "地球"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "address; CL:个",
       "gender": "",
       "pronounciation": "dì zhǐ",
@@ -921,8 +1013,9 @@
       "word": "地址"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to fall; to drop; to lag behind; to lose; to go missing; to reduce; fall (in prices); to lose (value, weight etc); to wag; to swing; to turn; to change; to exchange; to swap; to show off; to shed (hair)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to fall; to drop; to lag behind",
       "gender": "",
       "pronounciation": "diào",
       "quizResults": [],
@@ -931,8 +1024,9 @@
       "word": "掉"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "investigation; inquiry; to investigate; to survey; survey; (opinion) poll; CL:项[xiang4] ,个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "investigation; inquiry; to investigate",
       "gender": "",
       "pronounciation": "diào chá",
       "quizResults": [],
@@ -941,7 +1035,8 @@
       "word": "调查"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to lose; to put aside; to throw",
       "gender": "",
       "pronounciation": "diū",
@@ -951,8 +1046,9 @@
       "word": "丢"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "movement; motion; action; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "movement; motion; action",
       "gender": "",
       "pronounciation": "dòng zuò",
       "quizResults": [],
@@ -961,7 +1057,8 @@
       "word": "动作"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "traffic jam; choking",
       "gender": "",
       "pronounciation": "dǔ chē",
@@ -971,8 +1068,9 @@
       "word": "堵车"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "belly; abdomen; stomach; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "belly; abdomen; stomach",
       "gender": "",
       "pronounciation": "dù zi",
       "quizResults": [],
@@ -981,7 +1079,8 @@
       "word": "肚子"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "text message; SMS",
       "gender": "",
       "pronounciation": "duǎn xìn",
@@ -991,7 +1090,8 @@
       "word": "短信"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "dialog; CL:个",
       "gender": "",
       "pronounciation": "duì huà",
@@ -1001,7 +1101,8 @@
       "word": "对话"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "opposite",
       "gender": "",
       "pronounciation": "duì miàn",
@@ -1011,7 +1112,8 @@
       "word": "对面"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "regarding; as far as sth is concerned; with regards to",
       "gender": "",
       "pronounciation": "duì yú",
@@ -1021,7 +1123,8 @@
       "word": "对于"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "child; CL:个",
       "gender": "",
       "pronounciation": "ér tóng",
@@ -1031,8 +1134,9 @@
       "word": "儿童"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "yet (not); and; as well as; and so; but (not); (indicates causal relation); (indicates change of state); (indicates contrast)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "yet (not); and; as well as",
       "gender": "",
       "pronounciation": "ér",
       "quizResults": [],
@@ -1041,8 +1145,9 @@
       "word": "而"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to happen; to occur; to take place; to break out",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to happen; to occur; to take place",
       "gender": "",
       "pronounciation": "fā shēng",
       "quizResults": [],
@@ -1051,8 +1156,9 @@
       "word": "发生"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "development; growth; to develop; to grow; to expand",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "development; growth; to develop",
       "gender": "",
       "pronounciation": "fā zhǎn",
       "quizResults": [],
@@ -1061,7 +1167,8 @@
       "word": "发展"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "law; CL:条[tiao2] , 套[tao4] , 个",
       "gender": "",
       "pronounciation": "fǎ lv4",
@@ -1071,8 +1178,9 @@
       "word": "法律"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to translate; to interpret; translator; interpreter; translation; interpretation; CL:个,位[wei4] ,名[ming2]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to translate; to interpret; translator",
       "gender": "",
       "pronounciation": "fān yì",
       "quizResults": [],
@@ -1081,8 +1189,9 @@
       "word": "翻译"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "agonize; agony; annoyance; upset; vexation; worries",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "agonize; agony; annoyance",
       "gender": "",
       "pronounciation": "fán nǎo",
       "quizResults": [],
@@ -1091,8 +1200,9 @@
       "word": "烦恼"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to fight against; to oppose; to be opposed to; opposition",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to fight against; to oppose; to be opposed to",
       "gender": "",
       "pronounciation": "fǎn duì",
       "quizResults": [],
@@ -1101,8 +1211,9 @@
       "word": "反对"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "method; way; means; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "method; way; means",
       "gender": "",
       "pronounciation": "fāng fǎ",
       "quizResults": [],
@@ -1111,8 +1222,9 @@
       "word": "方法"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "respect; aspect; field; side; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "respect; aspect; field",
       "gender": "",
       "pronounciation": "fāng miàn",
       "quizResults": [],
@@ -1121,8 +1233,9 @@
       "word": "方面"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "direction; orientation; path to follow; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "direction; orientation; path to follow",
       "gender": "",
       "pronounciation": "fāng xiàng",
       "quizResults": [],
@@ -1131,7 +1244,8 @@
       "word": "方向"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "landlord",
       "gender": "",
       "pronounciation": "fáng dōng",
@@ -1141,7 +1255,8 @@
       "word": "房东"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to renounce; to abandon; to give up",
       "gender": "",
       "pronounciation": "fàng qì",
@@ -1151,7 +1266,8 @@
       "word": "放弃"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "take summer vacation",
       "gender": "",
       "pronounciation": "fàng shǔ jià",
@@ -1161,7 +1277,8 @@
       "word": "放暑假"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to loosen; to relax",
       "gender": "",
       "pronounciation": "fàng sōng",
@@ -1171,8 +1288,9 @@
       "word": "放松"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "part; share; portion; copy; classifier for gifts, newspaper, magazine, papers, reports, contracts etc",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "part; share; portion",
       "gender": "",
       "pronounciation": "fèn",
       "quizResults": [],
@@ -1181,7 +1299,8 @@
       "word": "份"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "rich; plentiful; abundant",
       "gender": "",
       "pronounciation": "fēng fù",
@@ -1191,8 +1310,9 @@
       "word": "丰富"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "if not; otherwise; else; or else",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "if not; otherwise; else",
       "gender": "",
       "pronounciation": "fǒu zé",
       "quizResults": [],
@@ -1201,8 +1321,9 @@
       "word": "否则"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "in keeping with; in accordance with; tallying with; in line with; to agree with; to accord with; to conform to; to correspond with; to manage; to handle",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "in keeping with; in accordance with; tallying with",
       "gender": "",
       "pronounciation": "fú hé",
       "quizResults": [],
@@ -1211,7 +1332,8 @@
       "word": "符合"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "pay; payment",
       "gender": "",
       "pronounciation": "fù kuǎn",
@@ -1221,7 +1343,8 @@
       "word": "付款"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to photocopy; to duplicate a document",
       "gender": "",
       "pronounciation": "fù yìn",
@@ -1231,7 +1354,8 @@
       "word": "复印"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "complicated; complex",
       "gender": "",
       "pronounciation": "fù zá",
@@ -1241,7 +1365,8 @@
       "word": "复杂"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "rich; surname Fu",
       "gender": "",
       "pronounciation": "fù",
@@ -1251,7 +1376,8 @@
       "word": "富"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "father; also pr. with light tone [fu4 qin5]; CL:个",
       "gender": "",
       "pronounciation": "fù qīn",
@@ -1261,8 +1387,9 @@
       "word": "父亲"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to be in charge of; to take responsibility for; to be to blame; conscientious",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to be in charge of; to take responsibility for; to be to blame",
       "gender": "",
       "pronounciation": "fù zé",
       "quizResults": [],
@@ -1271,7 +1398,8 @@
       "word": "负责"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to change; to alter; to transform",
       "gender": "",
       "pronounciation": "gǎi biàn",
@@ -1281,8 +1409,9 @@
       "word": "改变"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to drink a toast; Cheers! (proposing a toast); Here's to you!; Bottoms up!; lit. dry cup",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to drink a toast; Cheers! (proposing a toast); Here's to you!",
       "gender": "",
       "pronounciation": "gān bēi",
       "quizResults": [],
@@ -1291,7 +1420,8 @@
       "word": "干杯"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to move (sb); to touch (sb emotionally); moving",
       "gender": "",
       "pronounciation": "gǎn dòng",
@@ -1301,8 +1431,9 @@
       "word": "感动"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to feel; to become aware of; feeling; sense; perception; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to feel; to become aware of; feeling",
       "gender": "",
       "pronounciation": "gǎn jué",
       "quizResults": [],
@@ -1311,8 +1442,9 @@
       "word": "感觉"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "feeling; emotion; sensation; likes and dislikes; deep affection for sb or sth; relationship (i.e. love affair); CL:个,种[zhong3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "feeling; emotion; sensation",
       "gender": "",
       "pronounciation": "gǎn qíng",
       "quizResults": [],
@@ -1321,8 +1453,9 @@
       "word": "感情"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "(express) thanks; gratitude; grateful; thankful; thanks",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "(express) thanks; gratitude; grateful",
       "gender": "",
       "pronounciation": "gǎn xiè",
       "quizResults": [],
@@ -1331,7 +1464,8 @@
       "word": "感谢"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to dare; daring; (polite) may I venture",
       "gender": "",
       "pronounciation": "gǎn",
@@ -1341,8 +1475,9 @@
       "word": "敢"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to overtake; to catch up with; to hurry; to rush; to try to catch (the bus etc); to drive (cattle etc) forward; to drive (sb) away; to avail oneself of (an opportunity); until;",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to overtake; to catch up with; to hurry",
       "gender": "",
       "pronounciation": "gǎn",
       "quizResults": [],
@@ -1351,7 +1486,8 @@
       "word": "赶"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to do (some work); to manage; to work",
       "gender": "",
       "pronounciation": "gàn",
@@ -1361,8 +1497,9 @@
       "word": "干"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "just; barely; exactly; hard; firm; strong",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "just; barely; exactly",
       "gender": "",
       "pronounciation": "gāng",
       "quizResults": [],
@@ -1371,7 +1508,8 @@
       "word": "刚"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "expressway; highway; freeway",
       "gender": "",
       "pronounciation": "gāo sù gōng lù",
@@ -1381,7 +1519,8 @@
       "word": "高速公路"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "arm; CL:只[zhi1] ,条[tiao2] ,双[shuang1]",
       "gender": "",
       "pronounciation": "gē bo",
@@ -1391,7 +1530,8 @@
       "word": "胳膊"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "each; every",
       "gender": "",
       "pronounciation": "gè",
@@ -1401,7 +1541,8 @@
       "word": "各"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "kilometer",
       "gender": "",
       "pronounciation": "gōng lǐ",
@@ -1411,8 +1552,9 @@
       "word": "公里"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "skill; art; kung fu; labor; effort",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "skill; art; kung fu",
       "gender": "",
       "pronounciation": "gōng fu",
       "quizResults": [],
@@ -1421,7 +1563,8 @@
       "word": "功夫"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "wages; pay; CL:个,份[fen4] ,月[yue4]",
       "gender": "",
       "pronounciation": "gōng zī",
@@ -1431,8 +1574,9 @@
       "word": "工资"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "common; joint; jointly; together; collaborative",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "common; joint; jointly",
       "gender": "",
       "pronounciation": "gòng tóng",
       "quizResults": [],
@@ -1441,7 +1585,8 @@
       "word": "共同"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to reach; to be enough",
       "gender": "",
       "pronounciation": "gòu",
@@ -1451,7 +1596,8 @@
       "word": "够"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "shopping",
       "gender": "",
       "pronounciation": "gòu wù",
@@ -1461,7 +1607,8 @@
       "word": "购物"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to estimate; to reckon; CL:个",
       "gender": "",
       "pronounciation": "gū jì",
@@ -1471,7 +1618,8 @@
       "word": "估计"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to encourage",
       "gender": "",
       "pronounciation": "gǔ lì",
@@ -1481,7 +1629,8 @@
       "word": "鼓励"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "deliberately; on purpose",
       "gender": "",
       "pronounciation": "gù yì",
@@ -1491,7 +1640,8 @@
       "word": "故意"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "client; customer; CL:位[wei4]",
       "gender": "",
       "pronounciation": "gù kè",
@@ -1501,8 +1651,9 @@
       "word": "顾客"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to hang or suspend (from a hook etc); (of a telephone call) to hang up; to be worried or concerned; to make a phone call (topolect); to register or record; to hitch; classifier for sets or clusters of objects",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to hang or suspend (from a hook etc); (of a telephone call) to hang up; to be worried or concerned",
       "gender": "",
       "pronounciation": "guà",
       "quizResults": [],
@@ -1511,8 +1662,9 @@
       "word": "挂"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "crucial point; crux; CL:个; key; crucial; pivotal",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "crucial point; crux; CL:个",
       "gender": "",
       "pronounciation": "guān jiàn",
       "quizResults": [],
@@ -1521,7 +1673,8 @@
       "word": "关键"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "spectators; audience; visitors (to an exhibition etc)",
       "gender": "",
       "pronounciation": "guān zhòng",
@@ -1531,8 +1684,9 @@
       "word": "观众"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to supervise; to manage; to administer; management; administration; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to supervise; to manage; to administer",
       "gender": "",
       "pronounciation": "guǎn lǐ",
       "quizResults": [],
@@ -1541,8 +1695,9 @@
       "word": "管理"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "light (ray); light; ray; CL:道[dao4]; bright; only; merely; to use up",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "light (ray); light; ray",
       "gender": "",
       "pronounciation": "guāng",
       "quizResults": [],
@@ -1551,7 +1706,8 @@
       "word": "光"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "broadcast; widely spread; CL:个",
       "gender": "",
       "pronounciation": "guǎng bō",
@@ -1561,8 +1717,9 @@
       "word": "广播"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to advertise; a commercial; advertisement; CL:项[xiang4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to advertise; a commercial; advertisement",
       "gender": "",
       "pronounciation": "guǎng gào",
       "quizResults": [],
@@ -1571,7 +1728,8 @@
       "word": "广告"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to stroll; to visit",
       "gender": "",
       "pronounciation": "guàng",
@@ -1581,8 +1739,9 @@
       "word": "逛"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to stipulate; to fix; to set; to formulate; to provide; regulation; rule; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to stipulate; to fix; to set",
       "gender": "",
       "pronounciation": "guī dìng",
       "quizResults": [],
@@ -1591,7 +1750,8 @@
       "word": "规定"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "nationality",
       "gender": "",
       "pronounciation": "guó jí",
@@ -1601,7 +1761,8 @@
       "word": "国籍"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "international",
       "gender": "",
       "pronounciation": "guó jì",
@@ -1611,7 +1772,8 @@
       "word": "国际"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "fruit juice",
       "gender": "",
       "pronounciation": "guǒ zhī",
@@ -1621,7 +1783,8 @@
       "word": "果汁"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "course of events; process; CL:个",
       "gender": "",
       "pronounciation": "guò chéng",
@@ -1631,7 +1794,8 @@
       "word": "过程"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "ocean; CL:个",
       "gender": "",
       "pronounciation": "hǎi yáng",
@@ -1641,7 +1805,8 @@
       "word": "海洋"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "blush; shy",
       "gender": "",
       "pronounciation": "hài xiū",
@@ -1651,7 +1816,8 @@
       "word": "害羞"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "winter vacation",
       "gender": "",
       "pronounciation": "hán jià",
@@ -1661,8 +1827,9 @@
       "word": "寒假"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "perspiration; sweat; Khan (Persian or Mongol king or emperor); Khan (name); to be speechless (out of helplessness, embarrassment etc) (Internet slang used as an interjection); CL:滴[di1] ,头[tou2] ,身[shen1]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "perspiration; sweat; Khan (Persian or Mongol king or emperor)",
       "gender": "",
       "pronounciation": "hàn",
       "quizResults": [],
@@ -1671,8 +1838,9 @@
       "word": "汗"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "scheduled flight; flight number; plane; scheduled sailing; sailing number; passenger ship",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "scheduled flight; flight number; plane",
       "gender": "",
       "pronounciation": "háng bān",
       "quizResults": [],
@@ -1681,8 +1849,9 @@
       "word": "航班"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "benefit; advantage; gain; profit; also pronounced hao3 chu4; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "benefit; advantage; gain",
       "gender": "",
       "pronounciation": "hǎo chu",
       "quizResults": [],
@@ -1691,7 +1860,8 @@
       "word": "好处"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "as if; to seem like",
       "gender": "",
       "pronounciation": "hǎo xiàng",
@@ -1701,7 +1871,8 @@
       "word": "好像"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "number; CL:堆[dui1] ,个",
       "gender": "",
       "pronounciation": "hào mǎ",
@@ -1711,7 +1882,8 @@
       "word": "号码"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "qualified; meeting a standard; eligible (voter)",
       "gender": "",
       "pronounciation": "hé gé",
@@ -1721,8 +1893,9 @@
       "word": "合格"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "suitable; fitting; decent; to fit",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "suitable; fitting; decent",
       "gender": "",
       "pronounciation": "hé shì",
       "quizResults": [],
@@ -1731,7 +1904,8 @@
       "word": "合适"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "box",
       "gender": "",
       "pronounciation": "hé zi",
@@ -1741,8 +1915,9 @@
       "word": "盒子"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "thick; deep or profound; kind; generous; rich or strong in flavor; to favor; to stress",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "thick; deep or profound; kind",
       "gender": "",
       "pronounciation": "hòu",
       "quizResults": [],
@@ -1751,7 +1926,8 @@
       "word": "厚"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to regret; to repent",
       "gender": "",
       "pronounciation": "hòu huǐ",
@@ -1761,7 +1937,8 @@
       "word": "后悔"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "the Internet",
       "gender": "",
       "pronounciation": "hù lián wǎng",
@@ -1771,7 +1948,8 @@
       "word": "互联网"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "each other; mutually; mutual",
       "gender": "",
       "pronounciation": "hù xiāng",
@@ -1781,7 +1959,8 @@
       "word": "互相"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "nurse; CL:个",
       "gender": "",
       "pronounciation": "hù shi",
@@ -1791,8 +1970,9 @@
       "word": "护士"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to suspect; to doubt; doubt; suspicion; skeptical",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to suspect; to doubt; doubt",
       "gender": "",
       "pronounciation": "huái yí",
       "quizResults": [],
@@ -1801,7 +1981,8 @@
       "word": "怀疑"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to recall; recollection; CL:个",
       "gender": "",
       "pronounciation": "huí yì",
@@ -1811,8 +1992,9 @@
       "word": "回忆"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to exercise; to move about; to operate; activity; loose; shaky; active; movable; maneuver; to use connections; CL:项[xiang4] ,个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to exercise; to move about; to operate",
       "gender": "",
       "pronounciation": "huó dòng",
       "quizResults": [],
@@ -1821,8 +2003,9 @@
       "word": "活动"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "lively; vivacious; brisk; active",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "lively; vivacious; brisk",
       "gender": "",
       "pronounciation": "huó po",
       "quizResults": [],
@@ -1831,7 +2014,8 @@
       "word": "活泼"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "fire; CL:把[ba3]",
       "gender": "",
       "pronounciation": "huǒ",
@@ -1841,7 +2025,8 @@
       "word": "火"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to obtain; to receive; to get",
       "gender": "",
       "pronounciation": "huò dé",
@@ -1851,8 +2036,9 @@
       "word": "获得"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "base; foundation; basis; underlying; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "base; foundation; basis",
       "gender": "",
       "pronounciation": "jī chǔ",
       "quizResults": [],
@@ -1861,7 +2047,8 @@
       "word": "基础"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to excite; to agitate; exciting",
       "gender": "",
       "pronounciation": "jī dòng",
@@ -1871,8 +2058,9 @@
       "word": "激动"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "active; energetic; vigorous; positive (outlook); proactive",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "active; energetic; vigorous",
       "gender": "",
       "pronounciation": "jī jí",
       "quizResults": [],
@@ -1881,8 +2069,9 @@
       "word": "积极"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to accumulate; accumulation; cumulative; cumulatively",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to accumulate; accumulation; cumulative",
       "gender": "",
       "pronounciation": "jī lěi",
       "quizResults": [],
@@ -1891,7 +2080,8 @@
       "word": "积累"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "even if; even though; given that",
       "gender": "",
       "pronounciation": "jí shǐ",
@@ -1901,8 +2091,9 @@
       "word": "即使"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "in time; promptly; without delay; timely",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "in time; promptly; without delay",
       "gender": "",
       "pronounciation": "jí shí",
       "quizResults": [],
@@ -1911,8 +2102,9 @@
       "word": "及时"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to live (in a house); to lodge; to mail; to send; to entrust; to depend",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to live (in a house); to lodge; to mail",
       "gender": "",
       "pronounciation": "jì",
       "quizResults": [],
@@ -1921,8 +2113,9 @@
       "word": "寄"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "technology; technique; skill; CL:门[men2] ,种[zhong3] ,项[xiang4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "technology; technique; skill",
       "gender": "",
       "pronounciation": "jì shù",
       "quizResults": [],
@@ -1931,7 +2124,8 @@
       "word": "技术"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "since; as; this being the case",
       "gender": "",
       "pronounciation": "jì rán",
@@ -1941,7 +2135,8 @@
       "word": "既然"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to continue; to proceed with; to go on with",
       "gender": "",
       "pronounciation": "jì xù",
@@ -1951,8 +2146,9 @@
       "word": "继续"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "plan; project; program; to plan; to map out; CL:个,项[xiang4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "plan; project; program",
       "gender": "",
       "pronounciation": "jì huà",
       "quizResults": [],
@@ -1961,7 +2157,8 @@
       "word": "计划"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "reporter; journalist; CL:个",
       "gender": "",
       "pronounciation": "jì zhě",
@@ -1971,7 +2168,8 @@
       "word": "记者"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to work overtime",
       "gender": "",
       "pronounciation": "jiā bān",
@@ -1981,7 +2179,8 @@
       "word": "加班"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "gas station",
       "gender": "",
       "pronounciation": "jiā yóu zhàn",
@@ -1991,7 +2190,8 @@
       "word": "加油站"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "furniture; CL:件[jian4] ,套[tao4]",
       "gender": "",
       "pronounciation": "jiā jù",
@@ -2001,8 +2201,9 @@
       "word": "家具"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "fake; false; artificial; to borrow; if; suppose",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "fake; false; artificial",
       "gender": "",
       "pronounciation": "jiǎ",
       "quizResults": [],
@@ -2011,7 +2212,8 @@
       "word": "假"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "price; CL:个",
       "gender": "",
       "pronounciation": "jià gé",
@@ -2021,8 +2223,9 @@
       "word": "价格"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to continue upholding; to remain committed to; persistence; to persist; to uphold; to insist on; persevere",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to continue upholding; to remain committed to; persistence",
       "gender": "",
       "pronounciation": "jiān chí",
       "quizResults": [],
@@ -2031,7 +2234,8 @@
       "word": "坚持"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to lose weight",
       "gender": "",
       "pronounciation": "jiǎn féi",
@@ -2041,8 +2245,9 @@
       "word": "减肥"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to lessen; to decrease; to reduce; to lower",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to lessen; to decrease; to reduce",
       "gender": "",
       "pronounciation": "jiǎn shǎo",
       "quizResults": [],
@@ -2051,8 +2256,9 @@
       "word": "减少"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to propose; to suggest; to recommend; proposal; suggestion; recommendation; CL:个,点[dian3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to propose; to suggest; to recommend",
       "gender": "",
       "pronounciation": "jiàn yì",
       "quizResults": [],
@@ -2061,8 +2267,9 @@
       "word": "建议"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "in the future; future; the future; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "in the future; future; the future",
       "gender": "",
       "pronounciation": "jiāng lái",
       "quizResults": [],
@@ -2071,7 +2278,8 @@
       "word": "将来"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "award money; premium; a bonus",
       "gender": "",
       "pronounciation": "jiǎng jīn",
@@ -2081,7 +2289,8 @@
       "word": "奖金"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to reduce; to lower; to bring down",
       "gender": "",
       "pronounciation": "jiàng dī",
@@ -2091,7 +2300,8 @@
       "word": "降低"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to descend; to land",
       "gender": "",
       "pronounciation": "jiàng luò",
@@ -2101,8 +2311,9 @@
       "word": "降落"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to hand over; to deliver; to pay (money); to turn over; to make friends; to intersect (lines)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to hand over; to deliver; to pay (money)",
       "gender": "",
       "pronounciation": "jiāo",
       "quizResults": [],
@@ -2111,8 +2322,9 @@
       "word": "交"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "exchange; give-and-take; to exchange; to alternate; communication; alternating current (electricity)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "exchange; give-and-take; to exchange",
       "gender": "",
       "pronounciation": "jiāo liú",
       "quizResults": [],
@@ -2121,8 +2333,9 @@
       "word": "交流"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "traffic; communications; liaison; to be connected",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "traffic; communications; liaison",
       "gender": "",
       "pronounciation": "jiāo tōng",
       "quizResults": [],
@@ -2131,8 +2344,9 @@
       "word": "交通"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "suburban district; outskirts; suburbs; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "suburban district; outskirts; suburbs",
       "gender": "",
       "pronounciation": "jiāo qū",
       "quizResults": [],
@@ -2141,8 +2355,9 @@
       "word": "郊区"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "arrogant; full of oneself; conceited; proud of sth; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "arrogant; full of oneself; conceited",
       "gender": "",
       "pronounciation": "jiāo ào",
       "quizResults": [],
@@ -2151,7 +2366,8 @@
       "word": "骄傲"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "dumpling; pot-sticker; CL:个,只[zhi1]",
       "gender": "",
       "pronounciation": "jiǎo zi",
@@ -2161,8 +2377,9 @@
       "word": "饺子"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "professor; to instruct; to lecture on; CL:个,位[wei4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "professor; to instruct; to lecture on",
       "gender": "",
       "pronounciation": "jiào shòu",
       "quizResults": [],
@@ -2171,7 +2388,8 @@
       "word": "教授"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to educate; to teach; education",
       "gender": "",
       "pronounciation": "jiào yù",
@@ -2181,7 +2399,8 @@
       "word": "教育"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to accept; to receive",
       "gender": "",
       "pronounciation": "jiē shòu",
@@ -2191,8 +2410,9 @@
       "word": "接受"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to catch and hold on; to continue; to go on to do sth; to follow; to carry on; then; after that; subsequently; to proceed; to ensue; in turn; in one's turn",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to catch and hold on; to continue; to go on to do sth",
       "gender": "",
       "pronounciation": "jiē zhe",
       "quizResults": [],
@@ -2201,8 +2421,9 @@
       "word": "接着"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "result; outcome; effect; in the event; so that",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "result; outcome; effect",
       "gender": "",
       "pronounciation": "jié guǒ",
       "quizResults": [],
@@ -2211,8 +2432,9 @@
       "word": "结果"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "festival; holiday; node; joint; section; segment; part; to economize; to save; to abridge; moral integrity; classifier for segments, e.g. lessons, train wagons, biblical verses; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "festival; holiday; node",
       "gender": "",
       "pronounciation": "jié",
       "quizResults": [],
@@ -2221,8 +2443,9 @@
       "word": "节"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to economize; to conserve (resources); economy; frugal",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to economize; to conserve (resources); economy",
       "gender": "",
       "pronounciation": "jié yuē",
       "quizResults": [],
@@ -2231,8 +2454,9 @@
       "word": "节约"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "explanation; to explain; to interpret; to resolve; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "explanation; to explain; to interpret",
       "gender": "",
       "pronounciation": "jiě shì",
       "quizResults": [],
@@ -2241,8 +2465,9 @@
       "word": "解释"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "despite; although; even though; in spite of; unhesitatingly; do not hesitate (to ask, complain etc); (go ahead and do it) without hesitating",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "despite; although; even though",
       "gender": "",
       "pronounciation": "jǐn guǎn",
       "quizResults": [],
@@ -2251,8 +2476,9 @@
       "word": "尽管"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:阵[zhen4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "nervous; keyed up; intense",
       "gender": "",
       "pronounciation": "jǐn zhāng",
       "quizResults": [],
@@ -2261,7 +2487,8 @@
       "word": "紧张"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to prohibit; to forbid; to ban",
       "gender": "",
       "pronounciation": "jìn zhǐ",
@@ -2271,8 +2498,9 @@
       "word": "禁止"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to advance; to conduct; underway; in progress; to do; to carry out; to carry on; to execute",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to advance; to conduct; underway",
       "gender": "",
       "pronounciation": "jìn xíng",
       "quizResults": [],
@@ -2281,7 +2509,8 @@
       "word": "进行"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "Beijing opera; CL:场[chang3] ,出[chu1]",
       "gender": "",
       "pronounciation": "jīng jù",
@@ -2291,7 +2520,8 @@
       "word": "京剧"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "splendid; brilliant",
       "gender": "",
       "pronounciation": "jīng cǎi",
@@ -2301,7 +2531,8 @@
       "word": "精彩"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "economy; economic",
       "gender": "",
       "pronounciation": "jīng jì",
@@ -2311,8 +2542,9 @@
       "word": "经济"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "experience; to experience; to go through; CL:个, 次[Ci4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "experience; to experience; to go through",
       "gender": "",
       "pronounciation": "jīng lì",
       "quizResults": [],
@@ -2321,7 +2553,8 @@
       "word": "经历"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to experience; experience",
       "gender": "",
       "pronounciation": "jīng yàn",
@@ -2331,8 +2564,9 @@
       "word": "经验"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "scenery; scene; landscape; view",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "scenery; scene; landscape",
       "gender": "",
       "pronounciation": "jǐng sè",
       "quizResults": [],
@@ -2341,8 +2575,9 @@
       "word": "景色"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "police; policeman; policewoman; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "police; policeman; policewoman",
       "gender": "",
       "pronounciation": "jǐng chá",
       "quizResults": [],
@@ -2351,7 +2586,8 @@
       "word": "警察"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to compete; competition",
       "gender": "",
       "pronounciation": "jìng zhēng",
@@ -2361,8 +2597,9 @@
       "word": "竞争"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "unexpectedly; to one's surprise; in spite of everything; in that crazy way; actually; to go as far as to",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "unexpectedly; to one's surprise; in spite of everything",
       "gender": "",
       "pronounciation": "jìng rán",
       "quizResults": [],
@@ -2371,7 +2608,8 @@
       "word": "竟然"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "mirror; CL:面[mian4] ,个",
       "gender": "",
       "pronounciation": "jìng zi",
@@ -2381,8 +2619,9 @@
       "word": "镜子"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "after all (when all is said and done); actually; outcome; result",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "after all (when all is said and done); actually; outcome",
       "gender": "",
       "pronounciation": "jiū jìng",
       "quizResults": [],
@@ -2391,8 +2630,9 @@
       "word": "究竟"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to lift; to hold up; to cite; to enumerate; to act; to raise; to choose; to elect",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to lift; to hold up; to cite",
       "gender": "",
       "pronounciation": "jǔ",
       "quizResults": [],
@@ -2401,7 +2641,8 @@
       "word": "举"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to conduct; to hold",
       "gender": "",
       "pronounciation": "jǔ bàn",
@@ -2411,7 +2652,8 @@
       "word": "举办"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to hold (a meeting, ceremony etc)",
       "gender": "",
       "pronounciation": "jǔ xíng",
@@ -2421,7 +2663,8 @@
       "word": "举行"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to refuse; to decline; to reject",
       "gender": "",
       "pronounciation": "jù jué",
@@ -2431,8 +2674,9 @@
       "word": "拒绝"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "party; gathering; to meet; to get together",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "party; gathering; to meet",
       "gender": "",
       "pronounciation": "jù huì",
       "quizResults": [],
@@ -2441,7 +2685,8 @@
       "word": "聚会"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "distance; to be apart; CL:个",
       "gender": "",
       "pronounciation": "jù lí",
@@ -2451,7 +2696,8 @@
       "word": "距离"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to play a joke; to make fun of; to joke",
       "gender": "",
       "pronounciation": "kāi wán xiào",
@@ -2461,8 +2707,9 @@
       "word": "开玩笑"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to feel happy; to rejoice; to have a great time; to make fun of sb",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to feel happy; to rejoice; to have a great time",
       "gender": "",
       "pronounciation": "kāi xīn",
       "quizResults": [],
@@ -2471,8 +2718,9 @@
       "word": "开心"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "way of looking at a thing; view; opinion; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "way of looking at a thing; view; opinion",
       "gender": "",
       "pronounciation": "kàn fǎ",
       "quizResults": [],
@@ -2481,7 +2729,8 @@
       "word": "看法"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "roast duck",
       "gender": "",
       "pronounciation": "kǎo yā",
@@ -2491,7 +2740,8 @@
       "word": "烤鸭"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to think over; to consider; consideration",
       "gender": "",
       "pronounciation": "kǎo lv4",
@@ -2501,7 +2751,8 @@
       "word": "考虑"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "classifier for trees, cabbages, plants etc",
       "gender": "",
       "pronounciation": "kē",
@@ -2511,8 +2762,9 @@
       "word": "棵"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "science; scientific knowledge; scientific; CL:门[men2] ,个,种[zhong3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "science; scientific knowledge; scientific",
       "gender": "",
       "pronounciation": "kē xué",
       "quizResults": [],
@@ -2521,7 +2773,8 @@
       "word": "科学"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to cough; CL:阵[zhen4]",
       "gender": "",
       "pronounciation": "ké sou",
@@ -2531,7 +2784,8 @@
       "word": "咳嗽"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "pitiful; pathetic",
       "gender": "",
       "pronounciation": "kě lián",
@@ -2541,7 +2795,8 @@
       "word": "可怜"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "but; however",
       "gender": "",
       "pronounciation": "kě shì",
@@ -2551,7 +2806,8 @@
       "word": "可是"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "it is a pity; what a pity; (it's) too bad",
       "gender": "",
       "pronounciation": "kě xī",
@@ -2561,7 +2817,8 @@
       "word": "可惜"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "drawing room (room for arriving guests); living room; CL:间[jian1]",
       "gender": "",
       "pronounciation": "kè tīng",
@@ -2571,8 +2828,9 @@
       "word": "客厅"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to be sure; to be certain; sure; certain; definite; to confirm; to affirm; affirmative",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to be sure; to be certain; sure",
       "gender": "",
       "pronounciation": "kěn dìng",
       "quizResults": [],
@@ -2581,8 +2839,9 @@
       "word": "肯定"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to empty; vacant; unoccupied; space; leisure; free time;",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to empty; vacant; unoccupied",
       "gender": "",
       "pronounciation": "kōng",
       "quizResults": [],
@@ -2591,7 +2850,8 @@
       "word": "空"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "air; atmosphere",
       "gender": "",
       "pronounciation": "kōng qì",
@@ -2601,8 +2861,9 @@
       "word": "空气"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to fear; to dread; I'm afraid that...; perhaps; maybe",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to fear; to dread; I'm afraid that...",
       "gender": "",
       "pronounciation": "kǒng pà",
       "quizResults": [],
@@ -2611,8 +2872,9 @@
       "word": "恐怕"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "bitter; hardship; pain; to suffer; painstaking",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "bitter; hardship; pain",
       "gender": "",
       "pronounciation": "kǔ",
       "quizResults": [],
@@ -2621,7 +2883,8 @@
       "word": "苦"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "mineral spring water; CL:瓶[ping2] ,杯[bei1]",
       "gender": "",
       "pronounciation": "kuàng quán shuǐ",
@@ -2631,8 +2894,9 @@
       "word": "矿泉水"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to be trapped; to surround; to be hard-pressed; stranded; destitute",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to be trapped; to surround; to be hard-pressed",
       "gender": "",
       "pronounciation": "kùn",
       "quizResults": [],
@@ -2641,8 +2905,9 @@
       "word": "困"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "(financial etc) difficulty; problem; issue; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "(financial etc) difficulty; problem; issue",
       "gender": "",
       "pronounciation": "kùn nan",
       "quizResults": [],
@@ -2651,7 +2916,8 @@
       "word": "困难"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "rubbish bin",
       "gender": "",
       "pronounciation": "lā jī tǒng",
@@ -2661,8 +2927,9 @@
       "word": "垃圾桶"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to pull; to play (string instruments); to drag; to draw",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to pull; to play (string instruments); to drag",
       "gender": "",
       "pronounciation": "lā",
       "quizResults": [],
@@ -2671,7 +2938,8 @@
       "word": "拉"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "hot (spicy); pungent",
       "gender": "",
       "pronounciation": "là",
@@ -2681,7 +2949,8 @@
       "word": "辣"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "there's not enough time (to do sth); it's too late (to do sth)",
       "gender": "",
       "pronounciation": "lái bu jí",
@@ -2691,7 +2960,8 @@
       "word": "来不及"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "there's still time; able to do sth in time",
       "gender": "",
       "pronounciation": "lái de jí",
@@ -2701,7 +2971,8 @@
       "word": "来得及"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to come from (a place); From: (in email header)",
       "gender": "",
       "pronounciation": "lái zì",
@@ -2711,7 +2982,8 @@
       "word": "来自"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "lazy",
       "gender": "",
       "pronounciation": "lǎn",
@@ -2721,7 +2993,8 @@
       "word": "懒"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to waste; to squander",
       "gender": "",
       "pronounciation": "làng fèi",
@@ -2731,7 +3004,8 @@
       "word": "浪费"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "romantic",
       "gender": "",
       "pronounciation": "làng màn",
@@ -2741,7 +3015,8 @@
       "word": "浪漫"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "tiger; CL:只[zhi1]",
       "gender": "",
       "pronounciation": "lǎo hǔ",
@@ -2751,7 +3026,8 @@
       "word": "老虎"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "calm; cool-headed",
       "gender": "",
       "pronounciation": "lěng jìng",
@@ -2761,7 +3037,8 @@
       "word": "冷静"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "a barber; hairdressing",
       "gender": "",
       "pronounciation": "lǐ fà",
@@ -2771,8 +3048,9 @@
       "word": "理发"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to comprehend; to understand; comprehension; understanding",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to comprehend; to understand; comprehension",
       "gender": "",
       "pronounciation": "lǐ jiě",
       "quizResults": [],
@@ -2781,8 +3059,9 @@
       "word": "理解"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "a dream; an ideal; perfection; ideal; perfect; desirable; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "a dream; an ideal; perfection",
       "gender": "",
       "pronounciation": "lǐ xiǎng",
       "quizResults": [],
@@ -2791,7 +3070,8 @@
       "word": "理想"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "Sunday",
       "gender": "",
       "pronounciation": "lǐ bài tiān",
@@ -2801,7 +3081,8 @@
       "word": "礼拜天"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "courtesy; manners",
       "gender": "",
       "pronounciation": "lǐ mào",
@@ -2811,7 +3092,8 @@
       "word": "礼貌"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "for example; for instance; such as",
       "gender": "",
       "pronounciation": "lì rú",
@@ -2821,7 +3103,8 @@
       "word": "例如"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "strength; CL:把[ba3]",
       "gender": "",
       "pronounciation": "lì qi",
@@ -2831,8 +3114,9 @@
       "word": "力气"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "difficult to deal with; difficult to endure; ferocious; radical; serious; terrible; violent; tremendous; awesome",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "difficult to deal with; difficult to endure; ferocious",
       "gender": "",
       "pronounciation": "lì hai",
       "quizResults": [],
@@ -2841,7 +3125,8 @@
       "word": "厉害"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "two (colloquial equivalent of 两个); both; some",
       "gender": "",
       "pronounciation": "liǎ",
@@ -2851,8 +3136,9 @@
       "word": "俩"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "connection; contact; relation; in touch with; to integrate; to link; to touch",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "connection; contact; relation",
       "gender": "",
       "pronounciation": "lián xì",
       "quizResults": [],
@@ -2861,8 +3147,9 @@
       "word": "联系"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to link; to join; to connect; continuously; in succession; including; (used with 也, 都 etc) even; company (military)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to link; to join; to connect",
       "gender": "",
       "pronounciation": "lián",
       "quizResults": [],
@@ -2871,7 +3158,8 @@
       "word": "连"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "nice and cold; pleasantly cool",
       "gender": "",
       "pronounciation": "liáng kuai",
@@ -2881,7 +3169,8 @@
       "word": "凉快"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "change (of money); small change; pocket money",
       "gender": "",
       "pronounciation": "líng qián",
@@ -2891,8 +3180,9 @@
       "word": "零钱"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "additional; in addition; besides; separate; other; moreover; furthermore",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "additional; in addition; besides",
       "gender": "",
       "pronounciation": "lìng wài",
       "quizResults": [],
@@ -2901,7 +3191,8 @@
       "word": "另外"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "fluent",
       "gender": "",
       "pronounciation": "liú lì",
@@ -2911,8 +3202,9 @@
       "word": "流利"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to spread; to rage (of contagious disease); popular; fashionable; prevalent; (math.) manifold",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to spread; to rage (of contagious disease); popular",
       "gender": "",
       "pronounciation": "liú xíng",
       "quizResults": [],
@@ -2921,8 +3213,9 @@
       "word": "流行"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to retain; to stay; to remain; to keep; to preserve; to leave (eg a message)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to retain; to stay; to remain",
       "gender": "",
       "pronounciation": "liú",
       "quizResults": [],
@@ -2931,8 +3224,9 @@
       "word": "留"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to travel; journey; trip; CL:趟[tang4],次[ci4],個|个[ge4];",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to travel; journey; trip",
       "gender": "",
       "pronounciation": "lǚ xíng",
       "quizResults": [],
@@ -2941,8 +3235,9 @@
       "word": "旅行"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "in confusion or disorder; in a confused state of mind; disorder; upheaval; riot; illicit sexual relations; to throw into disorder; to mix up; indiscriminate; random; arbitrary",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "in confusion or disorder; in a confused state of mind; disorder",
       "gender": "",
       "pronounciation": "luàn",
       "quizResults": [],
@@ -2951,7 +3246,8 @@
       "word": "乱"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "lawyer",
       "gender": "",
       "pronounciation": "lv4 shī",
@@ -2961,8 +3257,9 @@
       "word": "律师"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "inconvenient; troublesome; to trouble or bother sb; to put sb to trouble",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "inconvenient; troublesome; to trouble or bother sb",
       "gender": "",
       "pronounciation": "má fan",
       "quizResults": [],
@@ -2971,8 +3268,9 @@
       "word": "麻烦"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "careless; sloppy; negligent; skimpy",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "careless; sloppy; negligent",
       "gender": "",
       "pronounciation": "mǎ hu",
       "quizResults": [],
@@ -2981,8 +3279,9 @@
       "word": "马虎"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "full; filled; packed; fully; completely; quite; to reach the limit; to satisfy; satisfied; contented; to fill; abbr. for Manchurian",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "full; filled; packed",
       "gender": "",
       "pronounciation": "mǎn",
       "quizResults": [],
@@ -2991,7 +3290,8 @@
       "word": "满"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "hair; feather; down",
       "gender": "",
       "pronounciation": "máo",
@@ -3001,7 +3301,8 @@
       "word": "毛"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "towel; CL:条[tiao2]",
       "gender": "",
       "pronounciation": "máo jīn",
@@ -3011,7 +3312,8 @@
       "word": "毛巾"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "beautiful",
       "gender": "",
       "pronounciation": "měi lì",
@@ -3021,7 +3323,8 @@
       "word": "美丽"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "dream; CL:场[chang2] ,个",
       "gender": "",
       "pronounciation": "mèng",
@@ -3031,8 +3334,9 @@
       "word": "梦"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to lose the way; lost; labyrinth; labyrinthus vestibularis (of the inner ear)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to lose the way; lost; labyrinth",
       "gender": "",
       "pronounciation": "mí lù",
       "quizResults": [],
@@ -3041,8 +3345,9 @@
       "word": "迷路"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "code; secret code; password; pin number",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "code; secret code; password",
       "gender": "",
       "pronounciation": "mì mǎ",
       "quizResults": [],
@@ -3051,7 +3356,8 @@
       "word": "密码"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "free (of charge)",
       "gender": "",
       "pronounciation": "miǎn fèi",
@@ -3061,7 +3367,8 @@
       "word": "免费"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "second (of time); unit of angle or arc equivalent to one sixtieth of a degree",
       "gender": "",
       "pronounciation": "miǎo",
@@ -3071,7 +3378,8 @@
       "word": "秒"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "nationality; ethnic group; CL:个",
       "gender": "",
       "pronounciation": "mín zú",
@@ -3081,7 +3389,8 @@
       "word": "民族"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "mother; also pr. with light tone [mu3 qin5]; CL:个",
       "gender": "",
       "pronounciation": "mǔ qīn",
@@ -3091,8 +3400,9 @@
       "word": "母亲"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "purpose; aim; goal; target; objective; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "purpose; aim; goal",
       "gender": "",
       "pronounciation": "mù dì",
       "quizResults": [],
@@ -3101,7 +3411,8 @@
       "word": "目的"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to be patient; patient (adjective)",
       "gender": "",
       "pronounciation": "nài xīn",
@@ -3111,7 +3422,8 @@
       "word": "耐心"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "don't tell me...; could it be that...?",
       "gender": "",
       "pronounciation": "nán dào",
@@ -3121,7 +3433,8 @@
       "word": "难道"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to feel unwell; to suffer pain; to be difficult to bear",
       "gender": "",
       "pronounciation": "nán shòu",
@@ -3131,8 +3444,9 @@
       "word": "难受"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "inside; inner; internal; within; interior",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "inside; inner; internal",
       "gender": "",
       "pronounciation": "nèi",
       "quizResults": [],
@@ -3141,8 +3455,9 @@
       "word": "内"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "content; substance; details; CL:个,项[xiang4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "content; substance; details",
       "gender": "",
       "pronounciation": "nèi róng",
       "quizResults": [],
@@ -3151,8 +3466,9 @@
       "word": "内容"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "capability; capable; able; ability; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "capability; capable; able",
       "gender": "",
       "pronounciation": "néng lì",
       "quizResults": [],
@@ -3161,7 +3477,8 @@
       "word": "能力"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "(a person's) age; CL:把[ba3] ,个",
       "gender": "",
       "pronounciation": "nián líng",
@@ -3171,8 +3488,9 @@
       "word": "年龄"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to do (to manage); to manage; to handle; to play with; to fool with; to mess with; to fix; to toy with",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to do (to manage); to manage; to handle",
       "gender": "",
       "pronounciation": "nòng",
       "quizResults": [],
@@ -3181,7 +3499,8 @@
       "word": "弄"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "warm (weather); nice and warm",
       "gender": "",
       "pronounciation": "nuǎn huo",
@@ -3191,7 +3510,8 @@
       "word": "暖和"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "occasionally; once in a while; sometimes",
       "gender": "",
       "pronounciation": "ǒu ěr",
@@ -3201,7 +3521,8 @@
       "word": "偶尔"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to line up; queue up; form a line",
       "gender": "",
       "pronounciation": "pái duì",
@@ -3211,8 +3532,9 @@
       "word": "排队"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to arrange; arrangement; array; permutation (i.e. ordered choice of n elements out of m)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to arrange; arrangement; array",
       "gender": "",
       "pronounciation": "pái liè",
       "quizResults": [],
@@ -3221,7 +3543,8 @@
       "word": "排列"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to decide; to determine; CL:个",
       "gender": "",
       "pronounciation": "pàn duàn",
@@ -3231,7 +3554,8 @@
       "word": "判断"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to accompany; to keep sb company",
       "gender": "",
       "pronounciation": "péi",
@@ -3241,7 +3565,8 @@
       "word": "陪"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to criticize; criticism; CL:个",
       "gender": "",
       "pronounciation": "pī píng",
@@ -3251,7 +3576,8 @@
       "word": "批评"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "skin; CL:种[zhong3]",
       "gender": "",
       "pronounciation": "pí fū",
@@ -3261,8 +3587,9 @@
       "word": "皮肤"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "temperament; disposition; temper; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "temperament; disposition; temper",
       "gender": "",
       "pronounciation": "pí qi",
       "quizResults": [],
@@ -3271,8 +3598,9 @@
       "word": "脾气"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "piece of writing; sheet; bound set of bamboo slips used for record keeping (old); classifier for written items: chapter, article",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "piece of writing; sheet; bound set of bamboo slips used for record keeping (old)",
       "gender": "",
       "pronounciation": "piān",
       "quizResults": [],
@@ -3281,8 +3609,9 @@
       "word": "篇"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to cheat; to swindle; to deceive; to fool; to hoodwink; to trick",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to cheat; to swindle; to deceive",
       "gender": "",
       "pronounciation": "piàn",
       "quizResults": [],
@@ -3291,8 +3620,9 @@
       "word": "骗"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "table tennis; ping-pong; ping pong; table tennis ball; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "table tennis; ping-pong; ping pong",
       "gender": "",
       "pronounciation": "pīng pāng qiú",
       "quizResults": [],
@@ -3301,7 +3631,8 @@
       "word": "乒乓球"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "in normal times; in peacetime",
       "gender": "",
       "pronounciation": "píng shí",
@@ -3311,8 +3642,9 @@
       "word": "平时"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "broken; damaged; worn out; to break, split or cleave; to get rid of; to destroy; to break with; to defeat; to capture (a city etc); to expose the truth of",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "broken; damaged; worn out",
       "gender": "",
       "pronounciation": "pò",
       "quizResults": [],
@@ -3321,7 +3653,8 @@
       "word": "破"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "grape",
       "gender": "",
       "pronounciation": "pú tao",
@@ -3331,8 +3664,9 @@
       "word": "葡萄"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "universal; general; widespread; common",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "universal; general; widespread",
       "gender": "",
       "pronounciation": "pǔ biàn",
       "quizResults": [],
@@ -3341,7 +3675,8 @@
       "word": "普遍"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech",
       "gender": "",
       "pronounciation": "pǔ tōng huà",
@@ -3351,7 +3686,8 @@
       "word": "普通话"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "next; secondly",
       "gender": "",
       "pronounciation": "qí cì",
@@ -3361,7 +3697,8 @@
       "word": "其次"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "among; in; included among these",
       "gender": "",
       "pronounciation": "qí zhōng",
@@ -3371,8 +3708,9 @@
       "word": "其中"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "climate; atmosphere; situation; CL:种[zhong3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "climate; atmosphere; situation",
       "gender": "",
       "pronounciation": "qì hòu",
       "quizResults": [],
@@ -3381,8 +3719,9 @@
       "word": "气候"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "ten million; countless; many; one must by all means",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "ten million; countless; many",
       "gender": "",
       "pronounciation": "qiān wàn",
       "quizResults": [],
@@ -3391,8 +3730,9 @@
       "word": "千万"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "visa; certificate; to certify; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "visa; certificate; to certify",
       "gender": "",
       "pronounciation": "qiān zhèng",
       "quizResults": [],
@@ -3401,8 +3741,9 @@
       "word": "签证"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "extort; knock; to strike; to knock (at a door); to hit",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "extort; knock; to strike",
       "gender": "",
       "pronounciation": "qiāo",
       "quizResults": [],
@@ -3411,7 +3752,8 @@
       "word": "敲"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "bridge; CL:座[zuo4]",
       "gender": "",
       "pronounciation": "qiáo",
@@ -3421,7 +3763,8 @@
       "word": "桥"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "chocolate (loanword); CL:块[kuai4]",
       "gender": "",
       "pronounciation": "qiǎo kè lì",
@@ -3431,7 +3774,8 @@
       "word": "巧克力"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "a relative (i.e. family relation); CL:门[men2] ,个,位[wei4]",
       "gender": "",
       "pronounciation": "qīn qi",
@@ -3441,8 +3785,9 @@
       "word": "亲戚"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "light (not heavy); light; easy; gentle; soft; reckless; unimportant; frivolous; small in number; unstressed; neutral",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "light (not heavy); light; easy",
       "gender": "",
       "pronounciation": "qīng",
       "quizResults": [],
@@ -3451,7 +3796,8 @@
       "word": "轻"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "gentle; relaxed",
       "gender": "",
       "pronounciation": "qīng sōng",
@@ -3461,8 +3807,9 @@
       "word": "轻松"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "circumstances; state of affairs; situation; CL:个,种[zhong3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "circumstances; state of affairs; situation",
       "gender": "",
       "pronounciation": "qíng kuàng",
       "quizResults": [],
@@ -3471,7 +3818,8 @@
       "word": "情况"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "exhausted; poor",
       "gender": "",
       "pronounciation": "qióng",
@@ -3481,8 +3829,9 @@
       "word": "穷"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "difference; to distinguish; to discriminate; to make a distinction; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "difference; to distinguish; to discriminate",
       "gender": "",
       "pronounciation": "qū bié",
       "quizResults": [],
@@ -3491,8 +3840,9 @@
       "word": "区别"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to take; to get; to choose; to fetch",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to take; to get; to choose",
       "gender": "",
       "pronounciation": "qǔ",
       "quizResults": [],
@@ -3501,7 +3851,8 @@
       "word": "取"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "whole; entire; complete",
       "gender": "",
       "pronounciation": "quán bù",
@@ -3511,8 +3862,9 @@
       "word": "全部"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "weak point; fault; shortcoming; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "weak point; fault; shortcoming",
       "gender": "",
       "pronounciation": "quē diǎn",
       "quizResults": [],
@@ -3521,8 +3873,9 @@
       "word": "缺点"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "lack; shortage of; shortfall; to be short (of); to lack",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "lack; shortage of; shortfall",
       "gender": "",
       "pronounciation": "quē shǎo",
       "quizResults": [],
@@ -3531,8 +3884,9 @@
       "word": "缺少"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "but; yet; however; while; to go back; to decline; to retreat; nevertheless; even though",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "but; yet; however",
       "gender": "",
       "pronounciation": "què",
       "quizResults": [],
@@ -3541,8 +3895,9 @@
       "word": "却"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "indeed; really; reliable; real; true",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "indeed; really; reliable",
       "gender": "",
       "pronounciation": "què shí",
       "quizResults": [],
@@ -3551,7 +3906,8 @@
       "word": "确实"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "however; yet; but",
       "gender": "",
       "pronounciation": "rán ér",
@@ -3561,7 +3917,8 @@
       "word": "然而"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "bustling with noise and excitement; lively",
       "gender": "",
       "pronounciation": "rè nao",
@@ -3571,8 +3928,9 @@
       "word": "热闹"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "any; whatever; whichever; whatsoever",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "any; whatever; whichever",
       "gender": "",
       "pronounciation": "rèn hé",
       "quizResults": [],
@@ -3581,8 +3939,9 @@
       "word": "任何"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "mission; assignment; task; duty; role; CL:项[xiang4] ,个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "mission; assignment; task",
       "gender": "",
       "pronounciation": "rèn wu",
       "quizResults": [],
@@ -3591,7 +3950,8 @@
       "word": "任务"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to throw; to throw away",
       "gender": "",
       "pronounciation": "rēng",
@@ -3601,7 +3961,8 @@
       "word": "扔"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "still; yet",
       "gender": "",
       "pronounciation": "réng rán",
@@ -3611,7 +3972,8 @@
       "word": "仍然"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "diary; CL:则[ze2] ,本[ben3] ,篇[pian1]",
       "gender": "",
       "pronounciation": "rì jì",
@@ -3621,7 +3983,8 @@
       "word": "日记"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "entrance",
       "gender": "",
       "pronounciation": "rù kǒu",
@@ -3631,7 +3994,8 @@
       "word": "入口"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to take a walk; to go for a walk",
       "gender": "",
       "pronounciation": "sàn bù",
@@ -3641,7 +4005,8 @@
       "word": "散步"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "forest; CL:片[pian4]",
       "gender": "",
       "pronounciation": "sēn lín",
@@ -3651,7 +4016,8 @@
       "word": "森林"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "sofa; CL:条[tiao2] ,张[zhang1]",
       "gender": "",
       "pronounciation": "shā fā",
@@ -3661,8 +4027,9 @@
       "word": "沙发"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to grieve; to be broken-hearted; to feel deeply hurt; sad",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to grieve; to be broken-hearted; to feel deeply hurt",
       "gender": "",
       "pronounciation": "shāng xīn",
       "quizResults": [],
@@ -3671,7 +4038,8 @@
       "word": "伤心"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to consult; to talk over; to discuss",
       "gender": "",
       "pronounciation": "shāng liang",
@@ -3681,7 +4049,8 @@
       "word": "商量"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "a little bit",
       "gender": "",
       "pronounciation": "shāo wēi",
@@ -3691,7 +4060,8 @@
       "word": "稍微"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "scoop; ladle; CL:把[ba3]",
       "gender": "",
       "pronounciation": "sháo zi",
@@ -3701,7 +4071,8 @@
       "word": "勺子"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "society; CL:个",
       "gender": "",
       "pronounciation": "shè huì",
@@ -3711,8 +4082,9 @@
       "word": "社会"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "deep; late; profound; dark (of color, water etc); deep",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "deep; late; profound",
       "gender": "",
       "pronounciation": "shēn",
       "quizResults": [],
@@ -3721,7 +4093,8 @@
       "word": "深"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to apply for sth; application (form etc); CL:份[fen4]",
       "gender": "",
       "pronounciation": "shēn qǐng",
@@ -3731,7 +4104,8 @@
       "word": "申请"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "so much so that; even",
       "gender": "",
       "pronounciation": "shèn zhì",
@@ -3741,8 +4115,9 @@
       "word": "甚至"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "life; activity; to live; livelihood",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "life; activity; to live",
       "gender": "",
       "pronounciation": "shēng huó",
       "quizResults": [],
@@ -3751,8 +4126,9 @@
       "word": "生活"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "life; living; biological; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "life; living; biological",
       "gender": "",
       "pronounciation": "shēng mìng",
       "quizResults": [],
@@ -3761,7 +4137,8 @@
       "word": "生命"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "life force; vitality;",
       "gender": "",
       "pronounciation": "shēng yì",
@@ -3771,8 +4148,9 @@
       "word": "生意"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to do without; to economize; to save; to omit; to leave out; province; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to do without; to economize; to save",
       "gender": "",
       "pronounciation": "shěng",
       "quizResults": [],
@@ -3781,7 +4159,8 @@
       "word": "省"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to remain; to be left; to have as remainder",
       "gender": "",
       "pronounciation": "shèng",
@@ -3791,8 +4170,9 @@
       "word": "剩"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to be defeated; to lose; to fail (e.g. experiments); failure; defeat; CL:次[ci4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to be defeated; to lose; to fail (e.g. experiments)",
       "gender": "",
       "pronounciation": "shī bài",
       "quizResults": [],
@@ -3801,7 +4181,8 @@
       "word": "失败"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "disappointed; to lose hope; to despair",
       "gender": "",
       "pronounciation": "shī wàng",
@@ -3811,8 +4192,9 @@
       "word": "失望"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "master; qualified worker; respectful form of address for older men; CL:个,位[wei4] ,名[ming2]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "master; qualified worker; respectful form of address for older men",
       "gender": "",
       "pronounciation": "shī fu",
       "quizResults": [],
@@ -3821,8 +4203,9 @@
       "word": "师傅"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to divide into ten equal parts; very; hundred percent; completely; extremely; utterly; absolutely",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to divide into ten equal parts; very; hundred percent",
       "gender": "",
       "pronounciation": "shí fēn",
       "quizResults": [],
@@ -3831,7 +4214,8 @@
       "word": "十分"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "actual; reality; practice",
       "gender": "",
       "pronounciation": "shí jì",
@@ -3841,8 +4225,9 @@
       "word": "实际"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "in reality; honestly; really; verily; concrete",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "in reality; honestly; really",
       "gender": "",
       "pronounciation": "shí zài",
       "quizResults": [],
@@ -3851,8 +4236,9 @@
       "word": "实在"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to cause; to enable; to use; to employ; to make; to send; to instruct sb to do sth; envoy; messenger",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to cause; to enable; to use",
       "gender": "",
       "pronounciation": "shǐ",
       "quizResults": [],
@@ -3861,8 +4247,9 @@
       "word": "使"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to use; to employ; to apply; to make use of",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to use; to employ; to apply",
       "gender": "",
       "pronounciation": "shǐ yòng",
       "quizResults": [],
@@ -3871,7 +4258,8 @@
       "word": "使用"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "century; CL:个",
       "gender": "",
       "pronounciation": "shì jì",
@@ -3881,7 +4269,8 @@
       "word": "世纪"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "whether (or not); if; is or isn't",
       "gender": "",
       "pronounciation": "shì fǒu",
@@ -3891,7 +4280,8 @@
       "word": "是否"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to fit; to suit",
       "gender": "",
       "pronounciation": "shì hé",
@@ -3901,8 +4291,9 @@
       "word": "适合"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to suit; to fit; to be suitable; to adapt; to get used to sth",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to suit; to fit; to be suitable",
       "gender": "",
       "pronounciation": "shì yìng",
       "quizResults": [],
@@ -3911,8 +4302,9 @@
       "word": "适应"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to receive; to accept; to collect; in care of (used on address line after name)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to receive; to accept; to collect",
       "gender": "",
       "pronounciation": "shōu",
       "quizResults": [],
@@ -3921,8 +4313,9 @@
       "word": "收"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to take in; income; revenue; CL:笔[bi3] ,个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to take in; income; revenue",
       "gender": "",
       "pronounciation": "shōu rù",
       "quizResults": [],
@@ -3931,8 +4324,9 @@
       "word": "收入"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to put in order; to tidy up; to pack; to repair; to punish (colloquial); to manage",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to put in order; to tidy up; to pack",
       "gender": "",
       "pronounciation": "shōu shi",
       "quizResults": [],
@@ -3941,7 +4335,8 @@
       "word": "收拾"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "capital (city); CL:个",
       "gender": "",
       "pronounciation": "shǒu dū",
@@ -3951,7 +4346,8 @@
       "word": "首都"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "first (of all); in the first place",
       "gender": "",
       "pronounciation": "shǒu xiān",
@@ -3961,7 +4357,8 @@
       "word": "首先"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "unbearable; unable to endure; can't stand",
       "gender": "",
       "pronounciation": "shòu bù liǎo",
@@ -3971,8 +4368,9 @@
       "word": "受不了"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to suffer; obtained; given; to receive",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to suffer; obtained; given",
       "gender": "",
       "pronounciation": "shòu dào",
       "quizResults": [],
@@ -3981,7 +4379,8 @@
       "word": "受到"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "salesperson; CL:个",
       "gender": "",
       "pronounciation": "shòu huò yuán",
@@ -3991,8 +4390,9 @@
       "word": "售货员"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to transport; to lose; to donate; to enter (a password)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to transport; to lose; to donate",
       "gender": "",
       "pronounciation": "shū",
       "quizResults": [],
@@ -4001,7 +4401,8 @@
       "word": "输"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to be familiar with; to know well",
       "gender": "",
       "pronounciation": "shú xī",
@@ -4011,7 +4412,8 @@
       "word": "熟悉"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "quantity; amount; CL:个",
       "gender": "",
       "pronounciation": "shù liàng",
@@ -4021,8 +4423,9 @@
       "word": "数量"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "numeral; digit; number; figure; amount; digital (electronics etc); CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "numeral; digit; number",
       "gender": "",
       "pronounciation": "shù zì",
       "quizResults": [],
@@ -4031,8 +4434,9 @@
       "word": "数字"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "handsome; graceful; smart; commander in chief",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "handsome; graceful; smart",
       "gender": "",
       "pronounciation": "shuài",
       "quizResults": [],
@@ -4041,7 +4445,8 @@
       "word": "帅"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "conveniently; in passing; without much extra effort",
       "gender": "",
       "pronounciation": "shùn biàn",
@@ -4051,7 +4456,8 @@
       "word": "顺便"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "smoothly; without a hitch",
       "gender": "",
       "pronounciation": "shùn lì",
@@ -4061,7 +4467,8 @@
       "word": "顺利"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "sequence; order",
       "gender": "",
       "pronounciation": "shùn xù",
@@ -4071,8 +4478,9 @@
       "word": "顺序"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to explain; to illustrate; explanation; directions; caption; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to explain; to illustrate; explanation",
       "gender": "",
       "pronounciation": "shuō míng",
       "quizResults": [],
@@ -4081,7 +4489,8 @@
       "word": "说明"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "master's degree; learned person",
       "gender": "",
       "pronounciation": "shuò shì",
@@ -4091,8 +4500,9 @@
       "word": "硕士"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to die; impassable; uncrossable; inflexible; rigid; extremely",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to die; impassable; uncrossable",
       "gender": "",
       "pronounciation": "sǐ",
       "quizResults": [],
@@ -4101,7 +4511,8 @@
       "word": "死"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "plastic bag",
       "gender": "",
       "pronounciation": "sù liào dài",
@@ -4111,8 +4522,9 @@
       "word": "塑料袋"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "speed; rate; velocity; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "speed; rate; velocity",
       "gender": "",
       "pronounciation": "sù dù",
       "quizResults": [],
@@ -4121,8 +4533,9 @@
       "word": "速度"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "sour; tart; sick at heart; grieved; sore; aching; acid",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "sour; tart; sick at heart",
       "gender": "",
       "pronounciation": "suān",
       "quizResults": [],
@@ -4131,8 +4544,9 @@
       "word": "酸"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "as one wishes; as one pleases; at random; negligent; casual; wanton",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "as one wishes; as one pleases; at random",
       "gender": "",
       "pronounciation": "suí biàn",
       "quizResults": [],
@@ -4141,7 +4555,8 @@
       "word": "随便"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "along with; in the wake of; following",
       "gender": "",
       "pronounciation": "suí zhe",
@@ -4151,7 +4566,8 @@
       "word": "随着"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "grandson (paternal)",
       "gender": "",
       "pronounciation": "sūn zi",
@@ -4161,8 +4577,9 @@
       "word": "孙子"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "all; to possess; to have; to own",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "all; to possess; to have",
       "gender": "",
       "pronounciation": "suǒ yǒu",
       "quizResults": [],
@@ -4171,8 +4588,9 @@
       "word": "所有"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "desk; platform; stage; terrace; stand; support; station; broadcasting station; desk; classifier for vehicles or machines; Taiwan (abbr.)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "desk; platform; stage",
       "gender": "",
       "pronounciation": "tái",
       "quizResults": [],
@@ -4181,7 +4599,8 @@
       "word": "台"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to lift; to raise; (of two or more persons) to carry",
       "gender": "",
       "pronounciation": "tái",
@@ -4191,8 +4610,9 @@
       "word": "抬"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "manner; bearing; attitude; approach; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "manner; bearing; attitude",
       "gender": "",
       "pronounciation": "tài du",
       "quizResults": [],
@@ -4201,7 +4621,8 @@
       "word": "态度"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "play the piano",
       "gender": "",
       "pronounciation": "tán gāng qín",
@@ -4211,8 +4632,9 @@
       "word": "弹钢琴"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to discuss; to chat; to converse; to talk; to speak",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to discuss; to chat; to converse",
       "gender": "",
       "pronounciation": "tán",
       "quizResults": [],
@@ -4221,7 +4643,8 @@
       "word": "谈"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "soup; broth; hot water",
       "gender": "",
       "pronounciation": "tāng",
@@ -4231,8 +4654,9 @@
       "word": "汤"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "sugar; sweets; candy; CL:颗[ke1] ,块[kuai4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "sugar; sweets; candy",
       "gender": "",
       "pronounciation": "táng",
       "quizResults": [],
@@ -4241,7 +4665,8 @@
       "word": "糖"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to recline; to lie down",
       "gender": "",
       "pronounciation": "tǎng",
@@ -4251,7 +4676,8 @@
       "word": "躺"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "quantifier for the number of trips or runs made",
       "gender": "",
       "pronounciation": "tàng",
@@ -4261,7 +4687,8 @@
       "word": "趟"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to talk over; to discuss; CL:个",
       "gender": "",
       "pronounciation": "tǎo lùn",
@@ -4271,8 +4698,9 @@
       "word": "讨论"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to dislike; to loathe; disagreeable; troublesome; annoying; nasty; to hate doing something",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to dislike; to loathe; disagreeable",
       "gender": "",
       "pronounciation": "tǎo yàn",
       "quizResults": [],
@@ -4281,8 +4709,9 @@
       "word": "讨厌"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "characteristic (feature); trait; feature; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "characteristic (feature); trait; feature",
       "gender": "",
       "pronounciation": "tè diǎn",
       "quizResults": [],
@@ -4291,7 +4720,8 @@
       "word": "特点"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to carry; to lift; to raise",
       "gender": "",
       "pronounciation": "tí",
@@ -4301,8 +4731,9 @@
       "word": "提"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to supply; to provide; to furnish; to offer",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to supply; to provide; to furnish",
       "gender": "",
       "pronounciation": "tí gōng",
       "quizResults": [],
@@ -4311,8 +4742,9 @@
       "word": "提供"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to shift to an earlier date; to bring forward; to advance; in advance",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to shift to an earlier date; to bring forward; to advance",
       "gender": "",
       "pronounciation": "tí qián",
       "quizResults": [],
@@ -4321,7 +4753,8 @@
       "word": "提前"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to call attention to; to warn of; to remind",
       "gender": "",
       "pronounciation": "tí xǐng",
@@ -4331,7 +4764,8 @@
       "word": "提醒"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to fill a job vacancy; to fill in a blank (e.g. on questionnaire or exam paper)",
       "gender": "",
       "pronounciation": "tián kòng",
@@ -4341,8 +4775,9 @@
       "word": "填空"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "circumstances; condition; term; factor; requirement; prerequisite; qualification; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "circumstances; condition; term",
       "gender": "",
       "pronounciation": "tiáo jiàn",
       "quizResults": [],
@@ -4351,8 +4786,9 @@
       "word": "条件"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to halt; to stop; to park (a car);",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to halt; to stop; to park (a car)",
       "gender": "",
       "pronounciation": "tíng",
       "quizResults": [],
@@ -4361,8 +4797,9 @@
       "word": "停"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to (physically) straighten up; to stick out; to endure or hold out; straight; stiff; outstanding; extraordinary; rather; quite; very; classifier for machine guns",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to (physically) straighten up; to stick out; to endure or hold out",
       "gender": "",
       "pronounciation": "tǐng",
       "quizResults": [],
@@ -4371,8 +4808,9 @@
       "word": "挺"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to pass through; to get through; by means of; through; via; to adopt; to pass (a bill); to switch over",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to pass through; to get through; by means of",
       "gender": "",
       "pronounciation": "tōng guò",
       "quizResults": [],
@@ -4381,8 +4819,9 @@
       "word": "通过"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to notify; to inform; notice; notification; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to notify; to inform; notice",
       "gender": "",
       "pronounciation": "tōng zhī",
       "quizResults": [],
@@ -4391,8 +4830,9 @@
       "word": "通知"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "compassion; relent; sympathize; sympathy",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "compassion; relent; sympathize",
       "gender": "",
       "pronounciation": "tóng qíng",
       "quizResults": [],
@@ -4401,7 +4841,8 @@
       "word": "同情"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "at the same time; simultaneously",
       "gender": "",
       "pronounciation": "tóng shí",
@@ -4411,8 +4852,9 @@
       "word": "同时"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to push; to cut; to refuse; to reject; to decline; to shirk (responsibility); to put off; to delay; to push forward; to nominate; to elect",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to push; to cut; to refuse",
       "gender": "",
       "pronounciation": "tuī",
       "quizResults": [],
@@ -4421,7 +4863,8 @@
       "word": "推"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to postpone; to put off; to defer",
       "gender": "",
       "pronounciation": "tuī chí",
@@ -4431,8 +4874,9 @@
       "word": "推迟"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to shed; to take off; to escape; to get away from",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to shed; to take off; to escape",
       "gender": "",
       "pronounciation": "tuō",
       "quizResults": [],
@@ -4441,7 +4885,8 @@
       "word": "脱"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "socks; stockings; CL:只[zhi1] ,对[dui4] ,双[shuang1]",
       "gender": "",
       "pronounciation": "wà zi",
@@ -4451,8 +4896,9 @@
       "word": "袜子"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "complete; whole; totally; entirely",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "complete; whole; totally",
       "gender": "",
       "pronounciation": "wán quán",
       "quizResults": [],
@@ -4461,7 +4907,8 @@
       "word": "完全"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "often; frequently",
       "gender": "",
       "pronounciation": "wǎng wǎng",
@@ -4471,7 +4918,8 @@
       "word": "往往"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "tennis; CL:个",
       "gender": "",
       "pronounciation": "wǎng qiú",
@@ -4481,7 +4929,8 @@
       "word": "网球"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "website; network station; node",
       "gender": "",
       "pronounciation": "wǎng zhàn",
@@ -4491,7 +4940,8 @@
       "word": "网站"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "danger; dangerous",
       "gender": "",
       "pronounciation": "wēi xiǎn",
@@ -4501,8 +4951,9 @@
       "word": "危险"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "bathroom; toilet; WC; CL:间[jian1]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "bathroom; toilet; WC",
       "gender": "",
       "pronounciation": "wèi shēng jiān",
       "quizResults": [],
@@ -4511,7 +4962,8 @@
       "word": "卫生间"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "flavor; smell; hint of",
       "gender": "",
       "pronounciation": "wèi dào",
@@ -4521,7 +4973,8 @@
       "word": "味道"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "temperature; CL:个",
       "gender": "",
       "pronounciation": "wēn dù",
@@ -4531,8 +4984,9 @@
       "word": "温度"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "article; essay; literary works; writings; hidden meaning; CL:篇[pian1] ,段[duan4] ,页[ye4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "article; essay; literary works",
       "gender": "",
       "pronounciation": "wén zhāng",
       "quizResults": [],
@@ -4541,7 +4995,8 @@
       "word": "文章"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "pollution; contamination; CL:个",
       "gender": "",
       "pronounciation": "wū rǎn",
@@ -4551,8 +5006,9 @@
       "word": "污染"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "un-; to lack; -less; not to have; no; none; not; to lack",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "un-; to lack; -less",
       "gender": "",
       "pronounciation": "wú",
       "quizResults": [],
@@ -4561,7 +5017,8 @@
       "word": "无"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "nonsense; bored",
       "gender": "",
       "pronounciation": "wú liáo",
@@ -4571,7 +5028,8 @@
       "word": "无聊"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "no matter what or how; regardless of whether...",
       "gender": "",
       "pronounciation": "wú lùn",
@@ -4581,8 +5039,9 @@
       "word": "无论"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to misunderstand; to mistake; misunderstanding; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to misunderstand; to mistake; misunderstanding",
       "gender": "",
       "pronounciation": "wù huì",
       "quizResults": [],
@@ -4591,7 +5050,8 @@
       "word": "误会"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to attract (interest, investment etc); CL:个",
       "gender": "",
       "pronounciation": "xī yǐn",
@@ -4601,7 +5061,8 @@
       "word": "吸引"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "tomato; CL:只[zhi1]",
       "gender": "",
       "pronounciation": "xī hóng shì",
@@ -4611,7 +5072,8 @@
       "word": "西红柿"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "salty",
       "gender": "",
       "pronounciation": "xián",
@@ -4621,7 +5083,8 @@
       "word": "咸"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "cash",
       "gender": "",
       "pronounciation": "xiàn jīn",
@@ -4631,7 +5094,8 @@
       "word": "现金"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "envious; envy; to admire",
       "gender": "",
       "pronounciation": "xiàn mù",
@@ -4641,7 +5105,8 @@
       "word": "羡慕"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "opposite; contrary",
       "gender": "",
       "pronounciation": "xiāng fǎn",
@@ -4651,7 +5116,8 @@
       "word": "相反"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "identical; same",
       "gender": "",
       "pronounciation": "xiāng tóng",
@@ -4661,8 +5127,9 @@
       "word": "相同"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "fragrant; sweet smelling; aromatic; savory or appetizing; (to eat) with relish; (of sleep) sound; perfume or spice; joss or incense stick; CL:根[gen1]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "fragrant; sweet smelling; aromatic",
       "gender": "",
       "pronounciation": "xiāng",
       "quizResults": [],
@@ -4671,7 +5138,8 @@
       "word": "香"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "detailed; in detail; minute",
       "gender": "",
       "pronounciation": "xiáng xì",
@@ -4681,8 +5149,9 @@
       "word": "详细"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to make a sound; to sound; to ring; loud; classifier for noises",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to make a sound; to sound; to ring",
       "gender": "",
       "pronounciation": "xiǎng",
       "quizResults": [],
@@ -4691,7 +5160,8 @@
       "word": "响"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "rubber; an eraser; CL:块[kuai4]",
       "gender": "",
       "pronounciation": "xiàng pí",
@@ -4701,7 +5171,8 @@
       "word": "橡皮"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "news; information; CL:条[tiao2]",
       "gender": "",
       "pronounciation": "xiāo xi",
@@ -4711,7 +5182,8 @@
       "word": "消息"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "snack; refreshments; CL:家[jia1]",
       "gender": "",
       "pronounciation": "xiǎo chī",
@@ -4721,8 +5193,9 @@
       "word": "小吃"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "lad; young fellow; young man; young guy; youngster; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "lad; young fellow; young man",
       "gender": "",
       "pronounciation": "xiǎo huǒ zi",
       "quizResults": [],
@@ -4731,7 +5204,8 @@
       "word": "小伙子"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "novel; fiction; CL:本[ben3] ,部[bu4]",
       "gender": "",
       "pronounciation": "xiǎo shuō",
@@ -4741,8 +5215,9 @@
       "word": "小说"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "result; effect; quality; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "result; effect; quality",
       "gender": "",
       "pronounciation": "xiào guǒ",
       "quizResults": [],
@@ -4751,7 +5226,8 @@
       "word": "效果"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "joke; jest; CL:个",
       "gender": "",
       "pronounciation": "xiào huà",
@@ -4761,7 +5237,8 @@
       "word": "笑话"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "mood; frame of mind; CL:个",
       "gender": "",
       "pronounciation": "xīn qíng",
@@ -4771,8 +5248,9 @@
       "word": "心情"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "hard; exhausting; with much toil; thanks for your trouble",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "hard; exhausting; with much toil",
       "gender": "",
       "pronounciation": "xīn kǔ",
       "quizResults": [],
@@ -4781,7 +5259,8 @@
       "word": "辛苦"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "envelope; CL:个",
       "gender": "",
       "pronounciation": "xìn fēng",
@@ -4791,7 +5270,8 @@
       "word": "信封"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "information; news; message",
       "gender": "",
       "pronounciation": "xìn xī",
@@ -4801,7 +5281,8 @@
       "word": "信息"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "confidence; faith (in sb or sth); CL:个",
       "gender": "",
       "pronounciation": "xìn xīn",
@@ -4811,7 +5292,8 @@
       "word": "信心"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "excited; excitement",
       "gender": "",
       "pronounciation": "xīng fèn",
@@ -4821,8 +5303,9 @@
       "word": "兴奋"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to walk; to go; to travel; a visit; temporary; makeshift; current; in circulation; to do; to perform; capable; competent; effective; all right; OK!; will do",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to walk; to go; to travel",
       "gender": "",
       "pronounciation": "xíng",
       "quizResults": [],
@@ -4831,7 +5314,8 @@
       "word": "行"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to wake up; to awaken; to be awake",
       "gender": "",
       "pronounciation": "xǐng",
@@ -4841,8 +5325,9 @@
       "word": "醒"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "happiness; happy; blessed; well-being",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "happiness; happy; blessed",
       "gender": "",
       "pronounciation": "xìng fú",
       "quizResults": [],
@@ -4851,7 +5336,8 @@
       "word": "幸福"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "gender; sex; distinguishing between the sexes",
       "gender": "",
       "pronounciation": "xìng bié",
@@ -4861,8 +5347,9 @@
       "word": "性别"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "nature (temperament); nature; disposition; temperament; character; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "nature (temperament); nature; disposition",
       "gender": "",
       "pronounciation": "xìng gé",
       "quizResults": [],
@@ -4871,8 +5358,9 @@
       "word": "性格"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to repair; to perform maintenance; to overhaul; to fix; to prune; to trim",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to repair; to perform maintenance; to overhaul",
       "gender": "",
       "pronounciation": "xiū lǐ",
       "quizResults": [],
@@ -4881,8 +5369,9 @@
       "word": "修理"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "a great deal of; many; a lot of; much",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "a great deal of; many; a lot of",
       "gender": "",
       "pronounciation": "xǔ duō",
       "quizResults": [],
@@ -4891,7 +5380,8 @@
       "word": "许多"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "school term; semester; CL:个",
       "gender": "",
       "pronounciation": "xué qī",
@@ -4901,7 +5391,8 @@
       "word": "学期"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "(particle equivalent to 啊 after a vowel, expressing surprise or doubt)",
       "gender": "",
       "pronounciation": "ya",
@@ -4911,7 +5402,8 @@
       "word": "呀"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "pressure",
       "gender": "",
       "pronounciation": "yā lì",
@@ -4921,7 +5413,8 @@
       "word": "压力"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "toothpaste; CL:管[guan3]",
       "gender": "",
       "pronounciation": "yá gāo",
@@ -4931,7 +5424,8 @@
       "word": "牙膏"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "Asia; Asian",
       "gender": "",
       "pronounciation": "yà zhōu",
@@ -4941,8 +5435,9 @@
       "word": "亚洲"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "strict; stringent; tight; rigorous",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "strict; stringent; tight",
       "gender": "",
       "pronounciation": "yán gé",
       "quizResults": [],
@@ -4951,8 +5446,9 @@
       "word": "严格"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "serious; severe; critical; grave",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "serious; severe; critical",
       "gender": "",
       "pronounciation": "yán zhòng",
       "quizResults": [],
@@ -4961,7 +5457,8 @@
       "word": "严重"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "salt; CL:粒[li4]",
       "gender": "",
       "pronounciation": "yán",
@@ -4971,8 +5468,9 @@
       "word": "盐"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "research; a study; CL:項|项[xiang4];",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "research; a study; CL:項|项[xiang4]",
       "gender": "",
       "pronounciation": "yán jiū",
       "quizResults": [],
@@ -4981,8 +5479,9 @@
       "word": "研究"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to act (in a play); to perform; to put on (a performance); performance; concert; show; CL:场[chang2] ,次[ci4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to act (in a play); to perform; to put on (a performance)",
       "gender": "",
       "pronounciation": "yǎn chū",
       "quizResults": [],
@@ -4991,7 +5490,8 @@
       "word": "演出"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "actor or actress; performer; CL:个,位[wei4] ,名[ming2]",
       "gender": "",
       "pronounciation": "yǎn yuán",
@@ -5001,7 +5501,8 @@
       "word": "演员"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "spectacles; eyeglasses; CL:副[fu4]",
       "gender": "",
       "pronounciation": "yǎn jìng",
@@ -5011,8 +5512,9 @@
       "word": "眼镜"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "sunlight; sunshine; transparent (open to public scrutinity); CL:线[xian4]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "sunlight; sunshine; transparent (open to public scrutinity)",
       "gender": "",
       "pronounciation": "yáng guāng",
       "quizResults": [],
@@ -5021,8 +5523,9 @@
       "word": "阳光"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to cultivate; to raise; to form (a habit); to acquire",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to cultivate; to raise; to form (a habit)",
       "gender": "",
       "pronounciation": "yǎng chéng",
       "quizResults": [],
@@ -5031,8 +5534,9 @@
       "word": "养成"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "manner; air; looks; aspect",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "manner; air; looks",
       "gender": "",
       "pronounciation": "yàng zi",
       "quizResults": [],
@@ -5041,7 +5545,8 @@
       "word": "样子"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to invite; invitation; CL:个",
       "gender": "",
       "pronounciation": "yāo qǐng",
@@ -5051,7 +5556,8 @@
       "word": "邀请"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "if",
       "gender": "",
       "pronounciation": "yào shi",
@@ -5061,7 +5567,8 @@
       "word": "要是"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "key; CL:把[ba3]",
       "gender": "",
       "pronounciation": "yào shi",
@@ -5071,7 +5578,8 @@
       "word": "钥匙"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "perhaps; maybe; probably",
       "gender": "",
       "pronounciation": "yě xǔ",
@@ -5081,7 +5589,8 @@
       "word": "也许"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "foliage; leaf; CL:片[pian4]",
       "gender": "",
       "pronounciation": "yè zi",
@@ -5091,7 +5600,8 @@
       "word": "叶子"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "page; leaf",
       "gender": "",
       "pronounciation": "yè",
@@ -5101,7 +5611,8 @@
       "word": "页"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "everything; every; all",
       "gender": "",
       "pronounciation": "yī qiè",
@@ -5111,7 +5622,8 @@
       "word": "一切"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to use as; according to; because of",
       "gender": "",
       "pronounciation": "yǐ",
@@ -5121,8 +5633,9 @@
       "word": "以"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to believe; to think; to consider; to be under the impression",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to believe; to think; to consider",
       "gender": "",
       "pronounciation": "yǐ wéi",
       "quizResults": [],
@@ -5131,8 +5644,9 @@
       "word": "以为"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "opinion; suggestion; idea; objection; complaint; CL:点[dian3] ,条[tiao2]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "opinion; suggestion; idea",
       "gender": "",
       "pronounciation": "yì jiàn",
       "quizResults": [],
@@ -5141,7 +5655,8 @@
       "word": "意见"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "art; CL:种[zhong3]",
       "gender": "",
       "pronounciation": "yì shù",
@@ -5151,7 +5666,8 @@
       "word": "艺术"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "consequently; as a result; thus",
       "gender": "",
       "pronounciation": "yīn cǐ",
@@ -5161,8 +5677,9 @@
       "word": "因此"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to give rise to; to lead to; to cause; to arouse",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to give rise to; to lead to; to cause",
       "gender": "",
       "pronounciation": "yǐn qǐ",
       "quizResults": [],
@@ -5171,8 +5688,9 @@
       "word": "引起"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "impression; reflection; perception; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "impression; reflection; perception",
       "gender": "",
       "pronounciation": "yìn xiàng",
       "quizResults": [],
@@ -5181,7 +5699,8 @@
       "word": "印象"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to win; to beat; to profit",
       "gender": "",
       "pronounciation": "yíng",
@@ -5191,7 +5710,8 @@
       "word": "赢"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to accept a job offer; to apply for an advertised position",
       "gender": "",
       "pronounciation": "yìng pìn",
@@ -5201,7 +5721,8 @@
       "word": "应聘"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "brave; courageous",
       "gender": "",
       "pronounciation": "yǒng gǎn",
@@ -5211,7 +5732,8 @@
       "word": "勇敢"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "forever; eternal",
       "gender": "",
       "pronounciation": "yǒng yuǎn",
@@ -5221,8 +5743,9 @@
       "word": "永远"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "merit; benefit; strong point; advantage; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "merit; benefit; strong point",
       "gender": "",
       "pronounciation": "yōu diǎn",
       "quizResults": [],
@@ -5231,7 +5754,8 @@
       "word": "优点"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "outstanding; excellent",
       "gender": "",
       "pronounciation": "yōu xiù",
@@ -5241,7 +5765,8 @@
       "word": "优秀"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "humor; humorous",
       "gender": "",
       "pronounciation": "yōu mò",
@@ -5251,7 +5776,8 @@
       "word": "幽默"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "especially; particularly",
       "gender": "",
       "pronounciation": "yóu qí",
@@ -5261,8 +5787,9 @@
       "word": "尤其"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to follow; from; it is for...to; reason; cause; because of; due to; to; to leave it (to sb); by (introduces passive verb)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to follow; from; it is for...to",
       "gender": "",
       "pronounciation": "yóu",
       "quizResults": [],
@@ -5271,8 +5798,9 @@
       "word": "由"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "due to; as a result of; thanks to; owing to; since; because",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "due to; as a result of; thanks to",
       "gender": "",
       "pronounciation": "yóu yú",
       "quizResults": [],
@@ -5281,7 +5809,8 @@
       "word": "由于"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "post office; CL:家[jia1] ,个",
       "gender": "",
       "pronounciation": "yóu jú",
@@ -5291,7 +5820,8 @@
       "word": "邮局"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "friendly; amicable",
       "gender": "",
       "pronounciation": "yǒu hǎo",
@@ -5301,7 +5831,8 @@
       "word": "友好"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "companionship; fellowship; friendship",
       "gender": "",
       "pronounciation": "yǒu yì",
@@ -5311,7 +5842,8 @@
       "word": "友谊"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "interesting; fascinating; amusing",
       "gender": "",
       "pronounciation": "yǒu qù",
@@ -5321,8 +5853,9 @@
       "word": "有趣"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "thereupon; as a result; consequently; thus; hence",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "thereupon; as a result; consequently",
       "gender": "",
       "pronounciation": "yú shì",
       "quizResults": [],
@@ -5331,8 +5864,9 @@
       "word": "于是"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "cheerful; cheerily; delightful; pleasant; pleasantly; pleasing; happy; delighted",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "cheerful; cheerily; delightful",
       "gender": "",
       "pronounciation": "yú kuài",
       "quizResults": [],
@@ -5341,8 +5875,9 @@
       "word": "愉快"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to give; to help; to get along with; and; with",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to give; to help; to get along with",
       "gender": "",
       "pronounciation": "yǔ",
       "quizResults": [],
@@ -5351,7 +5886,8 @@
       "word": "与"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "badminton; shuttlecock; CL:个",
       "gender": "",
       "pronounciation": "yǔ máo qiú",
@@ -5361,7 +5897,8 @@
       "word": "羽毛球"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "grammar",
       "gender": "",
       "pronounciation": "yǔ fǎ",
@@ -5371,7 +5908,8 @@
       "word": "语法"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "language; CL:门[men2] ,种[zhong3]",
       "gender": "",
       "pronounciation": "yǔ yán",
@@ -5381,7 +5919,8 @@
       "word": "语言"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to prepare a lesson",
       "gender": "",
       "pronounciation": "yù xí",
@@ -5391,8 +5930,9 @@
       "word": "预习"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "original; former; originally; formerly; at first; so... actually",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "original; former; originally",
       "gender": "",
       "pronounciation": "yuán lái",
       "quizResults": [],
@@ -5401,7 +5941,8 @@
       "word": "原来"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to excuse; to forgive; to pardon",
       "gender": "",
       "pronounciation": "yuán liàng",
@@ -5411,8 +5952,9 @@
       "word": "原谅"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "cause; origin; root cause; reason; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "cause; origin; root cause",
       "gender": "",
       "pronounciation": "yuán yīn",
       "quizResults": [],
@@ -5421,8 +5963,9 @@
       "word": "原因"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "appointment; engagement; date; CL:次[ci4] ,个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "appointment; engagement; date",
       "gender": "",
       "pronounciation": "yuē huì",
       "quizResults": [],
@@ -5431,7 +5974,8 @@
       "word": "约会"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to read; reading",
       "gender": "",
       "pronounciation": "yuè dú",
@@ -5441,7 +5985,8 @@
       "word": "阅读"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "cloud; CL:朵[duo3]",
       "gender": "",
       "pronounciation": "yún",
@@ -5451,7 +5996,8 @@
       "word": "云"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to permit; to allow",
       "gender": "",
       "pronounciation": "yǔn xǔ",
@@ -5461,7 +6007,8 @@
       "word": "允许"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "magazine; CL:本[ben3] ,份[fen4] ,期[qi1]",
       "gender": "",
       "pronounciation": "zá zhì",
@@ -5471,7 +6018,8 @@
       "word": "杂志"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "we or us (including both the speaker and the person(s) spoken to); I or me; you",
       "gender": "",
       "pronounciation": "zán men",
@@ -5481,7 +6029,8 @@
       "word": "咱们"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "temporary; provisional; for the time being",
       "gender": "",
       "pronounciation": "zàn shí",
@@ -5491,7 +6040,8 @@
       "word": "暂时"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "dirty",
       "gender": "",
       "pronounciation": "zāng",
@@ -5501,8 +6051,9 @@
       "word": "脏"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "responsibility; blame; duty; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "responsibility; blame; duty",
       "gender": "",
       "pronounciation": "zé rèn",
       "quizResults": [],
@@ -5511,7 +6062,8 @@
       "word": "责任"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to raise; to increase",
       "gender": "",
       "pronounciation": "zēng jiā",
@@ -5521,7 +6073,8 @@
       "word": "增加"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "busy (telephone)",
       "gender": "",
       "pronounciation": "zhàn xiàn",
@@ -5531,7 +6084,8 @@
       "word": "占线"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "recruitment; to invite applications for a job",
       "gender": "",
       "pronounciation": "zhāo pìn",
@@ -5541,8 +6095,9 @@
       "word": "招聘"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "according to; in accordance with; to shine; to illuminate; to reflect; to look at (one's reflection); to take (a photo); photo; as requested; as before;",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "according to; in accordance with; to shine",
       "gender": "",
       "pronounciation": "zhào",
       "quizResults": [],
@@ -5551,8 +6106,9 @@
       "word": "照"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "genuine; real; true; genuinely",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "genuine; real; true",
       "gender": "",
       "pronounciation": "zhēn zhèng",
       "quizResults": [],
@@ -5561,8 +6117,9 @@
       "word": "真正"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to arrange; to tidy up; to sort out; to straighten out; to list systematically; to collate (data, files); to pack (luggage)",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to arrange; to tidy up; to sort out",
       "gender": "",
       "pronounciation": "zhěng lǐ",
       "quizResults": [],
@@ -5571,7 +6128,8 @@
       "word": "整理"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "regular; normal; ordinary",
       "gender": "",
       "pronounciation": "zhèng cháng",
@@ -5581,8 +6139,9 @@
       "word": "正常"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "just (in time); just right; just enough; to happen to; to chance to; by chance; it just so happens that",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "just (in time); just right; just enough",
       "gender": "",
       "pronounciation": "zhèng hǎo",
       "quizResults": [],
@@ -5591,7 +6150,8 @@
       "word": "正好"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "correct; proper",
       "gender": "",
       "pronounciation": "zhèng què",
@@ -5601,7 +6161,8 @@
       "word": "正确"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "formal; official",
       "gender": "",
       "pronounciation": "zhèng shì",
@@ -5611,8 +6172,9 @@
       "word": "正式"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "proof; certificate; identification; testimonial; to prove; to testify; to confirm the truth of; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "proof; certificate; identification",
       "gender": "",
       "pronounciation": "zhèng míng",
       "quizResults": [],
@@ -5621,8 +6183,9 @@
       "word": "证明"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "(possessive particle, literary equivalent of 的); him; her; its",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "(possessive particle, literary equivalent of 的); him; her",
       "gender": "",
       "pronounciation": "zhī",
       "quizResults": [],
@@ -5631,8 +6194,9 @@
       "word": "之"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to be in favor of; to support; to back; support; backing; to stand by; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to be in favor of; to support; to back",
       "gender": "",
       "pronounciation": "zhī chí",
       "quizResults": [],
@@ -5641,8 +6205,9 @@
       "word": "支持"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "intellectual; knowledge-related; knowledge; CL:门[men2]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "intellectual; knowledge-related; knowledge",
       "gender": "",
       "pronounciation": "zhī shi",
       "quizResults": [],
@@ -5651,7 +6216,8 @@
       "word": "知识"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to be worth; to deserve",
       "gender": "",
       "pronounciation": "zhí de",
@@ -5661,8 +6227,9 @@
       "word": "值得"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "botanical; plant; vegetation; CL:种[zhong3]",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "botanical; plant; vegetation",
       "gender": "",
       "pronounciation": "zhí wù",
       "quizResults": [],
@@ -5671,8 +6238,9 @@
       "word": "植物"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "direct; opposite: indirect 间接; immediate; directly; straightforward",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "direct; opposite: indirect 间接; immediate",
       "gender": "",
       "pronounciation": "zhí jiē",
       "quizResults": [],
@@ -5681,8 +6249,9 @@
       "word": "直接"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "occupation; profession; vocation; professional",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "occupation; profession; vocation",
       "gender": "",
       "pronounciation": "zhí yè",
       "quizResults": [],
@@ -5691,7 +6260,8 @@
       "word": "职业"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "without any better option; to have to; to be forced to",
       "gender": "",
       "pronounciation": "zhǐ hǎo",
@@ -5701,7 +6271,8 @@
       "word": "只好"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "if only; so long as",
       "gender": "",
       "pronounciation": "zhǐ yào",
@@ -5711,8 +6282,9 @@
       "word": "只要"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "finger; to point at or to; to indicate or refer to; to depend on; to count on; (of hair) to stand on end",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "finger; to point at or to; to indicate or refer to",
       "gender": "",
       "pronounciation": "zhǐ",
       "quizResults": [],
@@ -5721,7 +6293,8 @@
       "word": "指"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "at least; (to say the) least",
       "gender": "",
       "pronounciation": "zhì shǎo",
@@ -5731,7 +6304,8 @@
       "word": "至少"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "quality; mass (in physics); CL:个",
       "gender": "",
       "pronounciation": "zhì liàng",
@@ -5741,7 +6315,8 @@
       "word": "质量"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "heavy; serious",
       "gender": "",
       "pronounciation": "zhòng",
@@ -5751,8 +6326,9 @@
       "word": "重"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "emphasis; focal point; priority; key; with the emphasis on; focusing on",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "emphasis; focal point; priority",
       "gender": "",
       "pronounciation": "zhòng diǎn",
       "quizResults": [],
@@ -5761,7 +6337,8 @@
       "word": "重点"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to attach importance to sth; to value",
       "gender": "",
       "pronounciation": "zhòng shì",
@@ -5771,7 +6348,8 @@
       "word": "重视"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "surroundings; environment; to encompass",
       "gender": "",
       "pronounciation": "zhōu wéi",
@@ -5781,8 +6359,9 @@
       "word": "周围"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "plan; idea; decision; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "plan; idea; decision",
       "gender": "",
       "pronounciation": "zhǔ yi",
       "quizResults": [],
@@ -5791,7 +6370,8 @@
       "word": "主意"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "to congratulate; congratulations; CL:个",
       "gender": "",
       "pronounciation": "zhù hè",
@@ -5801,8 +6381,9 @@
       "word": "祝贺"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "famous; noted; well-known; celebrated",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "famous; noted; well-known",
       "gender": "",
       "pronounciation": "zhù míng",
       "quizResults": [],
@@ -5811,7 +6392,8 @@
       "word": "著名"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "specialist; specialized; customized",
       "gender": "",
       "pronounciation": "zhuān mén",
@@ -5821,8 +6403,9 @@
       "word": "专门"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "specialty; specialized field; main field of study (at university); major; professional; CL:门[men2] ,个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "specialty; specialized field; main field of study (at university)",
       "gender": "",
       "pronounciation": "zhuān yè",
       "quizResults": [],
@@ -5831,8 +6414,9 @@
       "word": "专业"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to turn; to change direction; to transfer; to forward (mail);",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to turn; to change direction; to transfer",
       "gender": "",
       "pronounciation": "zhuǎn",
       "quizResults": [],
@@ -5841,7 +6425,8 @@
       "word": "转"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "earn; make a profit",
       "gender": "",
       "pronounciation": "zhuàn",
@@ -5851,7 +6436,8 @@
       "word": "赚"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "accurate; exact; precise",
       "gender": "",
       "pronounciation": "zhǔn què",
@@ -5861,7 +6447,8 @@
       "word": "准确"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "on time; punctual; on schedule",
       "gender": "",
       "pronounciation": "zhǔn shí",
@@ -5871,7 +6458,8 @@
       "word": "准时"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "careful; attentive; cautious",
       "gender": "",
       "pronounciation": "zǐ xì",
@@ -5881,7 +6469,8 @@
       "word": "仔细"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "at ease; free from affectation; natural",
       "gender": "",
       "pronounciation": "zì rán",
@@ -5891,7 +6480,8 @@
       "word": "自然"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "confidence; self-confidence",
       "gender": "",
       "pronounciation": "zì xìn",
@@ -5901,8 +6491,9 @@
       "word": "自信"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to sum up; to conclude; summary; resume; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to sum up; to conclude; summary",
       "gender": "",
       "pronounciation": "zǒng jié",
       "quizResults": [],
@@ -5911,8 +6502,9 @@
       "word": "总结"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to rent; to charter; to rent out; to lease out; to hire; rent; land tax",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to rent; to charter; to rent out",
       "gender": "",
       "pronounciation": "zū",
       "quizResults": [],
@@ -5921,7 +6513,8 @@
       "word": "租"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "best; (you) had better (do what we suggest)",
       "gender": "",
       "pronounciation": "zuì hǎo",
@@ -5931,8 +6524,9 @@
       "word": "最好"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "esteem; respect; to honor; to value sth",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "esteem; respect; to honor",
       "gender": "",
       "pronounciation": "zūn zhòng",
       "quizResults": [],
@@ -5941,8 +6535,9 @@
       "word": "尊重"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "approximately; about; left and right; around; (dial.) anyway",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "approximately; about; left and right",
       "gender": "",
       "pronounciation": "zuǒ yòu",
       "quizResults": [],
@@ -5951,7 +6546,8 @@
       "word": "左右"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "author; CL:個|个[ge4],位[wei4];",
       "gender": "",
       "pronounciation": "zuò jiā",
@@ -5961,8 +6557,9 @@
       "word": "作家"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; to play a role; corresponds to English -ity, -ism, -ization; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "to act on; to affect; action",
       "gender": "",
       "pronounciation": "zuò yòng",
       "quizResults": [],
@@ -5971,7 +6568,8 @@
       "word": "作用"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "writer; author; CL:个",
       "gender": "",
       "pronounciation": "zuò zhě",
@@ -5981,8 +6579,9 @@
       "word": "作者"
     },
     {
-      "book": "Chinese","language":"zh",
-      "definition": "seat; base; stand; classifier for buildings, mountains and similar immovable objects; CL:个",
+      "book": "Chinese",
+      "language": "zh",
+      "definition": "seat; base; stand",
       "gender": "",
       "pronounciation": "zuò",
       "quizResults": [],
@@ -5991,7 +6590,8 @@
       "word": "座"
     },
     {
-      "book": "Chinese","language":"zh",
+      "book": "Chinese",
+      "language": "zh",
       "definition": "a place to sit; CL:个",
       "gender": "",
       "pronounciation": "zuò wèi",
@@ -6002,4 +6602,3 @@
     }
   ]
 }
-
