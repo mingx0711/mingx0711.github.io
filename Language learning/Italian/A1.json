@@ -17,7 +17,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grande"
+      "word": "grande",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -36,7 +37,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piccolo"
+      "word": "piccolo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -55,7 +57,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dritto"
+      "word": "dritto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -74,7 +77,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "storto"
+      "word": "storto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -93,7 +97,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "nuovo"
+      "word": "nuovo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -112,7 +117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vecchio"
+      "word": "vecchio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -131,7 +137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giovane"
+      "word": "giovane",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -150,7 +157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "difficile"
+      "word": "difficile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -169,7 +177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "facile"
+      "word": "facile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -188,7 +197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grosso"
+      "word": "grosso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -207,7 +217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sottile"
+      "word": "sottile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -226,7 +237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grasso"
+      "word": "grasso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -245,7 +257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "magro"
+      "word": "magro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -264,7 +277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "smilzo"
+      "word": "smilzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -283,7 +297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "largo"
+      "word": "largo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -302,7 +317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stretto"
+      "word": "stretto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -321,7 +337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "interessante"
+      "word": "interessante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -340,7 +357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "noioso"
+      "word": "noioso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -359,7 +377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "interessato"
+      "word": "interessato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -378,7 +397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "annoiato"
+      "word": "annoiato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -397,7 +417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "alto"
+      "word": "alto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -416,7 +437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "basso"
+      "word": "basso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -435,7 +457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "alto"
+      "word": "alto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -454,7 +477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "basso"
+      "word": "basso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -473,7 +497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "profondo"
+      "word": "profondo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -492,7 +517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "basso"
+      "word": "basso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -511,7 +537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "debole"
+      "word": "debole",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -530,7 +557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "forte"
+      "word": "forte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -549,7 +577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "veloce"
+      "word": "veloce",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -568,7 +597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lento"
+      "word": "lento",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -587,7 +617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "silenzioso"
+      "word": "silenzioso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -606,7 +637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rumoroso"
+      "word": "rumoroso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -625,7 +657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "buono"
+      "word": "buono",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -644,7 +677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cattivo"
+      "word": "cattivo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -663,7 +697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ordinato"
+      "word": "ordinato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -682,7 +717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "disordinato"
+      "word": "disordinato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -701,7 +737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "asciutto"
+      "word": "asciutto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -720,7 +757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bagnato"
+      "word": "bagnato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -739,7 +777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pieno"
+      "word": "pieno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -758,7 +797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vuoto"
+      "word": "vuoto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -777,7 +817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "leggero"
+      "word": "leggero",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -796,7 +837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pesante"
+      "word": "pesante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -815,7 +857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scuro"
+      "word": "scuro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -834,7 +877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "chiaro"
+      "word": "chiaro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -853,7 +897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "morbido"
+      "word": "morbido",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -872,7 +917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "duro"
+      "word": "duro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -891,7 +937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "liscio"
+      "word": "liscio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -910,7 +957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pulito"
+      "word": "pulito",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -929,7 +977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sporco"
+      "word": "sporco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -948,7 +997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ruvido"
+      "word": "ruvido",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -967,7 +1017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "largo"
+      "word": "largo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -986,7 +1037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stretto"
+      "word": "stretto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1005,7 +1057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caldo"
+      "word": "caldo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1024,7 +1077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fresco"
+      "word": "fresco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1043,7 +1097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caldo"
+      "word": "caldo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1062,7 +1117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "freddo"
+      "word": "freddo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1081,7 +1137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caloroso"
+      "word": "caloroso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1100,7 +1157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "socievole"
+      "word": "socievole",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1119,7 +1177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "solitario"
+      "word": "solitario",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1138,7 +1197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gentile"
+      "word": "gentile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1157,7 +1217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scortese"
+      "word": "scortese",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1176,7 +1237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "educato"
+      "word": "educato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1195,7 +1257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "maleducato"
+      "word": "maleducato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1214,7 +1277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piacevole"
+      "word": "piacevole",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1233,7 +1297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spiacevole"
+      "word": "spiacevole",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1252,7 +1317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "generoso"
+      "word": "generoso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1271,7 +1337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cattivo"
+      "word": "cattivo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1290,7 +1357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ottimista"
+      "word": "ottimista",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1309,7 +1377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pessimista"
+      "word": "pessimista",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1328,7 +1397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "allegro"
+      "word": "allegro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1347,7 +1417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "infelice"
+      "word": "infelice",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1366,7 +1437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "contento"
+      "word": "contento",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1385,7 +1457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "triste"
+      "word": "triste",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1404,7 +1477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sensibile"
+      "word": "sensibile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1423,7 +1497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "insensibile"
+      "word": "insensibile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1442,7 +1517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "onesto"
+      "word": "onesto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1461,7 +1537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "disonesto"
+      "word": "disonesto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1480,7 +1557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pigro"
+      "word": "pigro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1499,7 +1577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "energico"
+      "word": "energico",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1518,7 +1597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "diligente"
+      "word": "diligente",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1537,7 +1617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "insicuro"
+      "word": "insicuro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1556,7 +1637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "timido"
+      "word": "timido",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1575,7 +1657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stanco"
+      "word": "stanco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1594,7 +1677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "attivo"
+      "word": "attivo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1613,7 +1697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "soddisfatto"
+      "word": "soddisfatto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1632,7 +1717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "insoddisfatto"
+      "word": "insoddisfatto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1651,7 +1737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "insoddisfatto"
+      "word": "insoddisfatto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1670,7 +1757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "povero"
+      "word": "povero",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1689,7 +1777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ricco"
+      "word": "ricco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1708,7 +1797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "popolare"
+      "word": "popolare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1727,7 +1817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "famoso"
+      "word": "famoso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1746,7 +1837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rilassante"
+      "word": "rilassante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1765,7 +1857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rilassato"
+      "word": "rilassato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1784,7 +1877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "nervoso"
+      "word": "nervoso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1803,7 +1897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ansioso"
+      "word": "ansioso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1822,7 +1917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "buffo"
+      "word": "buffo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1841,7 +1937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "serio"
+      "word": "serio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1860,7 +1957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "calmo"
+      "word": "calmo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1879,7 +1977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "irascibile"
+      "word": "irascibile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1898,7 +1997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "calmo"
+      "word": "calmo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1917,7 +2017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spaventato"
+      "word": "spaventato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1936,7 +2037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spaventato"
+      "word": "spaventato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1955,7 +2057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "brutto"
+      "word": "brutto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1974,7 +2077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bello"
+      "word": "bello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -1993,7 +2097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lontano"
+      "word": "lontano",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2012,7 +2117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vicino"
+      "word": "vicino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2031,7 +2137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sbagliato"
+      "word": "sbagliato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2050,7 +2157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "corretto"
+      "word": "corretto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2069,7 +2177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "argentato"
+      "word": "argentato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2088,7 +2197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dorato"
+      "word": "dorato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2107,7 +2217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "entusiasmante"
+      "word": "entusiasmante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2126,7 +2237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "entusiasta"
+      "word": "entusiasta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2145,7 +2257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "insignificante"
+      "word": "insignificante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2164,7 +2277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tardi"
+      "word": "tardi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2183,7 +2297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "occupato"
+      "word": "occupato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2202,7 +2317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dolce"
+      "word": "dolce",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2221,7 +2337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "affollato"
+      "word": "affollato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2240,7 +2357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "importante"
+      "word": "importante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2259,7 +2377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "disgustoso"
+      "word": "disgustoso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2278,7 +2397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "assetato"
+      "word": "assetato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2297,7 +2417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "turbato"
+      "word": "turbato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2316,7 +2437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scaltro"
+      "word": "scaltro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2335,7 +2457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "irritante"
+      "word": "irritante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2354,7 +2477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fiducioso"
+      "word": "fiducioso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2373,7 +2497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "arrabbiato"
+      "word": "arrabbiato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2392,7 +2517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spaventoso"
+      "word": "spaventoso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2411,7 +2537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "doloroso"
+      "word": "doloroso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2430,7 +2557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "imbarazzato"
+      "word": "imbarazzato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2449,7 +2577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "luminoso"
+      "word": "luminoso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2468,7 +2597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fitto"
+      "word": "fitto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2487,7 +2617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "severo"
+      "word": "severo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2506,7 +2637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "eccezionale"
+      "word": "eccezionale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2525,7 +2657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grande"
+      "word": "grande",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2544,7 +2677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "intelligente"
+      "word": "intelligente",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2563,7 +2697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "notevole"
+      "word": "notevole",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2582,7 +2717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vivace"
+      "word": "vivace",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2601,7 +2737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "furbo"
+      "word": "furbo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2620,7 +2757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "orgoglioso"
+      "word": "orgoglioso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2639,7 +2777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "divertente"
+      "word": "divertente",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2658,7 +2797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vasto"
+      "word": "vasto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2677,7 +2817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fine"
+      "word": "fine",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2696,7 +2837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lungo"
+      "word": "lungo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2715,7 +2857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ordinato"
+      "word": "ordinato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2734,7 +2877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ondulato"
+      "word": "ondulato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2753,7 +2897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stordito"
+      "word": "stordito",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2772,7 +2917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sorvolare"
+      "word": "sorvolare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2791,7 +2937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "arrivo"
+      "word": "arrivo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2810,7 +2957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cabina"
+      "word": "cabina",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2829,7 +2977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "partenza"
+      "word": "partenza",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2848,7 +2997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "passaporto"
+      "word": "passaporto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2867,7 +3017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "passeggero"
+      "word": "passeggero",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2886,7 +3037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "posto"
+      "word": "posto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2905,7 +3057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "156"
+      "word": "156",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2924,7 +3077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "terminal"
+      "word": "terminal",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2943,7 +3097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "atterrare"
+      "word": "atterrare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2962,7 +3117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "valigia"
+      "word": "valigia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -2981,7 +3137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "corsia"
+      "word": "corsia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3000,7 +3157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bagaglio"
+      "word": "bagaglio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3019,7 +3177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cancellare"
+      "word": "cancellare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3038,7 +3197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "hangar"
+      "word": "hangar",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3057,7 +3217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "decollare"
+      "word": "decollare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3076,7 +3237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "carico"
+      "word": "carico",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3095,7 +3257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "confiscare"
+      "word": "confiscare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3114,7 +3277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dichiarare"
+      "word": "dichiarare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3133,7 +3297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "contrabbando"
+      "word": "contrabbando",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3152,7 +3317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dogana"
+      "word": "dogana",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3171,7 +3337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "illegale"
+      "word": "illegale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3190,7 +3357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "visto"
+      "word": "visto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3209,7 +3377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ape"
+      "word": "ape",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3228,7 +3397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "aquila"
+      "word": "aquila",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3247,7 +3417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "avvoltoio"
+      "word": "avvoltoio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3266,7 +3437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "balena"
+      "word": "balena",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3285,7 +3457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bruco"
+      "word": "bruco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3304,7 +3477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cane"
+      "word": "cane",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3323,7 +3497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "capra"
+      "word": "capra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3342,7 +3517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cavallo"
+      "word": "cavallo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3361,7 +3537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cicala"
+      "word": "cicala",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3380,7 +3557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cigno"
+      "word": "cigno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3399,7 +3577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "coccodrillo"
+      "word": "coccodrillo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3418,7 +3597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "coniglio"
+      "word": "coniglio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3437,7 +3617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "delfino"
+      "word": "delfino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3456,7 +3637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "elefante"
+      "word": "elefante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3475,7 +3657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "foca"
+      "word": "foca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3494,7 +3677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "formica"
+      "word": "formica",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3513,7 +3697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gabbiano"
+      "word": "gabbiano",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3532,7 +3717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gatto"
+      "word": "gatto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3551,7 +3737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giraffa"
+      "word": "giraffa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3570,7 +3757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "leone"
+      "word": "leone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3589,7 +3777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lioness"
+      "word": "lioness",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3608,7 +3797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lucertola"
+      "word": "lucertola",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3627,7 +3817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lupo"
+      "word": "lupo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3646,7 +3837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "maiale"
+      "word": "maiale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3665,7 +3857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "medusa"
+      "word": "medusa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3684,7 +3877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "orso"
+      "word": "orso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3703,7 +3897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pavone"
+      "word": "pavone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3722,7 +3917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pecora"
+      "word": "pecora",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3741,7 +3937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pesce"
+      "word": "pesce",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3760,7 +3957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pollo"
+      "word": "pollo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3779,7 +3977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ragno"
+      "word": "ragno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3798,7 +3997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rana"
+      "word": "rana",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3817,7 +4017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "salmone"
+      "word": "salmone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3836,7 +4037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tacchino"
+      "word": "tacchino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3855,7 +4057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tigre"
+      "word": "tigre",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3874,7 +4077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "topo"
+      "word": "topo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3893,7 +4097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "uccello"
+      "word": "uccello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3912,7 +4117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "verme"
+      "word": "verme",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3931,7 +4137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "zanzara"
+      "word": "zanzara",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3950,7 +4157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "zebra"
+      "word": "zebra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3969,7 +4177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "anatra"
+      "word": "anatra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -3988,7 +4197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "criceto"
+      "word": "criceto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4007,7 +4217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "granchio"
+      "word": "granchio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4026,7 +4237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "aragosta"
+      "word": "aragosta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4045,7 +4257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cervo"
+      "word": "cervo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4064,7 +4277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gallo"
+      "word": "gallo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4083,7 +4297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "calamaro"
+      "word": "calamaro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4102,7 +4317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "polpo"
+      "word": "polpo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4121,7 +4337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bufalo"
+      "word": "bufalo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4140,7 +4357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ghepardo"
+      "word": "ghepardo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4159,7 +4377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gambero"
+      "word": "gambero",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4178,7 +4397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mucca"
+      "word": "mucca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4197,7 +4417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "moscerino"
+      "word": "moscerino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4216,7 +4437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scarabeo"
+      "word": "scarabeo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4235,7 +4457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grillo"
+      "word": "grillo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4254,7 +4477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scarafaggio"
+      "word": "scarafaggio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4273,7 +4497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "serpente"
+      "word": "serpente",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4292,7 +4517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tartaruga"
+      "word": "tartaruga",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4311,7 +4537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piccione"
+      "word": "piccione",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4330,7 +4557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "corvo"
+      "word": "corvo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4349,7 +4577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mosca"
+      "word": "mosca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4368,7 +4597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "quaglia"
+      "word": "quaglia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4387,7 +4617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "volpe"
+      "word": "volpe",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4406,7 +4637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cinghiale"
+      "word": "cinghiale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4425,7 +4657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pipistrello"
+      "word": "pipistrello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4444,7 +4677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gorilla"
+      "word": "gorilla",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4463,7 +4697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "formichiere"
+      "word": "formichiere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4482,7 +4717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "procione"
+      "word": "procione",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4501,7 +4737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "castoro"
+      "word": "castoro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4520,7 +4757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giaguaro"
+      "word": "giaguaro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4539,7 +4777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bruco"
+      "word": "bruco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4558,7 +4797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "coccinella"
+      "word": "coccinella",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4577,7 +4817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lucciola"
+      "word": "lucciola",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4596,7 +4837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "insetto"
+      "word": "insetto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4615,7 +4857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "salamandra"
+      "word": "salamandra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4634,7 +4877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "koala"
+      "word": "koala",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4653,7 +4897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "canguro"
+      "word": "canguro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4672,7 +4917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "emù"
+      "word": "emù",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4691,7 +4937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ornitorinco"
+      "word": "ornitorinco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4710,7 +4957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vombato"
+      "word": "vombato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4729,7 +4977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scimmia"
+      "word": "scimmia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4748,7 +4997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rinoceronte"
+      "word": "rinoceronte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4767,7 +5017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scimpanzé"
+      "word": "scimpanzé",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4786,7 +5037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gufo"
+      "word": "gufo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4805,7 +5057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "alligatore"
+      "word": "alligatore",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4824,7 +5077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "squalo"
+      "word": "squalo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4843,7 +5097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "razza"
+      "word": "razza",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4862,7 +5117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "testa"
+      "word": "testa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4881,7 +5137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "occhio"
+      "word": "occhio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4900,7 +5157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "naso"
+      "word": "naso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4919,7 +5177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "orecchio"
+      "word": "orecchio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4938,7 +5197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bocca"
+      "word": "bocca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4957,7 +5217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mano"
+      "word": "mano",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4976,7 +5237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "braccio"
+      "word": "braccio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -4995,7 +5257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piede"
+      "word": "piede",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5014,7 +5277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stomaco"
+      "word": "stomaco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5033,7 +5297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "barba"
+      "word": "barba",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5052,7 +5317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "capelli"
+      "word": "capelli",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5071,7 +5337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "corpo"
+      "word": "corpo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5090,7 +5357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "costola"
+      "word": "costola",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5109,7 +5377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dente"
+      "word": "dente",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -5128,7 +5397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dentifricio"
+      "word": "dentifricio",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -5147,7 +5417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fronte"
+      "word": "fronte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5166,7 +5437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ginocchio"
+      "word": "ginocchio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5185,7 +5457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gomito"
+      "word": "gomito",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5204,7 +5477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "guancia"
+      "word": "guancia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5223,7 +5497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mento"
+      "word": "mento",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5242,7 +5517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "osso"
+      "word": "osso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5261,7 +5537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "narice"
+      "word": "narice",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5280,7 +5557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "muscolo"
+      "word": "muscolo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5299,7 +5577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pettinare"
+      "word": "pettinare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5318,7 +5597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rene"
+      "word": "rene",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5337,7 +5617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sangue"
+      "word": "sangue",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5356,7 +5637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sapone"
+      "word": "sapone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5375,7 +5657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vita"
+      "word": "vita",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5394,7 +5677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "faccia"
+      "word": "faccia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5413,7 +5697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spalla"
+      "word": "spalla",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5432,7 +5717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gamba"
+      "word": "gamba",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5451,7 +5737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spazzolino"
+      "word": "spazzolino",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -5470,7 +5757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "shampoo"
+      "word": "shampoo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5489,7 +5777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "radersi"
+      "word": "radersi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5508,7 +5797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spazzolare"
+      "word": "spazzolare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5527,7 +5817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "balsamo"
+      "word": "balsamo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5546,7 +5837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "corporatura"
+      "word": "corporatura",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5565,7 +5857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "basso"
+      "word": "basso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5584,7 +5877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ruga"
+      "word": "ruga",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5603,7 +5897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sopracciglio"
+      "word": "sopracciglio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5622,7 +5917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ciglio"
+      "word": "ciglio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5641,7 +5937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "denti"
+      "word": "denti",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5660,7 +5957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "labbro"
+      "word": "labbro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5679,7 +5977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "coscia"
+      "word": "coscia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5698,7 +5997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "polpaccio"
+      "word": "polpaccio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5717,7 +6017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "natiche"
+      "word": "natiche",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5736,7 +6037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caviglia"
+      "word": "caviglia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5755,7 +6057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tallone"
+      "word": "tallone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5774,7 +6077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rotula"
+      "word": "rotula",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5793,7 +6097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "inguine"
+      "word": "inguine",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5812,7 +6117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mignolo"
+      "word": "mignolo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5831,7 +6137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "urinare"
+      "word": "urinare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5850,7 +6157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scoreggiare"
+      "word": "scoreggiare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5869,7 +6177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "brufolo"
+      "word": "brufolo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5888,7 +6197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rasoio"
+      "word": "rasoio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5907,7 +6217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "schiena"
+      "word": "schiena",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5926,7 +6237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sputare"
+      "word": "sputare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5945,7 +6257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "defecare"
+      "word": "defecare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5964,7 +6277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dito"
+      "word": "dito",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -5983,7 +6297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "petto"
+      "word": "petto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6002,7 +6317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "collo"
+      "word": "collo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6021,7 +6337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lavare"
+      "word": "lavare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6040,7 +6357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "salvietta"
+      "word": "salvietta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6059,7 +6377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "deodorante"
+      "word": "deodorante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6078,7 +6397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "polso"
+      "word": "polso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6097,7 +6417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pelle"
+      "word": "pelle",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6116,7 +6437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "avambraccio"
+      "word": "avambraccio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6135,7 +6457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pollice"
+      "word": "pollice",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6154,7 +6477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "indice"
+      "word": "indice",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6173,7 +6497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "anulare"
+      "word": "anulare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6192,7 +6517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "addome"
+      "word": "addome",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6211,7 +6537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pancia"
+      "word": "pancia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6230,7 +6557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scapola"
+      "word": "scapola",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6249,7 +6577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "snello"
+      "word": "snello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6268,7 +6597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "corporatura"
+      "word": "corporatura",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6287,7 +6617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "magro"
+      "word": "magro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6306,7 +6637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "baffi"
+      "word": "baffi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6325,7 +6657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "palpebra"
+      "word": "palpebra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6344,7 +6677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lingua"
+      "word": "lingua",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -6363,7 +6697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "saliva"
+      "word": "saliva",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6382,7 +6717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sudore"
+      "word": "sudore",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6401,7 +6737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lacrima"
+      "word": "lacrima",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6420,7 +6757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "linea"
+      "word": "linea",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6439,7 +6777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pinzette"
+      "word": "pinzette",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6458,7 +6797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "marciapiede"
+      "word": "marciapiede",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6477,7 +6817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "chiesa"
+      "word": "chiesa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6496,7 +6837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ponte"
+      "word": "ponte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6515,7 +6857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "panetteria"
+      "word": "panetteria",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6534,7 +6877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ospedale"
+      "word": "ospedale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6553,7 +6897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "banca"
+      "word": "banca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6572,7 +6917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "supermercato"
+      "word": "supermercato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6591,7 +6937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "biblioteca"
+      "word": "biblioteca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6610,7 +6957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "acquario"
+      "word": "acquario",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6629,7 +6977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "edificio"
+      "word": "edificio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6648,7 +6997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fermata"
+      "word": "fermata",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6667,7 +7017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "palazzo"
+      "word": "palazzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6686,7 +7037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "parco"
+      "word": "parco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6705,7 +7057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "via"
+      "word": "via",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6724,7 +7077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bar"
+      "word": "bar",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6743,7 +7097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "torre"
+      "word": "torre",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -6762,7 +7117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "boutique"
+      "word": "boutique",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6781,7 +7137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "minimarket"
+      "word": "minimarket",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6800,7 +7157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "zoo"
+      "word": "zoo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6819,7 +7177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "paese"
+      "word": "paese",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6838,7 +7197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caffetteria"
+      "word": "caffetteria",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6857,7 +7217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piscina"
+      "word": "piscina",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6876,7 +7237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "negozio"
+      "word": "negozio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6895,7 +7257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mercato"
+      "word": "mercato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6914,7 +7277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "strada"
+      "word": "strada",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6933,7 +7297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "città"
+      "word": "città",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6952,7 +7317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fattoria"
+      "word": "fattoria",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -6971,7 +7337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "città"
+      "word": "città",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -6990,7 +7357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "campagna"
+      "word": "campagna",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7009,7 +7377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "periferia"
+      "word": "periferia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7028,7 +7397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grattacielo"
+      "word": "grattacielo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7047,7 +7417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ago"
+      "word": "ago",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7066,7 +7437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "anello"
+      "word": "anello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7085,7 +7457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "camicia"
+      "word": "camicia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7104,7 +7477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cappello"
+      "word": "cappello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7123,7 +7497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "collana"
+      "word": "collana",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7142,7 +7517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cravatta"
+      "word": "cravatta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7161,7 +7537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cucire"
+      "word": "cucire",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7180,7 +7557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gonna"
+      "word": "gonna",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7199,7 +7577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "guanto"
+      "word": "guanto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7218,7 +7597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ombrello"
+      "word": "ombrello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7237,7 +7617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "orecchino"
+      "word": "orecchino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7256,7 +7637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pantofola"
+      "word": "pantofola",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7275,7 +7657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rossetto"
+      "word": "rossetto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7294,7 +7677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sandalo"
+      "word": "sandalo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7313,7 +7697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scarpa"
+      "word": "scarpa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7332,7 +7717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "occhiali"
+      "word": "occhiali",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7351,7 +7737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cintura"
+      "word": "cintura",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7370,7 +7757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vestito"
+      "word": "vestito",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7389,7 +7777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "maglione"
+      "word": "maglione",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7408,7 +7797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cappotto"
+      "word": "cappotto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7427,7 +7817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "abbigliamento"
+      "word": "abbigliamento",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7446,7 +7837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giacca"
+      "word": "giacca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7465,7 +7857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "maglietta"
+      "word": "maglietta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7484,7 +7877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sciarpa"
+      "word": "sciarpa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7503,7 +7897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bottone"
+      "word": "bottone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7522,7 +7917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "completo"
+      "word": "completo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7541,7 +7937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "soprabito"
+      "word": "soprabito",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7560,7 +7957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "jeans"
+      "word": "jeans",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7579,7 +7977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vestiti"
+      "word": "vestiti",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7598,7 +7997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "minigonna"
+      "word": "minigonna",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7617,7 +8017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "impermeabile"
+      "word": "impermeabile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7636,7 +8037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "camicetta"
+      "word": "camicetta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7655,7 +8057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "colletto"
+      "word": "colletto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7674,7 +8077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "taglia"
+      "word": "taglia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7693,7 +8097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stonare"
+      "word": "stonare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7712,7 +8117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rammendare"
+      "word": "rammendare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7731,7 +8137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tingere"
+      "word": "tingere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7750,7 +8157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "svendita"
+      "word": "svendita",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7769,7 +8177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "marca"
+      "word": "marca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7788,7 +8197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gilet"
+      "word": "gilet",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7807,7 +8217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "calzino"
+      "word": "calzino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7826,7 +8237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "portafoglio"
+      "word": "portafoglio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7845,7 +8257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "borsetta"
+      "word": "borsetta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7864,7 +8277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "reggiseno"
+      "word": "reggiseno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7883,7 +8297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "shopping"
+      "word": "shopping",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7902,7 +8317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tagliando"
+      "word": "tagliando",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7921,7 +8337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "boxer"
+      "word": "boxer",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7940,7 +8357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pantaloni"
+      "word": "pantaloni",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7959,7 +8377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "orologio"
+      "word": "orologio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7978,7 +8397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pigiama"
+      "word": "pigiama",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -7997,7 +8417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cravatta"
+      "word": "cravatta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8016,7 +8437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "prezzo"
+      "word": "prezzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8035,7 +8457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "borsa"
+      "word": "borsa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8054,7 +8477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "zaino"
+      "word": "zaino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8073,7 +8497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "trucco"
+      "word": "trucco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8092,7 +8517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tasca"
+      "word": "tasca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8111,7 +8537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "manica"
+      "word": "manica",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8130,7 +8557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gioielleria"
+      "word": "gioielleria",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8149,7 +8577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "provare"
+      "word": "provare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8168,7 +8597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "indossare"
+      "word": "indossare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8187,7 +8617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "occhiali"
+      "word": "occhiali",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8206,7 +8637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gruccia"
+      "word": "gruccia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8225,7 +8657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stile"
+      "word": "stile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8244,7 +8677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "abbinare"
+      "word": "abbinare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8263,7 +8697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "eyeliner"
+      "word": "eyeliner",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8282,7 +8717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fard"
+      "word": "fard",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8301,7 +8737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "smalto"
+      "word": "smalto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8320,7 +8757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "smoking"
+      "word": "smoking",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8339,7 +8777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mutande"
+      "word": "mutande",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8358,7 +8797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "abbinare"
+      "word": "abbinare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8377,7 +8817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gessato"
+      "word": "gessato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8396,7 +8837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stivali"
+      "word": "stivali",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8415,7 +8857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "arancione"
+      "word": "arancione",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8434,7 +8877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giallo"
+      "word": "giallo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8453,7 +8897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "marrone"
+      "word": "marrone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8472,7 +8917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "nero"
+      "word": "nero",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8491,7 +8937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rosa"
+      "word": "rosa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8510,7 +8957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rosso"
+      "word": "rosso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8529,7 +8977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "verde"
+      "word": "verde",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8548,7 +8997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bianco"
+      "word": "bianco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8567,7 +9017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "blu"
+      "word": "blu",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8586,7 +9037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "viola"
+      "word": "viola",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8605,7 +9057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grigio"
+      "word": "grigio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8624,7 +9077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "indaco"
+      "word": "indaco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8643,7 +9097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "colore"
+      "word": "colore",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8662,7 +9117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "beige"
+      "word": "beige",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8681,7 +9137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giradischi"
+      "word": "giradischi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8700,7 +9157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "notizie"
+      "word": "notizie",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8719,7 +9177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tastiera"
+      "word": "tastiera",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8738,7 +9197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "telefono"
+      "word": "telefono",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8757,7 +9217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "computer"
+      "word": "computer",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8776,7 +9237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rivista"
+      "word": "rivista",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8795,7 +9257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "telecomando"
+      "word": "telecomando",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8814,7 +9277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cuffie"
+      "word": "cuffie",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8833,7 +9297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stampante"
+      "word": "stampante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8852,7 +9317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "internet"
+      "word": "internet",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8871,7 +9337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "schermo"
+      "word": "schermo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8890,7 +9357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mouse"
+      "word": "mouse",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8909,7 +9377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "informatica"
+      "word": "informatica",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8928,7 +9397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lettera"
+      "word": "lettera",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8947,7 +9417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "auricolari"
+      "word": "auricolari",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8966,7 +9437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "televisore"
+      "word": "televisore",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -8985,7 +9457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "webcam"
+      "word": "webcam",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9004,7 +9477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "microfono"
+      "word": "microfono",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9023,7 +9497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "wireless"
+      "word": "wireless",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9042,7 +9517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "skype"
+      "word": "skype",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9061,7 +9537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "yahoo"
+      "word": "yahoo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9080,7 +9557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "iphone"
+      "word": "iphone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9099,7 +9577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "blog"
+      "word": "blog",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9118,7 +9597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "hotmail"
+      "word": "hotmail",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9137,7 +9617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stampare"
+      "word": "stampare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9156,7 +9637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dépliant"
+      "word": "dépliant",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9175,7 +9657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "editare"
+      "word": "editare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9194,7 +9677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "destinatario"
+      "word": "destinatario",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9213,7 +9697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "operatore"
+      "word": "operatore",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9232,7 +9717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "videoregistratore"
+      "word": "videoregistratore",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9251,7 +9737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "raccomandata"
+      "word": "raccomandata",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9270,7 +9757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "audiolibro"
+      "word": "audiolibro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9289,7 +9777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dvd"
+      "word": "dvd",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9308,7 +9797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cd"
+      "word": "cd",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9327,7 +9817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ricevere"
+      "word": "ricevere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9346,7 +9837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rispondere"
+      "word": "rispondere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9365,7 +9857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "accendere"
+      "word": "accendere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9384,7 +9877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spegnere"
+      "word": "spegnere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9403,7 +9897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "informazione"
+      "word": "informazione",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9422,7 +9917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "trasmettere"
+      "word": "trasmettere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9441,7 +9937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "trasmettere"
+      "word": "trasmettere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9460,7 +9957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "servizio"
+      "word": "servizio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9479,7 +9977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "presentare"
+      "word": "presentare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9498,7 +9997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "posta"
+      "word": "posta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9517,7 +10017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "francobollo"
+      "word": "francobollo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9536,7 +10037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pubblicare"
+      "word": "pubblicare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9555,7 +10057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "telefonare"
+      "word": "telefonare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9574,7 +10077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "francobollo"
+      "word": "francobollo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9593,7 +10097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "router"
+      "word": "router",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9612,7 +10117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "media"
+      "word": "media",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9631,7 +10137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stampa"
+      "word": "stampa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9650,7 +10157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "linguaggio"
+      "word": "linguaggio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9669,7 +10177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lingua"
+      "word": "lingua",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9688,7 +10197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "icona"
+      "word": "icona",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9707,7 +10217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cursore"
+      "word": "cursore",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9726,7 +10237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "memoria"
+      "word": "memoria",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9745,7 +10257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "virus"
+      "word": "virus",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9764,7 +10277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "chattare"
+      "word": "chattare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9783,7 +10297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scaricare"
+      "word": "scaricare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9802,7 +10317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "archiviare"
+      "word": "archiviare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9821,7 +10337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "euro"
+      "word": "euro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9840,7 +10357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "moneta"
+      "word": "moneta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9859,7 +10377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "soldi"
+      "word": "soldi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9878,7 +10397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "contanti"
+      "word": "contanti",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9897,7 +10417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "valuta"
+      "word": "valuta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9916,7 +10437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "assegno"
+      "word": "assegno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9935,7 +10457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "banconota"
+      "word": "banconota",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9954,7 +10477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "convertire"
+      "word": "convertire",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9973,7 +10497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mattina"
+      "word": "mattina",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -9992,7 +10517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cena"
+      "word": "cena",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10011,7 +10537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giorno"
+      "word": "giorno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10030,7 +10557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "domani"
+      "word": "domani",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -10049,7 +10577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ieri"
+      "word": "ieri",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10068,7 +10597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mezzanotte"
+      "word": "mezzanotte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10087,7 +10617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "oggi"
+      "word": "oggi",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -10106,7 +10637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sera"
+      "word": "sera",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10125,7 +10657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mezzogiorno"
+      "word": "mezzogiorno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10144,7 +10677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dopodomani"
+      "word": "dopodomani",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10163,7 +10697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mai"
+      "word": "mai",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10182,7 +10717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "adesso"
+      "word": "adesso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10201,7 +10737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spesso"
+      "word": "spesso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10220,7 +10757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "destra"
+      "word": "destra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10239,7 +10777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sinistra"
+      "word": "sinistra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10258,7 +10797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "semaforo"
+      "word": "semaforo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10277,7 +10817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "autostrada"
+      "word": "autostrada",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10296,7 +10837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "indicazioni"
+      "word": "indicazioni",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10315,7 +10857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mappa"
+      "word": "mappa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10334,7 +10877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "patente"
+      "word": "patente",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10353,7 +10897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cavalcavia"
+      "word": "cavalcavia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10372,7 +10917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rotonda"
+      "word": "rotonda",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10391,7 +10937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "est"
+      "word": "est",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10410,7 +10957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ovest"
+      "word": "ovest",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10429,7 +10977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "nord"
+      "word": "nord",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10448,7 +10997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sud"
+      "word": "sud",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10467,7 +11017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "incrocio"
+      "word": "incrocio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10486,7 +11037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "segnale"
+      "word": "segnale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10505,7 +11057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tariffa"
+      "word": "tariffa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10524,7 +11077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "benzina"
+      "word": "benzina",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10543,7 +11097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "incrocio"
+      "word": "incrocio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10562,7 +11117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "girare"
+      "word": "girare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10581,7 +11137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ballare"
+      "word": "ballare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10600,7 +11157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "batteria"
+      "word": "batteria",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10619,7 +11177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "biglietto"
+      "word": "biglietto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10638,7 +11197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "chitarra"
+      "word": "chitarra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10657,7 +11217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "commedia"
+      "word": "commedia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10676,7 +11237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "disegnare"
+      "word": "disegnare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10695,7 +11257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "film"
+      "word": "film",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10714,7 +11277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "flauto"
+      "word": "flauto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10733,7 +11297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "jazz"
+      "word": "jazz",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10752,7 +11317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "leggere"
+      "word": "leggere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10771,7 +11337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "romanzo"
+      "word": "romanzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10790,7 +11357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "musica"
+      "word": "musica",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10809,7 +11377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pescare"
+      "word": "pescare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10828,7 +11397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pianoforte"
+      "word": "pianoforte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10847,7 +11417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tromba"
+      "word": "tromba",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10866,7 +11437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "violino"
+      "word": "violino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10885,7 +11457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "film"
+      "word": "film",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10904,7 +11477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pesca"
+      "word": "pesca",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10923,7 +11497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "arte"
+      "word": "arte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10942,7 +11517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "radio"
+      "word": "radio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10961,7 +11537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sassofono"
+      "word": "sassofono",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10980,7 +11557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "videogioco"
+      "word": "videogioco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -10999,7 +11577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "animazione"
+      "word": "animazione",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11018,7 +11597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "documentario"
+      "word": "documentario",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11037,7 +11617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "musical"
+      "word": "musical",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11056,7 +11637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "quiz"
+      "word": "quiz",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11075,7 +11657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "poliziesco"
+      "word": "poliziesco",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11094,7 +11677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "scacchi"
+      "word": "scacchi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11113,7 +11697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "lettura"
+      "word": "lettura",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11132,7 +11717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "trombone"
+      "word": "trombone",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11151,7 +11737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cinema"
+      "word": "cinema",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11170,7 +11757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "teatro"
+      "word": "teatro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11189,7 +11777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "opera"
+      "word": "opera",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11208,7 +11797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cassa"
+      "word": "cassa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11227,7 +11817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "festival"
+      "word": "festival",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11246,7 +11837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "programma"
+      "word": "programma",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11265,7 +11857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "canale"
+      "word": "canale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11284,7 +11877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "poker"
+      "word": "poker",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11303,7 +11897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gruppo"
+      "word": "gruppo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11322,7 +11917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "trama"
+      "word": "trama",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11341,7 +11937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "divertirsi"
+      "word": "divertirsi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11360,7 +11957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "batteria"
+      "word": "batteria",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11379,7 +11977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "marito"
+      "word": "marito",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11398,7 +11997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "genitori"
+      "word": "genitori",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11417,7 +12017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "anniversario"
+      "word": "anniversario",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11436,7 +12037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "amare"
+      "word": "amare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11455,7 +12057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "figlia"
+      "word": "figlia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11474,7 +12077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "figlio"
+      "word": "figlio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11493,7 +12097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "moglie"
+      "word": "moglie",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11512,7 +12117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "nonna"
+      "word": "nonna",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11531,7 +12137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "nonno"
+      "word": "nonno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11550,7 +12157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "matrimonio"
+      "word": "matrimonio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11569,7 +12177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ragazza"
+      "word": "ragazza",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11588,7 +12197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "assomigliare"
+      "word": "assomigliare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11607,7 +12217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "signor"
+      "word": "signor",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11626,7 +12237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bambina"
+      "word": "bambina",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11645,7 +12257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ragazzo"
+      "word": "ragazzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11664,7 +12277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bambino"
+      "word": "bambino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11683,7 +12297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bambino"
+      "word": "bambino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11702,7 +12317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bambino"
+      "word": "bambino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11721,7 +12337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fidanzarsi"
+      "word": "fidanzarsi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11740,7 +12357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "signora"
+      "word": "signora",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11759,7 +12377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vicini"
+      "word": "vicini",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11778,7 +12397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "anziano"
+      "word": "anziano",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11797,7 +12417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pensionato"
+      "word": "pensionato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11816,7 +12437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cerimonia"
+      "word": "cerimonia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11835,7 +12457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "regalo"
+      "word": "regalo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11854,7 +12477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "compleanno"
+      "word": "compleanno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11873,7 +12497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dramma"
+      "word": "dramma",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11892,7 +12517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "giovinezza"
+      "word": "giovinezza",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11911,7 +12537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "nascita"
+      "word": "nascita",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11930,7 +12557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "carattere"
+      "word": "carattere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11949,7 +12577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "padre"
+      "word": "padre",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11968,7 +12597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "madre"
+      "word": "madre",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -11987,7 +12617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "parenti"
+      "word": "parenti",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12006,7 +12637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "zio"
+      "word": "zio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12025,7 +12657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "zia"
+      "word": "zia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12044,7 +12677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gemelli"
+      "word": "gemelli",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12063,7 +12697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sposare"
+      "word": "sposare",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -12082,7 +12717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "divorziare"
+      "word": "divorziare",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -12101,7 +12737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "separarsi"
+      "word": "separarsi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12120,7 +12757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "amico"
+      "word": "amico",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12139,7 +12777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "amica"
+      "word": "amica",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12158,7 +12797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "leale"
+      "word": "leale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12177,7 +12817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "premuroso"
+      "word": "premuroso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12196,7 +12837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "affidabile"
+      "word": "affidabile",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12215,7 +12857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "chiacchierare"
+      "word": "chiacchierare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12234,7 +12877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "fidarsi"
+      "word": "fidarsi",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12253,7 +12897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "contare"
+      "word": "contare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12272,7 +12917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "sale"
+      "word": "sale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12291,7 +12937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "coltello"
+      "word": "coltello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12310,7 +12957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cucchiaio"
+      "word": "cucchiaio",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12329,7 +12977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "forchetta"
+      "word": "forchetta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12348,7 +12997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piatto"
+      "word": "piatto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12367,7 +13017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spuntino"
+      "word": "spuntino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12386,7 +13037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "agnello"
+      "word": "agnello",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12405,7 +13057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "acqua"
+      "word": "acqua",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12424,7 +13077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "affamato"
+      "word": "affamato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12443,7 +13097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "amaro"
+      "word": "amaro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12462,7 +13117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "burro"
+      "word": "burro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12481,7 +13137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cacao"
+      "word": "cacao",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12500,7 +13157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caffè"
+      "word": "caffè",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12519,7 +13177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "carne"
+      "word": "carne",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12538,7 +13197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dolci"
+      "word": "dolci",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12557,7 +13217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "farina"
+      "word": "farina",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12576,7 +13237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "frumento"
+      "word": "frumento",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12595,7 +13257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "latte"
+      "word": "latte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12614,7 +13277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mischiare"
+      "word": "mischiare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12633,7 +13297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "orzo"
+      "word": "orzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12652,7 +13317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pepe"
+      "word": "pepe",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12671,7 +13337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "riso"
+      "word": "riso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12690,7 +13357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "senape"
+      "word": "senape",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12709,7 +13377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "stuzzicadenti"
+      "word": "stuzzicadenti",
+      "wordType": "verb"
     },
     {
       "book": "Italian",
@@ -12728,7 +13397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tisana"
+      "word": "tisana",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12747,7 +13417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tè"
+      "word": "tè",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12766,7 +13437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "vino"
+      "word": "vino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12785,7 +13457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "zucchero"
+      "word": "zucchero",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12804,7 +13477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "menù"
+      "word": "menù",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12823,7 +13497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "dolce"
+      "word": "dolce",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12842,7 +13517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pasto"
+      "word": "pasto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12861,7 +13537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pane"
+      "word": "pane",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12880,7 +13557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pranzo"
+      "word": "pranzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12899,7 +13577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "uovo"
+      "word": "uovo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12918,7 +13597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ingrediente"
+      "word": "ingrediente",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12937,7 +13617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "antipasto"
+      "word": "antipasto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12956,7 +13637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "whisky"
+      "word": "whisky",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12975,7 +13657,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "soda"
+      "word": "soda",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -12994,7 +13677,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "alcol"
+      "word": "alcol",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13013,7 +13697,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "aperto"
+      "word": "aperto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13032,7 +13717,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "aspro"
+      "word": "aspro",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13051,7 +13737,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mestolo"
+      "word": "mestolo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13070,7 +13757,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "buffet"
+      "word": "buffet",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13089,7 +13777,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bastoncini"
+      "word": "bastoncini",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13108,7 +13797,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "grigliare"
+      "word": "grigliare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13127,7 +13817,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bollire"
+      "word": "bollire",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13146,7 +13837,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "spezia"
+      "word": "spezia",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13165,7 +13857,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "arrostire"
+      "word": "arrostire",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13184,7 +13877,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "rosolare"
+      "word": "rosolare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13203,7 +13897,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caffelatte"
+      "word": "caffelatte",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13222,7 +13917,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "aceto"
+      "word": "aceto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13241,7 +13937,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ketchup"
+      "word": "ketchup",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13260,7 +13957,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "apribottiglie"
+      "word": "apribottiglie",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13279,7 +13977,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tagliolino"
+      "word": "tagliolino",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13298,7 +13997,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "hamburger"
+      "word": "hamburger",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13317,7 +14017,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pizza"
+      "word": "pizza",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13336,7 +14037,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "hotdog"
+      "word": "hotdog",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13355,7 +14057,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "birra"
+      "word": "birra",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13374,7 +14077,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "manzo"
+      "word": "manzo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13393,7 +14097,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "maiale"
+      "word": "maiale",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13412,7 +14117,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "delizioso"
+      "word": "delizioso",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13431,7 +14137,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "mangiare"
+      "word": "mangiare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13450,7 +14157,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "cucinare"
+      "word": "cucinare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13469,7 +14177,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tagliere"
+      "word": "tagliere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13488,7 +14197,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "succo"
+      "word": "succo",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13507,7 +14217,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "ristorante"
+      "word": "ristorante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13526,7 +14237,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caffè"
+      "word": "caffè",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13545,7 +14257,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "conto"
+      "word": "conto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13564,7 +14277,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "macinare"
+      "word": "macinare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13583,7 +14297,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "prenotare"
+      "word": "prenotare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13602,7 +14317,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "condimento"
+      "word": "condimento",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13621,7 +14337,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "salato"
+      "word": "salato",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13640,7 +14357,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "gusto"
+      "word": "gusto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13659,7 +14377,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piccante"
+      "word": "piccante",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13678,7 +14397,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "assaggiare"
+      "word": "assaggiare",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13697,7 +14417,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "salsa"
+      "word": "salsa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13716,7 +14437,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "pesce"
+      "word": "pesce",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13735,7 +14457,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "torta"
+      "word": "torta",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13754,7 +14477,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caramella"
+      "word": "caramella",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13773,7 +14497,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "servire"
+      "word": "servire",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13792,7 +14517,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "buffet"
+      "word": "buffet",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13811,7 +14537,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "tonno"
+      "word": "tonno",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13830,7 +14557,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "posate"
+      "word": "posate",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13849,7 +14577,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "piatto"
+      "word": "piatto",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13868,7 +14597,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "bicchiere"
+      "word": "bicchiere",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13887,7 +14617,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "caraffa"
+      "word": "caraffa",
+      "wordType": "tbd"
     },
     {
       "book": "Italian",
@@ -13906,7 +14637,8 @@
       ],
       "seen": 0,
       "snoozed": false,
-      "word": "1471"
+      "word": "1471",
+      "wordType": "tbd"
     }
   ]
 }

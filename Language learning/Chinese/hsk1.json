@@ -9,7 +9,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "爱"
+      "word": "爱",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -20,7 +21,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "八"
+      "word": "八",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -31,7 +33,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "爸爸"
+      "word": "爸爸",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -42,7 +45,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "杯子"
+      "word": "杯子",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -53,7 +57,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "北京"
+      "word": "北京",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -64,7 +69,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "本"
+      "word": "本",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -75,7 +81,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "不客气"
+      "word": "不客气",
+      "wordType": 3
     },
     {
       "book": "Chinese",
@@ -86,7 +93,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "不"
+      "word": "不",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -97,7 +105,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "菜"
+      "word": "菜",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -108,7 +117,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "茶"
+      "word": "茶",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -119,7 +129,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "吃"
+      "word": "吃",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -130,7 +141,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "出租车"
+      "word": "出租车",
+      "wordType": 3
     },
     {
       "book": "Chinese",
@@ -141,7 +153,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "打电话"
+      "word": "打电话",
+      "wordType": 3
     },
     {
       "book": "Chinese",
@@ -152,7 +165,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "大"
+      "word": "大",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -163,7 +177,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "的"
+      "word": "的",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -174,7 +189,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "点"
+      "word": "点",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -185,7 +201,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "电脑"
+      "word": "电脑",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -196,7 +213,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "电视"
+      "word": "电视",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -207,7 +225,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "电影"
+      "word": "电影",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -218,7 +237,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "东西"
+      "word": "东西",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -229,7 +249,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "都"
+      "word": "都",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -240,7 +261,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "读"
+      "word": "读",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -251,7 +273,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "对不起"
+      "word": "对不起",
+      "wordType": 3
     },
     {
       "book": "Chinese",
@@ -262,7 +285,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "多"
+      "word": "多",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -273,7 +297,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "多少"
+      "word": "多少",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -284,7 +309,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "儿子"
+      "word": "儿子",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -295,7 +321,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "二"
+      "word": "二",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -306,7 +333,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "饭店"
+      "word": "饭店",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -317,7 +345,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "飞机"
+      "word": "飞机",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -328,7 +357,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "分钟"
+      "word": "分钟",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -339,7 +369,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "高兴"
+      "word": "高兴",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -350,7 +381,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "个"
+      "word": "个",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -361,7 +393,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "工作"
+      "word": "工作",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -372,7 +405,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "狗"
+      "word": "狗",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -383,7 +417,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "汉语"
+      "word": "汉语",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -394,7 +429,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "好"
+      "word": "好",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -405,7 +441,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "号"
+      "word": "号",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -416,7 +453,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "喝"
+      "word": "喝",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -427,7 +465,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "和"
+      "word": "和",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -438,7 +477,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "很"
+      "word": "很",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -449,7 +489,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "后面"
+      "word": "后面",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -460,7 +501,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "回"
+      "word": "回",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -471,7 +513,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "会"
+      "word": "会",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -482,7 +525,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "几"
+      "word": "几",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -493,7 +537,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "家"
+      "word": "家",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -504,7 +549,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "叫"
+      "word": "叫",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -515,7 +561,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "今天"
+      "word": "今天",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -526,7 +573,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "九"
+      "word": "九",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -537,7 +585,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "开"
+      "word": "开",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -548,7 +597,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "看"
+      "word": "看",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -559,7 +609,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "看见"
+      "word": "看见",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -570,7 +621,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "块"
+      "word": "块",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -581,7 +633,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "来"
+      "word": "来",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -592,7 +645,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "老师"
+      "word": "老师",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -603,7 +657,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "了"
+      "word": "了",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -614,7 +669,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "冷"
+      "word": "冷",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -625,7 +681,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "里"
+      "word": "里",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -636,7 +693,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "六"
+      "word": "六",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -647,7 +705,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "吗"
+      "word": "吗",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -658,7 +717,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "妈妈"
+      "word": "妈妈",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -669,7 +729,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "买"
+      "word": "买",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -680,7 +741,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "猫"
+      "word": "猫",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -691,7 +753,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "没关系"
+      "word": "没关系",
+      "wordType": 3
     },
     {
       "book": "Chinese",
@@ -702,7 +765,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "没有"
+      "word": "没有",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -713,7 +777,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "米饭"
+      "word": "米饭",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -724,7 +789,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "名字"
+      "word": "名字",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -735,7 +801,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "明天"
+      "word": "明天",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -746,7 +813,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "哪"
+      "word": "哪",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -757,7 +825,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "哪儿"
+      "word": "哪儿",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -768,7 +837,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "那"
+      "word": "那",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -779,7 +849,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "呢"
+      "word": "呢",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -790,7 +861,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "能"
+      "word": "能",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -801,7 +873,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "你"
+      "word": "你",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -812,7 +885,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "年"
+      "word": "年",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -823,7 +897,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "女儿"
+      "word": "女儿",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -834,7 +909,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "朋友"
+      "word": "朋友",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -845,7 +921,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "漂亮"
+      "word": "漂亮",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -856,7 +933,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "苹果"
+      "word": "苹果",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -867,7 +945,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "七"
+      "word": "七",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -878,7 +957,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "前面"
+      "word": "前面",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -889,7 +969,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "钱"
+      "word": "钱",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -900,7 +981,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "请"
+      "word": "请",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -911,7 +993,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "去"
+      "word": "去",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -922,7 +1005,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "热"
+      "word": "热",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -933,7 +1017,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "人"
+      "word": "人",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -944,7 +1029,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "认识"
+      "word": "认识",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -955,7 +1041,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "三"
+      "word": "三",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -966,7 +1053,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "商店"
+      "word": "商店",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -977,7 +1065,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "上"
+      "word": "上",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -988,7 +1077,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "上午"
+      "word": "上午",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -999,7 +1089,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "少"
+      "word": "少",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1010,7 +1101,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "谁"
+      "word": "谁",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1021,7 +1113,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "什么"
+      "word": "什么",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1032,7 +1125,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "十"
+      "word": "十",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1043,7 +1137,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "时候"
+      "word": "时候",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1054,7 +1149,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "是"
+      "word": "是",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1065,7 +1161,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "书"
+      "word": "书",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1076,7 +1173,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "水"
+      "word": "水",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1087,7 +1185,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "水果"
+      "word": "水果",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1098,7 +1197,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "睡觉"
+      "word": "睡觉",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1109,7 +1209,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "说"
+      "word": "说",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1120,7 +1221,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "四"
+      "word": "四",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1131,7 +1233,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "岁"
+      "word": "岁",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1142,7 +1245,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "他"
+      "word": "他",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1153,7 +1257,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "她"
+      "word": "她",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1164,7 +1269,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "太"
+      "word": "太",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1175,7 +1281,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "天气"
+      "word": "天气",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1186,7 +1293,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "听"
+      "word": "听",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1197,7 +1305,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "同学"
+      "word": "同学",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1208,7 +1317,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "喂"
+      "word": "喂",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1219,7 +1329,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "我"
+      "word": "我",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1230,7 +1341,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "我们"
+      "word": "我们",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1241,7 +1353,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "五"
+      "word": "五",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1252,7 +1365,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "喜欢"
+      "word": "喜欢",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1263,7 +1377,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "下"
+      "word": "下",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1274,7 +1389,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "下午"
+      "word": "下午",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1285,7 +1401,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "下雨"
+      "word": "下雨",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1296,7 +1413,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "先生"
+      "word": "先生",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1307,7 +1425,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "现在"
+      "word": "现在",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1318,7 +1437,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "想"
+      "word": "想",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1329,7 +1449,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "小"
+      "word": "小",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1340,7 +1461,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "小姐"
+      "word": "小姐",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1351,7 +1473,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "些"
+      "word": "些",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1362,7 +1485,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "写"
+      "word": "写",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1373,7 +1497,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "谢谢"
+      "word": "谢谢",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1384,7 +1509,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "星期"
+      "word": "星期",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1395,7 +1521,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "学生"
+      "word": "学生",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1406,7 +1533,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "学习"
+      "word": "学习",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1417,7 +1545,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "学校"
+      "word": "学校",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1428,7 +1557,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "一"
+      "word": "一",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1439,7 +1569,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "一点儿"
+      "word": "一点儿",
+      "wordType": 3
     },
     {
       "book": "Chinese",
@@ -1450,7 +1581,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "医生"
+      "word": "医生",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1461,7 +1593,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "医院"
+      "word": "医院",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1472,7 +1605,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "衣服"
+      "word": "衣服",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1483,7 +1617,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "椅子"
+      "word": "椅子",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1494,7 +1629,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "有"
+      "word": "有",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1505,7 +1641,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "月"
+      "word": "月",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1516,7 +1653,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "再见"
+      "word": "再见",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1527,7 +1665,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "在"
+      "word": "在",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1538,7 +1677,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "怎么"
+      "word": "怎么",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1549,7 +1689,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "怎么样"
+      "word": "怎么样",
+      "wordType": 3
     },
     {
       "book": "Chinese",
@@ -1560,7 +1701,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "这"
+      "word": "这",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1571,7 +1713,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "中国"
+      "word": "中国",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1582,7 +1725,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "中午"
+      "word": "中午",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1593,7 +1737,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "住"
+      "word": "住",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1604,7 +1749,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "桌子"
+      "word": "桌子",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1615,7 +1761,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "字"
+      "word": "字",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1626,7 +1773,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "昨天"
+      "word": "昨天",
+      "wordType": 2
     },
     {
       "book": "Chinese",
@@ -1637,7 +1785,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "做"
+      "word": "做",
+      "wordType": 1
     },
     {
       "book": "Chinese",
@@ -1648,7 +1797,8 @@
       "quizResults": [],
       "seen": 0,
       "snoozed": false,
-      "word": "坐"
+      "word": "坐",
+      "wordType": 1
     }
   ]
 }
