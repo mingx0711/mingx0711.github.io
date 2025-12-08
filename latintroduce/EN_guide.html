@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FLIZ - Quick Start Guide</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Configure Tailwind to use Inter font and light purple/pink colors -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'fliz-primary': '#7f5af0', // A nice purple
+                        'fliz-accent': '#ff6b81', // A warm pink
+                        'fliz-bg': '#f3f4f6',    // Light grey background
+                        'fliz-card': '#ffffff',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Custom styles for better aesthetics */
+        .step-card {
+            box-shadow: 0 10px 15px -3px rgba(127, 90, 240, 0.1), 0 4px 6px -2px rgba(127, 90, 240, 0.05);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .step-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .img-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            /* two images per row */
+            gap: 10px;
+            /* spacing */
+        }
+
+        .step-number {
+            background-color: #ff6b81;
+            color: white;
+            border-radius: 9999px;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+    </style>
+</head>
+
+<body class="bg-fliz-bg font-sans p-4 sm:p-8" style="margin: auto;">
+
+    <div class="max-w-4xl mx-auto">
+
+        <!-- Header Section -->
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-extrabold text-gray-800 mb-2 sm:text-5xl">FLIZ Quick Start Guide</h1>
+        </header>
+
+        <!-- Guide Steps Container -->
+        <div class="space-y-12">
+
+            <!-- STEP 1: Installation -->
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">1</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">Install the Extension</h2>
+                    <p class="text-gray-600 mb-4">First, head over to the Chrome Web Store page and click
+                        "Add to Chrome" button to install FLIZ.</p>
+                    <p class="text-sm text-gray-500 italic">This grants the extension permission to replace your default
+                        New Tab page and display vocabulary.</p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- Image 1: Installation Page (chromepage.png) -->
+                    <img src="chromepage.png"
+                        onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=FLIZ+Install+Page'"
+                        alt="Screenshot of the Chrome Web Store page showing the 'Add to Chrome' button."
+                        class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+            <section
+                class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row-reverse items-start">
+                <div class="step-number mb-4 lg:ml-6 lg:mb-0">2</div>
+                <div class="lg:w-1/2 lg:pl-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">Pin FLIZ for Quick Access</h2>
+                    <p class="text-gray-600 mb-4">Click the Puzzle Piece icon (Extensions menu) in your browser
+                        toolbar, find "FLIZ," and then click the Pin icon (purple icon in the image) to ensure
+                        the Quick Lookup menu is always visible and one click away.</p>
+                    <p class="text-sm text-gray-500 italic">Pinning the extension makes adding new words much faster!
+                    </p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- Image 2: Pinning (chrome2.png) -->
+                    <img src="chrome2.png" alt="Screenshot showing the extensions menu and the pin icon next to FLIZ."
+                        class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+            <!-- STEP 5: The New Tab Dashboard -->
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">3</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">What your New Tab look like when you just
+                        intalled the extension</h2>
+                    <p class="text-gray-600 mb-4">You new tab will look like this when the extension is just downloaded.
+                        Don't worry, I will show you how to quickly install premade decks in the next steps. </p>
+                    <ul class="list-disc list-inside text-gray-600 mt-2 space-y-1">
+                        <li>Learn your vocabs: Start a flashcard review session.</li>
+                        <li>Test your vocabs: Start a quiz mode to test your retention.</li>
+                        <li>Snooze: Temporarily hide the vocabulary card.</li>
+                    </ul>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- Image 5: New Tab Page (chrome3.png) -->
+                    <img src="chrome3.png"
+                        onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=New+Tab+Dashboard'"
+                        alt="Screenshot of the FLIZ New Tab page showing no words available, quick links, and 'Learn'/'Test' buttons."
+                        class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">3</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">Load Vocabulary Quickly</h2>
+                    <p class="text-gray-600 mb-4">Use the extension pop-up (by clicking the pinned FLIZ icon) and look
+                        for the "easy import decks" link. Here you can load pre-made decks like German, Latin, Japanese,
+                        Chinese
+                        and more with a single click!</p>
+                    <p class="text-sm text-gray-500 italic">This is the fastest way to build your initial vocabulary
+                        list.</p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- Image 3: Deck Import (chrome5.png) -->
+                    <div class="img-grid">
+                        <img src="chrome4.png"
+                            onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=Import+Decks+Screen'"
+                            alt="Screenshot of the Quick Import Vocab Decks window showing various language lists like German, Japanese, and Chinese."
+                            class="w-full h-auto rounded-lg">
+                        <img src="chrome5.png"
+                            onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=Import+Decks+Screen'"
+                            alt="Screenshot of the Quick Import Vocab Decks window showing various language lists like German, Japanese, and Chinese."
+                            class="w-full h-auto rounded-lg">
+                    </div>
+                </div>
+            </section>
+
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">6</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">Open a new tab</h2>
+                    <p class="text-gray-600 mb-4">Once you have loaded a deck, you newtab page will now look like this.
+                        Enjoy!</p>
+                    <p class="text-sm text-gray-500 italic"></p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- Image 3: Deck Import (chrome5.png) -->
+                    <img src="chrome6.png"
+                        onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=Import+Decks+Screen'"
+                        alt="Screenshot of the Quick Import Vocab Decks window showing various language lists like German, Japanese, and Chinese."
+                        class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+            <!-- STEP 2: Pinning -->
+
+        </div>
+
+        <!-- Footer/Next Steps -->
+        <footer class="text-center mt-12 pt-6 border-t border-gray-300">
+            <h3 class="text-2xl font-semibold text-gray-700 mb-3">You're all set!</h3>
+            <p class="text-gray-500">Dive in and start your vocabulary journey. Happy learning!</p>
+        </footer>
+
+    </div>
+</body>
+
+</html>

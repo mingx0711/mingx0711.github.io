@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Simple FLIZ Guide</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .color-primary {
+            color: #8B5CF6;
+        }
+
+        .bg-primary-light {
+            background-color: #F3E8FF;
+        }
+
+        .img-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .img-grid img {
+            width: 100%;
+        }
+
+        .bg-card-accent {
+            background-color: #F9A8D4;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #FEF3F8;
+            line-height: 1.6;
+        }
+    </style>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    borderRadius: {
+                        'xl': '1rem',
+                        '2xl': '1.5rem',
+                    },
+                    boxShadow: {
+                        'custom': '0 10px 15px -3px rgba(109, 40, 217, 0.1), 0 4px 6px -2px rgba(109, 40, 217, 0.05)',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+
+<body class="min-h-screen p-4 sm:p-8" style="margin: auto;">
+
+    <div class="w-11/12 mx-auto">
+        <!-- Header -->
+        <header class="text-center mb-10 py-4 bg-white rounded-2xl shadow-lg border-b-4 border-pink-300">
+            <h1 class="text-4xl sm:text-5xl font-extrabold color-primary tracking-tight">
+                Super Simple FLIZ Guide
+            </h1>
+            <p class="text-xl text-gray-600 mt-2">
+                Efficient vocabulary learning & lookup for multiple languages
+            </p>
+        </header>
+
+        <!-- Main content -->
+        <main class="space-y-10">
+
+            <!-- 1. Integrated vocabulary -->
+            <section
+                class="flex flex-col md:flex-row items-center bg-white p-6 rounded-2xl shadow-xl hover:shadow-2xl transition duration-300 border-l-4 border-purple-500">
+                <div class="md:w-1/3 mb-4 md:mb-0 md:pr-6 text-center">
+                    <div class="text-6xl color-primary mb-2">💾</div>
+                    <span
+                        class="inline-block px-3 py-1 text-sm font-semibold text-white bg-pink-500 rounded-full">Built-in
+                        decks</span>
+                </div>
+                <div class="md:w-2/3">
+                    <h2 class="text-2xl font-bold mb-3 color-primary">1. Integrated Vocabulary & Mnemonics</h2>
+                    <p class="text-gray-700">
+                        The built-in decks includes German, Japanese, Chinese, English, Italian, French, Latin and
+                        TOEFL / IELTS / GRE / SAT vocabulary. You can also create and upload your own custom lists.
+                    </p>
+                    <div class="mt-3 text-sm text-gray-500">
+                        <div class="w-full h-1 bg-pink-300 rounded-full mt-2"></div>
+                        <img src="deck1.png" width="40%" style="display: inline-flex;">
+                        <img src="decj2.png" width="40%" style="display: inline-flex;">
+                        <p class="mt-1"></p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 2. New-tab learning -->
+            <section
+                class="flex flex-col md:flex-row items-center bg-white p-6 rounded-2xl shadow-xl hover:shadow-2xl transition duration-300 border-r-4 border-pink-500">
+                <div class="md:w-2/3 order-2 md:order-1">
+                    <h2 class="text-2xl font-bold mb-3 text-pink-600">
+                        2. Learn New Words Anytime on the New Tab
+                    </h2>
+                    <p class="text-gray-700">
+                        Your new-tab page can randomly show words from your decks and/or frequently used websites.
+                        It supports autoplay for new words, and you can fully customize themes and backgrounds.
+                    </p>
+                    <div class="mt-3 text-sm text-gray-500">
+                        <img src="jp_nt.png" style="display: inline-flex;">
+                        <img src="latin_nt.png" style="display: inline-flex;">
+                        <img src="de_nt.png" style="display: inline-flex;">
+                        <img src="de_nt1.png" style="display: inline-flex;">
+                        <img src="latin_nt2.png" style="display: inline-flex;">
+                        <img src="latin_nt2.png" style="display: inline-flex;">
+                        <div class="flex space-x-2 mt-2"></div>
+                    </div>
+                </div>
+                <div class="md:w-1/3 mb-4 md:mb-0 md:pl-6 text-center order-1 md:order-2">
+                    <div class="text-6xl text-pink-600 mb-2">▶️</div>
+                    <span
+                        class="inline-block px-3 py-1 text-sm font-semibold text-white bg-purple-500 rounded-full">Productivity
+                        boost</span>
+                </div>
+            </section>
+
+            <!-- 3. Lookup system -->
+            <section
+                class="flex flex-col md:flex-row items-center bg-white p-6 rounded-2xl shadow-xl hover:shadow-2xl transition duration-300 border-l-4 border-purple-500">
+                <div class="md:w-1/3 mb-4 md:mb-0 md:pr-6 text-center">
+                    <div class="text-6xl color-primary mb-2">🔍</div>
+                    <span class="inline-block px-3 py-1 text-sm font-semibold text-white bg-pink-500 rounded-full">Quick
+                        search</span>
+                </div>
+                <div class="md:w-2/3">
+                    <h2 class="text-2xl font-bold mb-3 color-primary">3. Powerful Word Lookup System</h2>
+                    <p class="text-gray-700">
+                        Met a new word? No matter the form or conjugation, use the lookup feature to save its meaning,
+                        part of speech, inflections, etymology, and pronunciation directly into your decks. All you need
+                        to do is paste the word into 'word' field, leave everything else blank and press search.
+                    </p>
+                    <div class="mt-3 text-sm text-gray-500">
+                        <img src="search_de.png" style="display: inline-flex;">
+                        <img src="search_latin.png" style="display: inline-flex;">
+                    </div>
+                </div>
+            </section>
+
+            <!-- 4. Study & reinforce -->
+            <section
+                class="flex flex-col md:flex-row items-center bg-white p-6 rounded-2xl shadow-xl hover:shadow-2xl transition duration-300 border-r-4 border-pink-500">
+                <div class="md:w-2/3 order-2 md:order-1">
+                    <h2 class="text-2xl font-bold mb-3 text-pink-600">4. Study & Reinforce</h2>
+                    <p class="text-gray-700">
+                        Try the dedicated study mode. Newly added words automatically become flashcards for review. You
+                        can study newly added words, random vocabulary, or review previously learned items. Choose how
+                        many words to study at a time, and use the assessment tools to systematically check your
+                        progress and ensure real mastery.
+                    </p>
+                    <div class="mt-3 text-sm text-gray-500">
+                        <div class="img-grid">
+                            <img src="learn1.png">
+                            <img src="learn2.png">
+                            <img src="learn3.png">
+                            <img src="learn4.png">
+                            <img src="learn5.png">
+                            <img src="learn10.png">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="md:w-1/3 mb-4 md:mb-0 md:pl-6 text-center order-1 md:order-2">
+                    <div class="text-6xl mb-2">✨</div>
+                    <span
+                        class="inline-block px-4 py-1 text-sm font-semibold text-white bg-violet-500 rounded-full">Memory
+                        reinforcement</span>
+                </div>
+            </section>
+
+            <!-- 5. Quiz mode -->
+            <section
+                class="flex flex-col md:flex-row items-center bg-white p-6 rounded-2xl shadow-xl hover:shadow-2xl transition duration-300 border-r-4 border-pink-500">
+                <div class="md:w-1/3 mb-4 md:mb-0 md:pr-6 text-center">
+                    <div class="text-6xl mb-2">🏆</div>
+                    <span class="inline-block px-4 py-1 text-sm font-semibold text-white bg-pink-500 rounded-full">Auto
+                        testing</span>
+                </div>
+                <div class="md:w-2/3 order-2 md:order-1">
+                    <h2 class="text-2xl font-bold mb-3 text-pink-600">5. Quiz Mode</h2>
+                    <p class="text-gray-700">
+                        Feel like you’ve learned enough for now? Turn on quiz mode. Your new-tab page will automatically
+                        generate mini quizzes from words you’ve seen, and you can also use focused test modules for
+                        specific sets of words.
+                    </p>
+                    <div class="mt-3 text-sm text-gray-500">
+                        <div class="img-grid">
+                            <img src="test1.png" style="display: inline-flex;">
+                            <img src="test2.png" style="display: inline-flex;">
+                            <img src="test3.png" style="display: inline-flex;">
+                            <img src="test4.png" style="display: inline-flex;">
+                            <img src="test5.png" style="display: inline-flex;">
+                            <img src="test6.png" style="display: inline-flex;">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FLIZ - 快速上手指南</title>
+    <!-- 载入 Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- 配置 Tailwind 使用 Inter 字体和浅紫/粉色配色 -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'fliz-primary': '#7f5af0', // 紫色
+                        'fliz-accent': '#ff6b81',  // 暖粉色
+                        'fliz-bg': '#f3f4f6',      // 浅灰背景
+                        'fliz-card': '#ffffff',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* 一些自定义样式，让页面更美观 */
+        .step-card {
+            box-shadow: 0 10px 15px -3px rgba(127, 90, 240, 0.1), 0 4px 6px -2px rgba(127, 90, 240, 0.05);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .step-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .img-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            /* 每行两张图片 */
+            gap: 10px;
+            /* 间距 */
+        }
+
+        .step-number {
+            background-color: #ff6b81;
+            color: white;
+            border-radius: 9999px;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+    </style>
+</head>
+
+<body class="bg-fliz-bg font-sans p-4 sm:p-8" style="margin: auto;">
+
+    <div class="max-w-4xl mx-auto">
+
+        <!-- 头部区域 -->
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-extrabold text-gray-800 mb-2 sm:text-5xl">FLIZ 快速上手指南</h1>
+        </header>
+
+        <!-- 步骤容器 -->
+        <div class="space-y-12">
+
+            <!-- 步骤 1：安装扩展 -->
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">1</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">安装扩展程序</h2>
+                    <p class="text-gray-600 mb-4">
+                        首先打开 Chrome 网上应用店中的 FLIZ 页面，点击“添加至 Chrome”按钮来安装 FLIZ。
+                    </p>
+                    <p class="text-sm text-gray-500 italic">
+                        这会授予扩展替换默认新标签页并在上面展示词汇的权限。
+                    </p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- 图片 1：安装页面（chromepage.png） -->
+                    <img src="chromepage.png"
+                        onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=FLIZ安装页面';"
+                        alt="Chrome 网上应用店中显示“添加至 Chrome”按钮的 FLIZ 安装页面截图。" class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+
+            <!-- 步骤 2：固定扩展 -->
+            <section
+                class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row-reverse items-start">
+                <div class="step-number mb-4 lg:ml-6 lg:mb-0">2</div>
+                <div class="lg:w-1/2 lg:pl-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">固定 FLIZ 扩展，快捷访问</h2>
+                    <p class="text-gray-600 mb-4">
+                        点击浏览器工具栏中的拼图图标（扩展菜单），找到 “FLIZ”，然后点击旁边的图钉图标
+                        （图片中的紫色图标），这样 Quick Lookup 菜单就会一直显示，只需一次点击即可打开。
+                    </p>
+                    <p class="text-sm text-gray-500 italic">
+                        将扩展固定到工具栏，可以更高效地添加新单词。
+                    </p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- 图片 2：固定扩展（chrome2.png） -->
+                    <img src="chrome2.png" alt="截图展示扩展菜单以及 FLIZ 旁边用于固定到工具栏的图钉图标。" class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+
+            <!-- 步骤 3：初始新标签页 -->
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">3</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">安装完成后，你的新标签页长这样</h2>
+                    <p class="text-gray-600 mb-4">
+                        扩展刚安装好时，你的新标签页会大致如下所示。别担心，接下来会教你如何快速导入预制词库。
+                    </p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- 图片 3：新标签页（chrome3.png） -->
+                    <img src="chrome3.png"
+                        onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=新标签页界面';"
+                        alt="FLIZ 新标签页的截图，显示暂无单词、快速链接以及“学习”“测试”按钮。" class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+
+            <!-- 步骤 4：快速导入词汇 -->
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">3</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">快速导入词汇</h2>
+                    <p class="text-gray-600 mb-4">
+                        点击固定在工具栏上的 FLIZ 图标打开弹出窗口，找到 “快捷导入词库” 链接。
+                        在这里，你可以一键导入德语、拉丁语、日语、中文等多种预制词库。
+                    </p>
+                    <p class="text-sm text-gray-500 italic">
+                        这是建立初始词库最快、最省心的方式。
+                    </p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- 图片 4：导入词库（chrome4 / chrome5） -->
+                    <div class="img-grid">
+                        <img src="chrome4.png"
+                            onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=导入词库界面';"
+                            alt="快捷导入词库窗口的截图，展示德语、日语、中文等多种词库列表。" class="w-full h-auto rounded-lg">
+                        <img src="chrome5.png"
+                            onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=导入词库界面';"
+                            alt="快捷导入词库窗口的另一张截图，展示多语言词库选项。" class="w-full h-auto rounded-lg">
+                    </div>
+                </div>
+            </section>
+
+            <!-- 步骤 5：导入后查看新标签页 -->
+            <section class="step-card p-6 bg-fliz-card rounded-xl shadow-lg flex flex-col lg:flex-row items-start">
+                <div class="step-number mb-4 lg:mr-6 lg:mb-0">6</div>
+                <div class="lg:w-1/2 lg:pr-4">
+                    <h2 class="text-2xl font-bold text-fliz-primary mb-3">导入完成后，重新打开一个新标签页</h2>
+                    <p class="text-gray-600 mb-4">
+                        当你成功导入词库后，再次打开新标签页就会变成这样。
+                        之后每次打开浏览器新标签页，都会显示待学习或复习的单词。
+                    </p>
+                    <p class="text-sm text-gray-500 italic"></p>
+                </div>
+                <div class="lg:w-1/2 w-full mt-4 lg:mt-0 border border-gray-200 rounded-lg overflow-hidden">
+                    <!-- 图片 5：导入完成后的新标签页（chrome6.png） -->
+                    <img src="chrome6.png"
+                        onerror="this.onerror=null;this.src='https://placehold.co/600x400/7f5af0/ffffff?text=导入后新标签页';"
+                        alt="导入词库后，新标签页中展示单词卡片和按钮的界面截图。" class="w-full h-auto rounded-lg">
+                </div>
+            </section>
+
+        </div>
+
+        <!-- 底部 / 下一步 -->
+        <footer class="text-center mt-12 pt-6 border-t border-gray-300">
+            <h3 class="text-2xl font-semibold text-gray-700 mb-3">一切准备就绪！</h3>
+            <p class="text-gray-500">现在就开始你的词汇学习之旅吧，祝你学习愉快。</p>
+        </footer>
+
+    </div>
+</body>
+
+</html>

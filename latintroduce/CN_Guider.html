@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FiLZ 词卡系统：用户指南</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7f9fc;
+        }
+
+        .container {
+            max-width: 1000px;
+        }
+
+        .feature-section {
+            background: white;
+            border-left: 5px solid #4f46e5;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .feature-section:hover {
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+
+        .feature-title {
+            color: #4f46e5;
+            font-weight: 700;
+        }
+
+        .image-group img {
+            object-fit: contain;
+            max-height: 450px;
+            width: 100%;
+        }
+
+        .full-width-img {
+            max-height: none;
+        }
+
+        .note {
+            background-color: #fffaeb;
+            border-left: 4px solid #f59e0b;
+            color: #a0522d;
+        }
+    </style>
+</head>
+
+<body class="p-4 md:p-10 w-2/3" style="margin: auto;">
+
+    <div class="container mx-auto">
+        <header class="text-center mb-12 p-8 bg-white rounded-2xl shadow-xl">
+            <h1 class="text-5xl font-extrabold text-indigo-700">📚 FiLZ 词卡系统：用户指南</h1>
+            <p class="text-xl text-gray-600 mt-3">通过强大的管理、测试和自定义功能来掌握你的词汇。</p>
+        </header>
+
+        <!-- FEATURE SECTION 1: CORE LEARNING VIEW -->
+        <div class="feature-section mb-12 p-8 rounded-xl">
+            <h2 class="feature-title text-3xl mb-4">1. 核心学习：词卡模式</h2>
+            <p class="text-gray-700 mb-6">- 每次你打开新标签页时，都会随机出现一个单词。如果你标记了某个词，它会更频繁地出现。有时也会出现小测验。</p>
+
+            <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+                <li>听发音：点击单词旁边的扬声器图标即可听到正确读音。</li>
+                <li>重点词：点击星星图标可以把词标记为重点，从而更常出现。</li>
+                <li>测试/学习：使用底部菜单进行测试或学习词汇。</li>
+            </ul>
+            <img class="full-width-img w-full rounded-lg border border-gray-200 shadow-md" src="latin_nt.png"
+                alt="Initial Flashcard View showing a word, pronunciation, and action buttons">
+            <p class="text-gray-700 mb-6">- 你可以自定义应用的视觉主题，让其更符合你的喜好，也能减少眼睛疲劳。</p>
+
+            <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+                <li>操作：前往设置菜单（第一张图所示）。</li>
+                <li>选择：从可选配色中选择你喜欢的主题（第二张图所示），应用外观会立即改变。</li>
+            </ul>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <img class="rounded-md border shadow-sm" src="change_pallete.png"
+                    alt="Color palette selection menu open">
+                <img class="rounded-md border shadow-sm" src="change_pallete2.png" alt="Selecting a new color theme">
+            </div>
+
+            <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+                <li>按左上角的播放按钮可以自动刷新词卡。旁边的齿轮按钮用于设置一些杂项。</li>
+            </ul>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <img class="w-full max-w-lg mx-auto rounded-md border shadow-sm" src="autoplay.png"
+                    alt="Autoplay and default language configuration screen">
+                <img class="w-full max-w-lg mx-auto rounded-md border shadow-sm" src="nt3.png"
+                    alt="Autoplay and default language configuration screen">
+            </div>
+
+        </div>
+
+
+
+        <!-- FEATURE SECTION 2: COMPREHENSIVE LIST MANAGEMENT -->
+
+    </div>
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">2. 搜索功能</h2>
+        <p class="text-gray-700 mb-4">点击扩展图标打开搜索页面，按照步骤将单词加入你的词库。</p>
+
+        <div class="note p-4 rounded-md mb-6 text-base font-semibold">
+            若要进行最基础、直接的搜索，只需在“单词”栏输入你想查询的词，其他栏留空，系统会自动在维基词典里搜索此词（注意可能需要科学上网
+        </div>
+
+        <div style="display: inline-flex; gap: 5px; align-items: center;">
+            <img src="search1.png">
+        </div>
+
+        <div class="note p-4 rounded-md mb-6 text-base font-semibold">
+            偶尔会遇到词汇或短语在维基词典中不存在，这时你可以手动输入释义并点击“添加”。
+        </div>
+
+        <div style="display: inline-flex; gap: 5px; align-items: center;">
+            <img src="search2.png">
+        </div>
+    </div>
+
+    <!-- FEATURE SECTION 3: QUICK LOOKUP & SPECIALIZED TESTS -->
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">3. 专项学习</h2>
+        <p class="text-gray-700 mb-6">点击高亮按钮进入学习页面。系统会自动检测你新加入的单词。</p>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <img class="rounded-md border shadow-sm" src="learn11.png">
+            <img class="rounded-md border shadow-sm" src="learn12.png">
+        </div>
+    </div>
+
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">4. 专项测试</h2>
+        <p class="text-gray-700 mb-6">点击高亮按钮进入测试页面。你可以选择希望测试的字段，也可以进行综合测试。</p>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <img class="rounded-md border shadow-sm" src="test8.png">
+            <img class="rounded-md border shadow-sm" src="test7.png">
+        </div>
+    </div>
+
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">5. 词汇管理</h2>
+        <p class="text-gray-700 mb-6">点击扩展图标后，按“管理词汇列表”即可掌控你的整个词库。</p>
+
+        <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+            <li>你可以在左上角进行排序或筛选，例如“错误最多”等，帮助你优先查看困难单词。</li>
+            <li>你也可以导出全部词汇和进度，通过“导出为 JSON”发送给别人，他们可通过“从 JSON 导入”加载你的词库。</li>
+        </ul>
+
+        <img class="rounded-md border shadow-sm" src="manage_page1.png"
+            alt="Manage Vocabulary List Page showing sorting options and entry details">
+    </div>
+
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">更多详细说明</h2>
+        <p class="text-gray-700 mb-6">点击扩展图标并选择“about this project”按钮。</p>
+        <img class="rounded-md border shadow-sm" src="project.png">
+    </div>
+
+</body>
+
+</html>

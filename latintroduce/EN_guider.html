@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FiLZ Flashcard System: User Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7f9fc;
+            /* Very light gray/blue background */
+        }
+
+        .container {
+            max-width: 1000px;
+        }
+
+        .feature-section {
+            background: white;
+            border-left: 5px solid #4f46e5;
+            /* Indigo border for visual weight */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .feature-section:hover {
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+
+        .feature-title {
+            color: #4f46e5;
+            /* Indigo 600 */
+            font-weight: 700;
+        }
+
+        .image-group img {
+            object-fit: contain;
+            /* Make images slightly larger for better viewing */
+            max-height: 450px;
+            width: 100%;
+        }
+
+        .full-width-img {
+            max-height: none;
+        }
+
+        .note {
+            background-color: #fffaeb;
+            /* Light yellow for alerts */
+            border-left: 4px solid #f59e0b;
+            /* Amber border */
+            color: #a0522d;
+            /* Sienna color for readability */
+        }
+    </style>
+</head>
+
+<body class="p-4 md:p-10 w-2/3" style="margin: auto;">
+
+    <div class="container mx-auto">
+        <header class="text-center mb-12 p-8 bg-white rounded-2xl shadow-xl">
+            <h1 class="text-5xl font-extrabold text-indigo-700">📚 FiLZ Flashcard System: User Guide</h1>
+            <p class="text-xl text-gray-600 mt-3">Master your vocabulary with powerful management, testing, and
+                customization features.</p>
+        </header>
+
+        <!-- FEATURE SECTION 1: CORE LEARNING VIEW -->
+        <div class="feature-section mb-12 p-8 rounded-xl">
+            <h2 class="feature-title text-3xl mb-4">1. Core Learning: Flashcards</h2>
+            <p class="text-gray-700 mb-6">- Everytime you open a new tab, a random word shows up. If you focus a word,
+                it
+                will show up more often. Sometimes quizzes will show up too. </p>
+
+            <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+                <li>To listen to the pronounciation: click the speaker icon next to the word to hear the correct
+                    pronunciation.</li>
+                <li>Focus: Mark the word as a favorite using the star icon for it to be shown more frequently.</li>
+                <li>Test/Learn: Use the bottom menu options to test or learn your vocabs.</li>
+            </ul>
+            <img class="full-width-img w-full rounded-lg border border-gray-200 shadow-md" src="latin_nt.png"
+                alt="Initial Flashcard View showing a word, pronunciation, and action buttons">
+            <p class="text-gray-700 mb-6">- Personalize the application's visual theme to suit your preference and
+                reduce
+                eye strain.</p>
+
+            <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+                <li>Action: Navigate to the settings menu (visible in the first image).</li>
+                <li>Selection: Choose your preferred color palette from the available options (as shown in the
+                    second image) to instantly change the look and feel of the application.</li>
+            </ul>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <img class="rounded-md border shadow-sm" src="change_pallete.png"
+                    alt="Color palette selection menu open">
+                <img class="rounded-md border shadow-sm" src="change_pallete2.png" alt="Selecting a new color theme">
+            </div>
+            <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+                <li>Press the 'Play' button at the left top of the flashcard to let it automatically refresh. Press the
+                    cog button next to it for settings</li>
+            </ul>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <img class="w-full max-w-lg mx-auto rounded-md border shadow-sm" src="autoplay.png"
+                    alt="Autoplay and default language configuration screen">
+                <img class="w-full max-w-lg mx-auto rounded-md border shadow-sm" src="nt3.png"
+                    alt="Autoplay and default language configuration screen">
+            </div>
+
+        </div>
+
+
+
+        <!-- FEATURE SECTION 2: COMPREHENSIVE LIST MANAGEMENT -->
+
+    </div>
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">2. Search Functionality</h2>
+        <p class="text-gray-700 mb-4">Press the extension icon to open up search page. Follow the steps to add them to
+            your deck.</p>
+
+        <div class="note p-4 rounded-md mb-6 text-base font-semibold">
+            For a basic, direct search, simply enter the word you want to query into the 'word'
+            field and leave everything else blank. The interface will automatically
+            search wiktionary.org database for the entered term.
+        </div>
+
+        <div style="display: inline-flex; gap: 5px; align-items: center;">
+            <img src="search1.png">
+        </div>
+        <div class="note p-4 rounded-md mb-6 text-base font-semibold">
+            Occasionally there are words or phrases that does not exist yet
+            in wikpedia(the database that this extension retrieve info from), then you can manually enter the definition
+            and press 'Add'
+        </div>
+        <div style="display: inline-flex; gap: 5px; align-items: center;">
+            <img src="search2.png">
+        </div>
+    </div>
+    <!-- FEATURE SECTION 3: QUICK LOOKUP & SPECIALIZED TESTS -->
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">3.Specialized Learning</h2>
+        <p class="text-gray-700 mb-6"> Press the highlighted button to go to learn page. It will detect new words you
+            added automatically</p>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+
+            <img class="rounded-md border shadow-sm" src="learn11.png">
+            <img class="rounded-md border shadow-sm" src="learn12.png">
+        </div>
+    </div>
+
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">4.Specialized Tests</h2>
+        <p class="text-gray-700 mb-6"> Press the highlighted button to go to test page. You can select fields you want
+            to test, or test comprehensively</p>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+
+            <img class="rounded-md border shadow-sm" src="test8.png">
+            <img class="rounded-md border shadow-sm" src="test7.png">
+        </div>
+    </div>
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">5. Vocab Management</h2>
+        <p class="text-gray-700 mb-6">Press 'Manage Vocabulary List' after clicking the extension icon to take
+            control of your entire vocabulary
+            database. </p>
+
+        <ul class="list-disc list-inside text-gray-600 mb-6 space-y-2 ml-4">
+            <li>You can sort/filter your vocabs on left top corner. It allows you to
+                sort and filter your vocabulary based on various metrics, such as 'most frequently wrong', helping you
+                prioritize difficult words.</li>
+            <li>You can also save all your vocabs and progresses, and send it to someone else by pression 'Export
+                vocabs as Json'. And then they can import the json by pressing 'Import vocabs from Json files'</li>
+        </ul>
+        <img class="rounded-md border shadow-sm" src="manage_page1.png"
+            alt="Manage Vocabulary List Page showing sorting options and entry details">
+    </div>
+    </div>
+    <div class="feature-section mb-12 p-8 rounded-xl">
+        <h2 class="feature-title text-3xl mb-4">For a more detailede instruction</h2>
+        <p class="text-gray-700 mb-6"> Press the extension icon and press 'about this project' button</p>
+        <img class="rounded-md border shadow-sm" src="project.png">
+    </div>
+    </div>
+</body>
+
+</html>
