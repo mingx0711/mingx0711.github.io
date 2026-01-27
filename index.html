@@ -6,161 +6,292 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>FLIZ Guide</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>FLIZ Guide</title>
   <!-- Shoelace CSS & JS (via CDN) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Manrope:wght@400;500;600;700&display=swap" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/themes/light.css" />
   <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace.js"></script>
   <style>
-    body {
-      background: #f4f8fb;
-      margin: 0;
-      font-family: var(--sl-font-sans);
-      padding-top: 70px;
-      font-family: Tahoma, sans-serif;
+    :root {
+      --page-bg: #f4f6fb;
+      --page-glow: #e9f6f2;
+      --surface: #ffffff;
+      --surface-alt: #f7fbf9;
+      --border: #dfe6ea;
+      --ink: #253133;
+      --muted: #5f6e6f;
+      --accent: #1f9fa4;
+      --accent-soft: #c8f1ec;
+      --nav-grad: linear-gradient(120deg, #f5fff9 0%, #eaf6fb 55%, #f7f0ff 100%);
+      --shadow-sm: 0 10px 24px rgba(23, 41, 52, 0.08);
+      --shadow-card: 0 14px 30px rgba(32, 44, 52, 0.12);
+      --radius-lg: 18px;
+      --radius-md: 12px;
+    }
 
+    html {
+      scroll-padding-top: 96px;
+    }
+
+    body {
+      background:
+        radial-gradient(circle at top left, var(--page-glow), transparent 55%),
+        var(--page-bg);
+      margin: 0;
+      padding-top: 78px;
+      font-family: "Manrope", "Segoe UI", sans-serif;
+      color: var(--ink);
+      line-height: 1.65;
+    }
+
+    a {
+      color: inherit;
+      font-family: inherit;
+    }
+
+    img,
+    video {
+      max-width: 100%;
+      border-radius: var(--radius-md);
+      box-shadow: 0 10px 24px rgba(20, 35, 45, 0.12);
+    }
+
+    .topbar {
+      background: var(--nav-grad);
+      padding: 0.9rem 0;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      border-bottom: 1px solid rgba(31, 159, 164, 0.15);
+      box-shadow: var(--shadow-sm);
+      backdrop-filter: blur(10px);
+    }
+
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 1.5rem;
+      gap: 1rem;
+    }
+
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
+    .nav-link {
+      color: var(--muted);
+      text-decoration: none;
+      font-weight: 600;
+      padding: 0.35rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.98rem;
+      transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+    }
+
+    .nav-link:hover {
+      color: var(--ink);
+      background: rgba(31, 159, 164, 0.14);
+      transform: translateY(-1px);
+      text-decoration: none;
+    }
+
+    .branding {
+      font-size: 1.7rem;
+      font-weight: 700;
+      letter-spacing: 0.4px;
+      color: var(--ink);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.55em;
+      font-family: "Fraunces", "Times New Roman", serif;
     }
 
     .sl-sidebar {
       position: fixed;
-      top: 70px;
+      top: 78px;
       left: 0;
-      width: 16vw;
-      height: calc(100% - 70px);
-      background: #fff;
-      border-right: 1px solid #e3e7ea;
-      padding: 1.5rem 0.5rem 1.5rem 1rem;
+      width: 18vw;
+      height: calc(100% - 78px);
+      background: linear-gradient(180deg, #ffffff 0%, #f9fbfb 100%);
+      border-right: 1px solid var(--border);
+      padding: 1.5rem 0.8rem 2rem 1.2rem;
       z-index: 900;
       box-sizing: border-box;
-      box-shadow: 2px 0 8px rgba(0, 0, 0, 0.04);
+      box-shadow: 3px 0 18px rgba(20, 35, 45, 0.06);
       overflow-y: auto;
-      font-family: Tahoma, sans-serif;
     }
 
     .sl-sidebar li a {
       display: block;
-      padding: 0.5em 0.5em;
-      border-radius: 6px;
-      transition: background 0.2s, color 0.2s;
-      font-size: 1.07em;
-      font-family: Tahoma, sans-serif;
-
+      padding: 0.5em 0.7em;
+      border-radius: 10px;
+      transition: background 0.2s, color 0.2s, transform 0.2s;
+      font-size: 0.98rem;
+      color: var(--muted);
     }
 
     .sl-sidebar li a:hover {
-      background: var(--sl-color-primary-100, #eaf6fb);
-      color: #4f605f;
+      background: var(--accent-soft);
+      color: var(--ink);
+      transform: translateX(2px);
       text-decoration: none;
     }
 
-    main {
-      margin-left: 240px;
-      padding: 2rem 2vw 2rem 2vw;
-      max-width: 900px;
-      font-family: Tahoma, sans-serif;
+    .update-sidebar {
+      position: fixed;
+      top: 78px;
+      right: 0;
+      width: 25vw;
+      height: calc(100% - 78px);
+      background: linear-gradient(180deg, #ffffff 0%, #f6f9fa 100%);
+      border-left: 1px solid var(--border);
+      padding: 1.5rem 1.2rem 2rem 1rem;
+      z-index: 850;
+      box-sizing: border-box;
+      box-shadow: -3px 0 18px rgba(20, 35, 45, 0.06);
+      overflow-y: auto;
+    }
 
+    .update-sidebar h3 {
+      margin-top: 0;
+      font-size: 1.1rem;
+      color: var(--ink);
+    }
+
+    .update-log {
+      list-style: none;
+      padding: 0;
+      margin: 1rem 0 0 0;
+      display: grid;
+      gap: 0.75rem;
+    }
+
+    .update-item {
+      background: var(--surface-alt);
+      border: 1px solid rgba(31, 159, 164, 0.12);
+      border-radius: 12px;
+      padding: 0.75rem 0.85rem;
+      box-shadow: 0 6px 16px rgba(20, 35, 45, 0.08);
+    }
+
+    .update-item strong {
+      display: block;
+      font-size: 0.95rem;
+      color: var(--ink);
+      margin-bottom: 0.25rem;
+    }
+
+    .update-item span {
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+
+    main {
+      margin-left: 260px;
+      margin-right: 260px;
+      padding: 2.5rem 3vw;
+      max-width: 960px;
     }
 
     sl-card {
-      margin-bottom: 2rem;
+      margin-bottom: 2.5rem;
       display: block;
-      background: #fff;
-      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
-      border-radius: 12px;
-      padding: 1.5rem;
-      font-family: Tahoma, sans-serif;
-
+      background: linear-gradient(135deg, #ffffff 0%, #f7fbf9 100%);
+      box-shadow: var(--shadow-card);
+      border-radius: var(--radius-lg);
+      padding: 2rem;
+      border: 1px solid rgba(31, 159, 164, 0.12);
     }
 
     sl-card h2[slot="header"] {
-      font-size: 1.5em;
-      color: #4f605f;
+      font-size: 1.6rem;
+      color: var(--ink);
       margin-bottom: 0.5em;
-      font-family: Tahoma, sans-serif;
+      font-family: "Fraunces", "Times New Roman", serif;
+    }
 
+    h2,
+    h3 {
+      font-family: "Fraunces", "Times New Roman", serif;
     }
 
     h3 {
-      color: #4f605f;
+      color: var(--ink);
       margin-top: 1.5em;
       margin-bottom: 0.5em;
-      font-family: Tahoma, sans-serif;
+      font-size: 1.2rem;
+    }
 
+    p,
+    li,
+    dd {
+      color: var(--muted);
     }
 
     .icon {
       vertical-align: middle;
-      margin-right: 0.3em;
-      color: #4f605f;
-    }
-
-    .branding {
-      font-size: 2rem;
-      font-weight: bold;
-      letter-spacing: 1px;
-      color: #4f605f;
-      text-decoration: none;
-      display: flex;
-      align-items: center;
-      gap: 0.5em;
-      font-family: Tahoma, sans-serif;
-
-    }
-
-    .nav-link {
-      color: #4f605f;
-      text-decoration: none;
-      font-weight: 500;
-      margin: 0 0.5rem;
-      font-size: 1.1em;
-      transition: color 0.2s;
-      font-family: Tahoma, sans-serif;
-
-    }
-
-    .nav-link:hover {
-      color: #bbf0ed;
-      text-decoration: underline;
+      margin-right: 0.35em;
+      color: var(--accent);
     }
 
     footer {
       text-align: center;
-      color: #888;
+      color: #6a7577;
       margin: 2rem 0 1rem 0;
       font-size: 0.95rem;
-      background: #f8f9fa;
-      padding: 1.5em 0 0.5em 0;
-      border-top: 1px solid #e3e7ea;
-      font-family: Tahoma, sans-serif;
+      background: linear-gradient(180deg, #f8fbfc 0%, #f1f5f6 100%);
+      padding: 1.7em 0 0.7em 0;
+      border-top: 1px solid var(--border);
+    }
 
+    .footer-note {
+      text-align: center;
+      color: #6a7577;
+      font-size: 0.95em;
+      margin: 2rem 0 1rem 0;
+      padding-left: 10vw;
     }
 
     li {
-      font-size: 0.89vw;
-      font-family: Tahoma, sans-serif;
-
+      font-size: 0.98rem;
     }
 
-    a {
-      font-family: Tahoma, sans-serif;
-
-    }
-
-    @media (max-width: 1000px) {
+    @media (max-width: 1100px) {
       main {
         margin-left: 0;
+        margin-right: 0;
         max-width: 98vw;
-        padding: 1rem 1vw;
+        padding: 1.2rem 4vw;
       }
 
       .sl-sidebar {
         display: none;
         width: 40vw;
       }
-    }
 
-    html {
-      scroll-padding-top: 90px;
+      .update-sidebar {
+        display: none;
+      }
+
+      .nav-inner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .branding {
+        font-size: 1.5rem;
+      }
     }
   </style>
 </head>
@@ -226,26 +357,40 @@
       </sl-menu>
     </nav>
   </aside>
+  <aside class="update-sidebar">
+    <h3>Update Log</h3>
+    <ul class="update-log">
+      <li class="update-item">
+        <strong>2026-01-27 v1.9.7.3</strong>
+        <span>1. Fixed the problem with downloading HSK 4~6 decks. 2. Now with ability to show & listen to usage of a
+          word on new tab. Please note that you will need to press
+          "delete checked data" in "Manage Vocabulary" page to enable downloads of usage for vocabs that are already in
+          your deck. You can also delete your current German and Latin decks and redownload the decks from popup ->
+          'easy import decks' button. I have updated a new german and a new latin deck that has all the usages
+          downloaded.</span>
+        <br> <img src="src/27.png" />
+        <br> <img src="src/28.png" />
+      </li>
+    </ul>
+  </aside>
   <header>
-    <nav
-      style="background: #e6f3f2; padding: 1rem 0; position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-      <div
-        style="max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between;">
+    <nav class="topbar">
+      <div class="nav-inner">
         <a href="#" class="branding">
           <sl-icon name="book"></sl-icon>FetchFlashQuiz
         </a>
-        <div>
+        <div class="nav-links">
           <a href="#how-to-use-this" class="nav-link">Guide</a>
           <a href="#intro" class="nav-link">Introduction</a>
           <a href="#download" class="nav-link">Download decks</a>
           <a href="#qa" class="nav-link">Q&amp;A</a>
-          <a href="#contacts" class="nav-link">Contacts</a>
+          <a href="#contact" class="nav-link">Contacts</a>
         </div>
       </div>
     </nav>
   </header>
   <main>
-    <div id="container">
+    <div id="container" style="width: 52vw;">
       <sl-card id="intro-video">
 
         <h2 slot="header">How to use this extension?</h2>
@@ -281,7 +426,7 @@
           <source src="src/latin.mp4" type="video/mp4">
         </video>
       </sl-card>
-      <sl-card id="how-to-use-this" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+      <sl-card id="how-to-use-this">
         <h2 slot="header" id="importPremade">Text tutorial</h2>
         <h2 slot="header" id="importPremade">How to Import the Decks (in 3 steps)</h2>
         <ol>
@@ -707,7 +852,7 @@
     </div>
   </main>
   <footer>
-    <div style="text-align:center; color:#888; font-size:0.95em; margin: 2rem 0 1rem 0; padding-left:10vw">
+    <div class="footer-note">
       <strong>Disclaimer:</strong> All vocabulary information comes from <a href="https://wiktionary.org"
         target="_blank">wiktionary.org</a> and other public sources. This is an open source project. Please let me know
       if you want to remove some of the data.
