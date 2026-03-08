@@ -215,10 +215,11 @@
     const MAX_AVATARS = 4;
     const MIN_SIZE = 44;
     const MAX_SIZE = 108;
+    const HITBOX_PADDING = 16;
     const MIN_SPEED_MULT = 0.35;
     const MAX_SPEED_MULT = 2.8;
-    const MIN_AVATAR_SPEED = 0.58;
-    const MAX_AVATAR_SPEED = 1.72;
+    const MIN_AVATAR_SPEED = 0.66;
+    const MAX_AVATAR_SPEED = 1.9;
 
     const game = document.getElementById("game");
     const avatarLayer = document.getElementById("avatarLayer");
@@ -369,10 +370,10 @@
       const el = document.createElement("button");
       el.className = "avatar";
       el.type = "button";
-      el.style.width = size + "px";
-      el.style.height = size + "px";
+      el.style.width = (size + HITBOX_PADDING * 2) + "px";
+      el.style.height = (size + HITBOX_PADDING * 2) + "px";
       el.title = asset.name;
-      el.innerHTML = `<img src="${asset.cleanSrc || asset.file}" alt="${asset.name}" draggable="false" />`;
+      el.innerHTML = `<img src="${asset.cleanSrc || asset.file}" alt="${asset.name}" draggable="false" style="width:${size}px;height:${size}px;position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);" />`;
 
       const avatar = {
         id: crypto.randomUUID(),
@@ -384,7 +385,7 @@
         y: rand(size, window.innerHeight - size),
         vx: rand(-150, 150),
         vy: rand(-150, 150),
-        speed: rand(0.75, 1.35),
+        speed: rand(0.84, 1.45),
         alive: true,
         trailHistory: [],
         trailRgb: hexToRgb(asset.trail),
@@ -396,7 +397,7 @@
         circle: {
           cx: rand(size, window.innerWidth - size),
           cy: rand(size, window.innerHeight - size),
-          r: rand(48, Math.max(62, Math.min(window.innerWidth, window.innerHeight) * 0.22)),
+          r: rand(70, Math.max(92, Math.min(window.innerWidth, window.innerHeight) * 0.26)),
           a: rand(0, Math.PI * 2),
           w: rand(0.8, 2.2) * (Math.random() < 0.5 ? -1 : 1)
         }
@@ -527,7 +528,7 @@
         avatar.circle.w *= rand(0.82, 1.2);
         avatar.circle.w = clamp(avatar.circle.w, -2.7, 2.7);
         if (Math.random() < 0.25) avatar.circle.w *= -1;
-        avatar.circle.r = clamp(avatar.circle.r * rand(0.86, 1.16), 38, Math.min(window.innerWidth, window.innerHeight) * 0.26);
+        avatar.circle.r = clamp(avatar.circle.r * rand(0.9, 1.18), 64, Math.min(window.innerWidth, window.innerHeight) * 0.32);
         avatar.speed = clamp(avatar.speed * rand(0.9, 1.14), MIN_AVATAR_SPEED, MAX_AVATAR_SPEED);
         avatar.distanceSinceTurn = 0;
         avatar.nextTurnDistance = rand(90, 260);

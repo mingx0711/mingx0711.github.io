@@ -98,9 +98,9 @@
       transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
     }
 
-    .nav-link:hover {
+    .nav-link:active {
       color: var(--ink);
-      background: rgba(31, 159, 164, 0.14);
+      background: rgba(31, 159, 164, 0.18);
       transform: translateY(-1px);
       text-decoration: none;
     }
@@ -111,11 +111,27 @@
       box-shadow: 0 6px 16px rgba(255, 143, 171, 0.32);
     }
 
-    .nav-link-cats:hover {
+    .nav-link-cats:active {
       color: #10242d;
       background: linear-gradient(120deg, #ffe77a 0%, #ff9fbc 48%, #9de9f7 100%);
       transform: translateY(-2px);
       box-shadow: 0 10px 20px rgba(255, 143, 171, 0.38);
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+      .nav-link:hover {
+        color: var(--ink);
+        background: rgba(31, 159, 164, 0.14);
+        transform: translateY(-1px);
+        text-decoration: none;
+      }
+
+      .nav-link-cats:hover {
+        color: #10242d;
+        background: linear-gradient(120deg, #ffe77a 0%, #ff9fbc 48%, #9de9f7 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 10px 20px rgba(255, 143, 171, 0.38);
+      }
     }
 
     .branding {
