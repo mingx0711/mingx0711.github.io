@@ -1,0 +1,704 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cat Toy Game</title>
+  <style>
+    :root {
+      --ui-bg: rgba(13, 18, 28, 0.78);
+      --ui-border: rgba(255, 255, 255, 0.15);
+      --ui-text: #f4f8ff;
+      --ui-accent: #85d2ff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+      color: var(--ui-text);
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+    }
+
+    body {
+      background-color: #151d29;
+      background-size: cover;
+      background-position: center;
+    }
+
+    #game {
+      position: fixed;
+      inset: 0;
+      overflow: hidden;
+    }
+
+    #trailCanvas {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+
+    #avatarLayer {
+      position: absolute;
+      inset: 0;
+    }
+
+    .avatar {
+      position: absolute;
+      transform: translate(-50%, -50%);
+      cursor: pointer;
+      filter: drop-shadow(0 10px 8px rgba(0, 0, 0, 0.3));
+      will-change: transform, left, top;
+      background: transparent;
+      border: 0;
+      padding: 0;
+      outline: none;
+    }
+
+    .avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+      pointer-events: none;
+    }
+
+    .avatar.popping {
+      animation: popOut 180ms ease-out forwards;
+    }
+
+    @keyframes popOut {
+      0% {
+        transform: translate(-50%, -50%) scale(1);
+        opacity: 1;
+      }
+
+      50% {
+        transform: translate(-50%, -50%) scale(1.35);
+        opacity: 1;
+      }
+
+      100% {
+        transform: translate(-50%, -50%) scale(0.1);
+        opacity: 0;
+      }
+    }
+
+    #settingsWrap {
+      position: fixed;
+      left: 14px;
+      bottom: 14px;
+      z-index: 10;
+      width: min(320px, calc(100vw - 28px));
+    }
+
+    #settingsToggle {
+      border: 1px solid var(--ui-border);
+      background: var(--ui-bg);
+      color: var(--ui-text);
+      border-radius: 999px;
+      padding: 10px 14px;
+      font-size: 14px;
+      letter-spacing: 0.2px;
+      cursor: pointer;
+      backdrop-filter: blur(4px);
+    }
+
+    #settingsPanel {
+      margin-top: 8px;
+      border: 1px solid var(--ui-border);
+      background: var(--ui-bg);
+      border-radius: 14px;
+      padding: 12px;
+      backdrop-filter: blur(4px);
+      display: none;
+    }
+
+    #settingsPanel.open {
+      display: block;
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      margin-top: 8px;
+    }
+
+    .controls button {
+      border: 1px solid var(--ui-border);
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--ui-text);
+      border-radius: 10px;
+      padding: 8px 10px;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    .controls button:hover {
+      border-color: var(--ui-accent);
+    }
+
+    .hint {
+      margin: 0;
+      font-size: 12px;
+      opacity: 0.85;
+      line-height: 1.35;
+    }
+
+    .status {
+      margin: 8px 0 0;
+      font-size: 12px;
+      color: #d9edff;
+      opacity: 0.9;
+    }
+
+    @media (max-width: 560px) {
+      .controls {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main id="game">
+    <canvas id="trailCanvas"></canvas>
+    <div id="avatarLayer"></div>
+  </main>
+
+  <section id="settingsWrap">
+    <button id="settingsToggle" type="button">Settings ▸</button>
+    <div id="settingsPanel" aria-live="polite">
+      <p class="hint">1) Add avatar (max 4) 2) Delete avatar (min 1) 3) Slow down 4) Speed up 5) Change avatar 6) Hide
+        this bar</p>
+      <div class="controls">
+        <button id="addAvatar" type="button">Add Avatar</button>
+        <button id="removeAvatar" type="button">Delete Avatar</button>
+        <button id="slowDown" type="button">Slow Down</button>
+        <button id="speedUp" type="button">Speed Up</button>
+        <button id="changeAvatar" type="button">Change Avatar</button>
+        <button id="hideBar" type="button">Hide Bar</button>
+      </div>
+      <p class="status" id="statusLine"></p>
+    </div>
+  </section>
+
+  <script>
+    const ASSETS = [
+      { name: "Star", file: "Star.png", trail: "#ffe648" },
+      { name: "Bird", file: "Bird.png", trail: "#46e257" },
+      { name: "Bee", file: "Bee.png", trail: "#111111" },
+      { name: "Flower", file: "Flower.png", trail: "#ff78bc" }
+    ];
+    const BACKGROUND_THEMES = [
+      { kind: "cool", base: ["#132036", "#1d2b45", "#102033"], accents: ["#89a6bd", "#7e97ad", "#a3b7c8"] },
+      { kind: "cool", base: ["#17243b", "#20304b", "#16263d"], accents: ["#95abc0", "#879fb5", "#b2c0ce"] },
+      { kind: "beige", base: ["#efe3cf", "#e4d5bd", "#d9c7aa"], accents: ["#f5ecdd", "#cfb999", "#bda589"] },
+      { kind: "beige", base: ["#f2e8d8", "#e7dac4", "#dbc9ab"], accents: ["#fbf3e7", "#d4bf9e", "#bea98f"] },
+      { kind: "beige", base: ["#efe4d2", "#e0d2bd", "#d4c1a7"], accents: ["#f8f1e6", "#ccb492", "#b8a083"] }
+    ];
+
+    const MIN_AVATARS = 1;
+    const MAX_AVATARS = 4;
+    const MIN_SIZE = 44;
+    const MAX_SIZE = 108;
+    const MIN_SPEED_MULT = 0.35;
+    const MAX_SPEED_MULT = 2.8;
+    const MIN_AVATAR_SPEED = 0.58;
+    const MAX_AVATAR_SPEED = 1.72;
+
+    const game = document.getElementById("game");
+    const avatarLayer = document.getElementById("avatarLayer");
+    const canvas = document.getElementById("trailCanvas");
+    const ctx = canvas.getContext("2d");
+
+    const settingsToggle = document.getElementById("settingsToggle");
+    const settingsPanel = document.getElementById("settingsPanel");
+    const statusLine = document.getElementById("statusLine");
+
+    const avatars = [];
+    const processedImageCache = new Map();
+    let speedMultiplier = 1;
+    let lastTs = 0;
+
+    function rand(min, max) {
+      return Math.random() * (max - min) + min;
+    }
+
+    function randItem(arr) {
+      return arr[Math.floor(Math.random() * arr.length)];
+    }
+
+    function clamp(value, min, max) {
+      return Math.min(max, Math.max(min, value));
+    }
+
+    function hexToRgb(hex) {
+      const clean = hex.replace("#", "");
+      const full = clean.length === 3
+        ? clean.split("").map((ch) => ch + ch).join("")
+        : clean;
+      const num = Number.parseInt(full, 16);
+      return {
+        r: (num >> 16) & 255,
+        g: (num >> 8) & 255,
+        b: num & 255
+      };
+    }
+
+    function escXml(text) {
+      return text.replace(/[<>&'"]/g, (char) => (
+        { "<": "&lt;", ">": "&gt;", "&": "&amp;", "'": "&apos;", "\"": "&quot;" }[char]
+      ));
+    }
+
+    function colorFromHsl(h, s, l) {
+      return `hsl(${h} ${s}% ${l}%)`;
+    }
+
+    function makeSoftBackgroundSvg(theme) {
+      const [a1, a2, a3] = theme.accents;
+      const circles = Array.from({ length: 7 }, (_, i) => {
+        const x = Math.round(rand(8, 92));
+        const y = Math.round(rand(10, 90));
+        const r = Math.round(rand(16, 32));
+        const op = (rand(0.08, 0.22) * (i < 3 ? 1.2 : 1)).toFixed(3);
+        const fill = i % 3 === 0 ? a1 : (i % 3 === 1 ? a2 : a3);
+        return `<circle cx='${x}%' cy='${y}%' r='${r}%' fill='${escXml(fill)}' opacity='${op}'/>`;
+      }).join("");
+
+      const dotColor = theme.kind === "beige" ? "rgba(114,88,64,0.14)" : "rgba(205,222,236,0.12)";
+      const svg = `
+      <svg xmlns='http://www.w3.org/2000/svg' width='1600' height='900' viewBox='0 0 1600 900'>
+        <defs>
+          <pattern id='dots' width='26' height='26' patternUnits='userSpaceOnUse'>
+            <circle cx='3' cy='3' r='1.3' fill='${dotColor}'/>
+            <circle cx='18' cy='14' r='1.2' fill='${dotColor}'/>
+            <circle cx='9' cy='22' r='1.1' fill='${dotColor}'/>
+          </pattern>
+        </defs>
+        <rect width='100%' height='100%' fill='transparent'/>
+        ${circles}
+        <rect width='100%' height='100%' fill='url(#dots)' opacity='0.42'/>
+      </svg>`;
+      return `url("data:image/svg+xml;utf8,${encodeURIComponent(svg)}")`;
+    }
+
+    function applyRandomBackground() {
+      const angle = Math.floor(rand(90, 160));
+      const theme = randItem(BACKGROUND_THEMES);
+      const [baseA, baseB, baseC] = theme.base;
+      const overlay = makeSoftBackgroundSvg(theme);
+      document.body.style.backgroundImage =
+        `${overlay}, linear-gradient(${angle}deg, ${baseA}, ${baseB} 48%, ${baseC})`;
+    }
+
+    async function makeNearWhiteTransparent(srcFile) {
+      const cached = processedImageCache.get(srcFile);
+      if (cached) return cached;
+
+      const img = new Image();
+      img.decoding = "async";
+      img.src = srcFile;
+      await new Promise((resolve, reject) => {
+        if (img.complete && img.naturalWidth > 0) {
+          resolve();
+          return;
+        }
+        img.onload = () => resolve();
+        img.onerror = reject;
+      });
+      if (img.decode) {
+        try { await img.decode(); } catch { }
+      }
+
+      const temp = document.createElement("canvas");
+      temp.width = img.width;
+      temp.height = img.height;
+      const tctx = temp.getContext("2d", { willReadFrequently: true });
+      tctx.drawImage(img, 0, 0);
+
+      const pixels = tctx.getImageData(0, 0, temp.width, temp.height);
+      for (let i = 0; i < pixels.data.length; i += 4) {
+        const r = pixels.data[i];
+        const g = pixels.data[i + 1];
+        const b = pixels.data[i + 2];
+        if (r > 235 && g > 235 && b > 235) {
+          pixels.data[i + 3] = 0;
+        }
+      }
+      tctx.putImageData(pixels, 0, 0);
+      const cleaned = temp.toDataURL("image/png");
+      processedImageCache.set(srcFile, cleaned);
+      return cleaned;
+    }
+
+    async function preloadTransparentAssets() {
+      await Promise.all(ASSETS.map(async (asset) => {
+        try {
+          asset.cleanSrc = await makeNearWhiteTransparent(asset.file);
+        } catch {
+          asset.cleanSrc = asset.file;
+        }
+      }));
+    }
+
+    function resizeCanvas() {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    }
+
+    function makeAvatar() {
+      const asset = randItem(ASSETS);
+      const size = Math.round(rand(MIN_SIZE, MAX_SIZE));
+      const mode = Math.random() < 0.5 ? "random" : "circle";
+
+      const el = document.createElement("button");
+      el.className = "avatar";
+      el.type = "button";
+      el.style.width = size + "px";
+      el.style.height = size + "px";
+      el.title = asset.name;
+      el.innerHTML = `<img src="${asset.cleanSrc || asset.file}" alt="${asset.name}" draggable="false" />`;
+
+      const avatar = {
+        id: crypto.randomUUID(),
+        asset,
+        el,
+        size,
+        mode,
+        x: rand(size, window.innerWidth - size),
+        y: rand(size, window.innerHeight - size),
+        vx: rand(-150, 150),
+        vy: rand(-150, 150),
+        speed: rand(0.75, 1.35),
+        alive: true,
+        trailHistory: [],
+        trailRgb: hexToRgb(asset.trail),
+        distanceSinceTurn: 0,
+        nextTurnDistance: rand(90, 240),
+        distanceSincePause: 0,
+        nextPauseDistance: rand(260, 620),
+        pauseRemaining: 0,
+        circle: {
+          cx: rand(size, window.innerWidth - size),
+          cy: rand(size, window.innerHeight - size),
+          r: rand(48, Math.max(62, Math.min(window.innerWidth, window.innerHeight) * 0.22)),
+          a: rand(0, Math.PI * 2),
+          w: rand(0.8, 2.2) * (Math.random() < 0.5 ? -1 : 1)
+        }
+      };
+
+      if (Math.abs(avatar.vx) < 35) avatar.vx = avatar.vx < 0 ? -75 : 75;
+      if (Math.abs(avatar.vy) < 35) avatar.vy = avatar.vy < 0 ? -75 : 75;
+
+      positionAvatar(avatar);
+
+      el.addEventListener("click", () => popAvatar(avatar));
+      avatarLayer.appendChild(el);
+      avatars.push(avatar);
+      updateStatus();
+    }
+
+    function positionAvatar(avatar) {
+      avatar.el.style.left = avatar.x + "px";
+      avatar.el.style.top = avatar.y + "px";
+    }
+
+    function removeAvatar(avatar) {
+      const idx = avatars.findIndex((a) => a.id === avatar.id);
+      if (idx >= 0) avatars.splice(idx, 1);
+      avatar.alive = false;
+      avatar.el.remove();
+      updateStatus();
+    }
+
+    function popAvatar(avatar) {
+      if (!avatar.alive) return;
+      avatar.alive = false;
+      avatar.el.classList.add("popping");
+
+      setTimeout(() => {
+        removeAvatar(avatar);
+        if (avatars.length < MIN_AVATARS) {
+          makeAvatar();
+        } else if (avatars.length < MAX_AVATARS) {
+          makeAvatar();
+        }
+      }, 170);
+    }
+
+    function updateRandom(avatar, dt) {
+      const prevX = avatar.x;
+      const prevY = avatar.y;
+
+      avatar.x += avatar.vx * avatar.speed * speedMultiplier * dt;
+      avatar.y += avatar.vy * avatar.speed * speedMultiplier * dt;
+
+      const half = avatar.size * 0.5;
+      const outLeft = avatar.x <= half;
+      const outRight = avatar.x >= window.innerWidth - half;
+      const outTop = avatar.y <= half;
+      const outBottom = avatar.y >= window.innerHeight - half;
+
+      if (outLeft || outRight || outTop || outBottom) {
+        avatar.x = clamp(avatar.x, half, window.innerWidth - half);
+        avatar.y = clamp(avatar.y, half, window.innerHeight - half);
+        const speed = clamp(Math.hypot(avatar.vx, avatar.vy) * rand(0.9, 1.15), 80, 220);
+        const angle = rand(0, Math.PI * 2);
+        avatar.vx = Math.cos(angle) * speed;
+        avatar.vy = Math.sin(angle) * speed;
+
+        if (outLeft) avatar.vx = Math.abs(avatar.vx);
+        if (outRight) avatar.vx = -Math.abs(avatar.vx);
+        if (outTop) avatar.vy = Math.abs(avatar.vy);
+        if (outBottom) avatar.vy = -Math.abs(avatar.vy);
+
+        avatar.distanceSinceTurn = 0;
+        avatar.nextTurnDistance = rand(70, 220);
+      }
+
+      const moved = Math.hypot(avatar.x - prevX, avatar.y - prevY);
+      avatar.distanceSinceTurn += moved;
+      if (avatar.distanceSinceTurn >= avatar.nextTurnDistance) {
+        const angle = Math.atan2(avatar.vy, avatar.vx) + rand(-1.08, 1.08);
+        const base = Math.max(85, Math.hypot(avatar.vx, avatar.vy));
+        const next = clamp(base * rand(0.82, 1.2), 80, 210);
+        avatar.vx = Math.cos(angle) * next;
+        avatar.vy = Math.sin(angle) * next;
+        avatar.speed = clamp(avatar.speed * rand(0.88, 1.16), MIN_AVATAR_SPEED, MAX_AVATAR_SPEED);
+        avatar.distanceSinceTurn = 0;
+        avatar.nextTurnDistance = rand(70, 220);
+      }
+      return moved;
+    }
+
+    function updateCircle(avatar, dt) {
+      const prevX = avatar.x;
+      const prevY = avatar.y;
+      avatar.circle.a += avatar.circle.w * speedMultiplier * avatar.speed * dt;
+      avatar.x = avatar.circle.cx + Math.cos(avatar.circle.a) * avatar.circle.r;
+      avatar.y = avatar.circle.cy + Math.sin(avatar.circle.a) * avatar.circle.r;
+
+      const half = avatar.size * 0.5;
+      const minX = half;
+      const maxX = window.innerWidth - half;
+      const minY = half;
+      const maxY = window.innerHeight - half;
+
+      if (avatar.x < minX || avatar.x > maxX || avatar.y < minY || avatar.y > maxY) {
+        avatar.x = clamp(avatar.x, minX, maxX);
+        avatar.y = clamp(avatar.y, minY, maxY);
+        avatar.circle.cx = clamp(
+          avatar.x + rand(-90, 90),
+          half,
+          window.innerWidth - half
+        );
+        avatar.circle.cy = clamp(
+          avatar.y + rand(-90, 90),
+          half,
+          window.innerHeight - half
+        );
+        avatar.circle.w = clamp(rand(0.85, 2.4) * (Math.random() < 0.5 ? -1 : 1), -2.8, 2.8);
+        avatar.circle.a = rand(0, Math.PI * 2);
+        avatar.distanceSinceTurn = 0;
+        avatar.nextTurnDistance = rand(90, 260);
+      }
+
+      avatar.x = Math.min(maxX, Math.max(minX, avatar.x));
+      avatar.y = Math.min(maxY, Math.max(minY, avatar.y));
+
+      const moved = Math.hypot(avatar.x - prevX, avatar.y - prevY);
+      avatar.distanceSinceTurn += moved;
+      if (avatar.distanceSinceTurn >= avatar.nextTurnDistance) {
+        avatar.circle.w *= rand(0.82, 1.2);
+        avatar.circle.w = clamp(avatar.circle.w, -2.7, 2.7);
+        if (Math.random() < 0.25) avatar.circle.w *= -1;
+        avatar.circle.r = clamp(avatar.circle.r * rand(0.86, 1.16), 38, Math.min(window.innerWidth, window.innerHeight) * 0.26);
+        avatar.speed = clamp(avatar.speed * rand(0.9, 1.14), MIN_AVATAR_SPEED, MAX_AVATAR_SPEED);
+        avatar.distanceSinceTurn = 0;
+        avatar.nextTurnDistance = rand(90, 260);
+      }
+      return moved;
+    }
+
+    function updatePauseState(avatar, dt, moved) {
+      if (avatar.pauseRemaining > 0) {
+        avatar.pauseRemaining -= dt;
+        if (avatar.pauseRemaining < 0) avatar.pauseRemaining = 0;
+        return true;
+      }
+
+      avatar.distanceSincePause += moved;
+      if (avatar.distanceSincePause >= avatar.nextPauseDistance) {
+        avatar.distanceSincePause = 0;
+        avatar.nextPauseDistance = rand(260, 620);
+        if (Math.random() < 0.24) {
+          avatar.pauseRemaining = rand(0.22, 1.05);
+          return true;
+        }
+      }
+      return false;
+    }
+
+    function drawTrail(avatar) {
+      const pts = avatar.trailHistory;
+      if (pts.length < 2) return;
+
+      const baseWidth = Math.max(6, avatar.size * 0.2);
+      ctx.lineCap = "round";
+      ctx.lineJoin = "round";
+      for (let i = 1; i < pts.length; i += 1) {
+        const t = i / (pts.length - 1);
+        const alpha = 0.06 + (0.78 * t);
+        const width = baseWidth * (0.42 + (0.58 * t));
+        ctx.strokeStyle = `rgba(${avatar.trailRgb.r}, ${avatar.trailRgb.g}, ${avatar.trailRgb.b}, ${alpha.toFixed(3)})`;
+        ctx.lineWidth = width;
+        ctx.beginPath();
+        ctx.moveTo(pts[i - 1].x, pts[i - 1].y);
+        ctx.lineTo(pts[i].x, pts[i].y);
+        ctx.stroke();
+      }
+    }
+
+    function updateTrail(avatar, moved) {
+      if (moved < 0.55) return;
+      const maxPoints = Math.round(56 + avatar.size * 0.72);
+      avatar.trailHistory.push({ x: avatar.x, y: avatar.y });
+      if (avatar.trailHistory.length > maxPoints) {
+        avatar.trailHistory.splice(0, avatar.trailHistory.length - maxPoints);
+      }
+    }
+
+    function tick(ts) {
+      if (!lastTs) lastTs = ts;
+      const dt = Math.min((ts - lastTs) / 1000, 0.04);
+      lastTs = ts;
+
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      for (const avatar of avatars) {
+        if (!avatar.alive) continue;
+        if (updatePauseState(avatar, dt, 0)) {
+          positionAvatar(avatar);
+          continue;
+        }
+
+        let moved = 0;
+        if (avatar.mode === "circle") moved = updateCircle(avatar, dt);
+        else moved = updateRandom(avatar, dt);
+
+        updatePauseState(avatar, dt, moved);
+        updateTrail(avatar, moved);
+        positionAvatar(avatar);
+      }
+
+      for (const avatar of avatars) {
+        if (!avatar.alive) continue;
+        drawTrail(avatar);
+      }
+
+      requestAnimationFrame(tick);
+    }
+
+    function addAvatar() {
+      if (avatars.length >= MAX_AVATARS) {
+        updateStatus("Max 4 avatars reached.");
+        return;
+      }
+      makeAvatar();
+    }
+
+    function deleteAvatar() {
+      if (avatars.length <= MIN_AVATARS) {
+        updateStatus("At least 1 avatar must stay.");
+        return;
+      }
+      const avatar = randItem(avatars);
+      removeAvatar(avatar);
+    }
+
+    function slowDown() {
+      speedMultiplier = Math.max(MIN_SPEED_MULT, speedMultiplier * 0.82);
+      updateStatus(`Speed x${speedMultiplier.toFixed(2)}`);
+    }
+
+    function speedUp() {
+      speedMultiplier = Math.min(MAX_SPEED_MULT, speedMultiplier * 1.2);
+      updateStatus(`Speed x${speedMultiplier.toFixed(2)}`);
+    }
+
+    function changeAvatarAsset() {
+      const target = randItem(avatars);
+      if (!target) return;
+      target.asset = randItem(ASSETS);
+      target.trailRgb = hexToRgb(target.asset.trail);
+      target.el.querySelector("img").src = target.asset.cleanSrc || target.asset.file;
+      target.el.querySelector("img").alt = target.asset.name;
+      target.el.title = target.asset.name;
+      updateStatus(`${target.asset.name} selected.`);
+    }
+
+    function updateStatus(extra = "") {
+      const base = `Avatars: ${avatars.length} | Speed: x${speedMultiplier.toFixed(2)}`;
+      statusLine.textContent = extra ? `${base} | ${extra}` : base;
+    }
+
+    settingsToggle.addEventListener("click", () => {
+      settingsPanel.classList.toggle("open");
+      settingsToggle.textContent = settingsPanel.classList.contains("open") ? "Settings ▾" : "Settings ▸";
+    });
+
+    document.getElementById("hideBar").addEventListener("click", () => {
+      settingsPanel.classList.remove("open");
+      settingsToggle.textContent = "Settings ▸";
+    });
+
+    document.getElementById("addAvatar").addEventListener("click", addAvatar);
+    document.getElementById("removeAvatar").addEventListener("click", deleteAvatar);
+    document.getElementById("slowDown").addEventListener("click", slowDown);
+    document.getElementById("speedUp").addEventListener("click", speedUp);
+    document.getElementById("changeAvatar").addEventListener("click", changeAvatarAsset);
+
+    window.addEventListener("resize", () => {
+      resizeCanvas();
+      for (const avatar of avatars) {
+        const half = avatar.size * 0.5;
+        avatar.x = Math.min(window.innerWidth - half, Math.max(half, avatar.x));
+        avatar.y = Math.min(window.innerHeight - half, Math.max(half, avatar.y));
+        avatar.circle.cx = Math.min(window.innerWidth - half, Math.max(half, avatar.circle.cx));
+        avatar.circle.cy = Math.min(window.innerHeight - half, Math.max(half, avatar.circle.cy));
+        positionAvatar(avatar);
+      }
+    });
+
+    (async () => {
+      applyRandomBackground();
+      resizeCanvas();
+      await preloadTransparentAssets();
+      makeAvatar();
+      updateStatus();
+      requestAnimationFrame(tick);
+    })().catch(() => {
+      resizeCanvas();
+      makeAvatar();
+      updateStatus();
+      requestAnimationFrame(tick);
+    });
+  </script>
+</body>
+
+</html>
